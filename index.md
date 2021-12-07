@@ -14,7 +14,7 @@
 
 **Some of my other work**
 
-- [srghma-chinese.github.io](https://srghma-chinese.github.io) (No, I still don't know chinese)
+- [srghma-chinese.github.io](https://srghma-chinese.github.io), repo https://github.com/srghma-chinese/srghma-chinese.github.io (No, I still don't know chinese)
 
 ―――――――――――――――――――――――――――――――
 
