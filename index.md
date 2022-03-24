@@ -4,8 +4,6 @@
 
 ## My work
 
-[All my notes and books (with and without notes)](https://drive.google.com/drive/folders/19N_sjpt1kCzW9cgJItEoZgfgm6YOOJtn?usp=sharing)
-
 #### Interesting notes
 
 - Deep learning
