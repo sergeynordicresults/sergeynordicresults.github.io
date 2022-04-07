@@ -1,7 +1,7 @@
 # !!!What to do with a war!!!
 
 For people inside of Russia: 
-- https://twitter.com/srghma/status/1498244965780045828
+- https://twitter.com/srghma/status/1498244965780045828 - get an axe
 - put recruiting stations on fire
 - put politician properties on fire (without damaging people of course)
 - ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - better to kill)
@@ -36,7 +36,10 @@ Clash of thoghts create a truth.
 
 # !!!IF you think war is cool!!!
 
-Check what is a Milgrem experiment, there is a 80% chance that you are a monster, that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance, that You would be a nazi in nazi Germany (I would)
+Check what is a Milgrem experiment
+1. there is a 80% chance that you are a monster
+2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
+3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
 
 > "We should ask not why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
 
@@ -44,18 +47,19 @@ Check what is a Milgrem experiment, there is a 80% chance that you are a monster
 
 > "The only thing that makes us different from animals is a knowledge" (Nevzorov)
 
+> its evolution, the strongest survives - This is a cynicism, a shit will happen in your life and you will change your thoughts
+ 
 -------------------
 
-
-
-![4dae443a-02a3-4d57-ba29-2fd8f0a6a18d](https://user-images.githubusercontent.com/7573215/162336069-608168ec-538d-4f14-8d90-af4aebd2f932.jpeg)
-
+<img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
 
 -------------------
 
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
+- https://twitter.com/srghma
+- https://github.com/srghma
 
 ## My work
 
@@ -72,6 +76,8 @@ Check what is a Milgrem experiment, there is a 80% chance that you are a monster
 #### Some of my other work
 
 - [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io) (No, I still don't know chinese)
+
+-------------------
 
 ## My view on this universe
 
@@ -91,7 +97,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
 P.S.
 
-If God from Bible is laws of universe, then hell and heaven are a memory of people.
+If God from Bible is laws of universe, then hell and heaven is a memory of people.
 
 ###### Why souls dont exist:
 
