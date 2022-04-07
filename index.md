@@ -1,3 +1,58 @@
+# !!!What to do with a war!!!
+
+For people inside of Russia: 
+- https://twitter.com/srghma/status/1498244965780045828
+- put recruiting stations on fire
+- put politician properties on fire (without damaging people of course)
+- ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - better to kill)
+
+For children that were sent on a war without knowing:
+- surrender (we treat You as a proper Euro-country, check Arestovich youtube channel, there is an ORDER for us to do this)
+- OR go to any ukrainian house, we are your bothers, we will give you food and shelter
+
+For people from other countries:
+- more sanctions - they will not go to streets unless hungry (I wouldnt)
+- ITS POSSIBLE THAT NONE UKRAINIAN WILL DIE ANYMORE - we just need more planes to "close the air" (intercept missiles)
+
+# !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru)
+
+send me an email to srghma@gmail.com, I want to know what You know!
+
+lets have a meeting in google-meets or zoom.
+
+Clash of thoghts create a truth.
+
+> Zelensky would attack first? maybe
+
+> Bucha is fake? maybe
+
+> People in Donetsk dont want to be in Ukraine? maybe
+
+> People in Donetsk are killed by Ukrainian military? maybe
+
+> Russian language is banned in Ukraine? maybe
+
+> All ukrainians are pro-Bandera => nazis (think that all other nations should die)? maybe
+
+# !!!IF you think war is cool!!!
+
+Check what is a Milgrem experiment, there is a 80% chance that you are a monster, that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance, that You would be a nazi in nazi Germany (I would)
+
+> "We should ask not why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
+
+> "You can justify any atrocity" (Jordan Peterson)
+
+> "The only thing that makes us different from animals is a knowledge" (Nevzorov)
+
+-------------------
+
+
+
+![4dae443a-02a3-4d57-ba29-2fd8f0a6a18d](https://user-images.githubusercontent.com/7573215/162336069-608168ec-538d-4f14-8d90-af4aebd2f932.jpeg)
+
+
+-------------------
+
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
@@ -22,9 +77,21 @@
 
 #### (Why I act as if) God doesn't exist
 
-(from "God as illusion" by Charles Dockins) The atheist is the one that gives 99% probability that god doesnt exist. I am an atheist by this definition.
+(from "God as illusion" by Charles Dockins) 
 
-We cannot prove that god doesnt exist, BUT we can prove that souls dont exist.
+The atheist is the one that gives 99% probability that god doesnt exist. I am an atheist by this definition.
+
+We cannot prove that god doesnt exist, BUT we can prove that souls dont exist (later).
+
+We also know how life was created (self-replicating molecules-robots that have been created, created and will be created RANDOMLY)
+
+We dont know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
+
+Thus, god is an extra variable to a function that works fine without extra variable.
+
+P.S.
+
+If God from Bible is laws of universe, then hell and heaven are a memory of people.
 
 ###### Why souls dont exist:
 
