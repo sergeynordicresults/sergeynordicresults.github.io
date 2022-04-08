@@ -49,8 +49,9 @@ We will not steal TV. We are not hungry.
 
 We will not rape 10 y.o. girls - there is no kadirovtzev amongst us.
 
-We are not under regime of psychopath
+We are not under regime of psychopath.
 
+P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я) 
 </details>
 
 > Bucha is fake? maybe
