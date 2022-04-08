@@ -359,28 +359,28 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
 2. (mine) souls don't exist because the teleportation is possible
 
-  By this I mean that there is NOTHING in physics that disallows us to:
+By this I mean that there is NOTHING in physics that disallows us to:
 
-    a. (in place A) scan a body of a human for "position" and "type" of each atom
-    b. transfer this information to place B
-    c. make a copy of human body from atoms from the air
-    d. destroy original body (without this the process would be called a "cloning")
+  a. (in place A) scan a body of a human for "position" and "type" of each atom
+  b. transfer this information to place B
+  c. make a copy of human body from atoms from the air
+  d. destroy original body (without this the process would be called a "cloning")
 
 <details><pre>
-  I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
+I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
 
-  NOTE that teleporation is not like a quantum teleporation of electrons
+NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
 
-  so IF you will NOT destroy original body (step `d`) THEN
+so IF you will NOT destroy original body (step `d`) THEN
 
   a. did the original soul devide to two souls?
-
   b. or now the original soul operates two bodies from a heaven????
 
-  NO, souls don't exist! Use Occam's razor!
+NO, souls don't exist! Use Occam's razor!
 
-  Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+
 
 4. (Sam Harris proof) souls don't exist because you can devide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
