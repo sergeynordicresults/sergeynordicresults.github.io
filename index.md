@@ -58,8 +58,8 @@ Check what is a Milgrem experiment
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
-- https://twitter.com/srghma
-- https://github.com/srghma
+- [twitter.com/srghma](https://twitter.com/srghma)
+- [github.com/srghma](https://github.com/srghma)
 
 ## My work
 
