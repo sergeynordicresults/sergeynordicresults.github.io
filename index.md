@@ -22,7 +22,15 @@ lets have a meeting in google-meets or zoom.
 
 Clash of thoghts create a truth.
 
-> Zelensky would attack first? maybe
+> Zelensky/NATO would attack first? maybe
+
+<details>
+Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
+
+Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
+
+А вы обосрались
+</details>
 
 > Bucha is fake? maybe
 
@@ -33,6 +41,16 @@ Clash of thoghts create a truth.
 > Russian language is banned in Ukraine? maybe
 
 > All ukrainians are pro-Bandera => nazis (think that all other nations should die)? maybe
+
+> "Azov" military division is Nazis? Maybe
+
+<details>
+But Nevzorov tells that he have talked with them.
+
+"Maybe they were - but now I don't care, they are on a side of light"
+</details>
+
+> USSR was great, we want to USSR, because right now we are slaves for rich people? maybe
 
 # !!!IF you think war is cool!!!
 
