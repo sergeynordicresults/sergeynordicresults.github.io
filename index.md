@@ -334,7 +334,9 @@ what was before your life, nothing
 
 #### Who we are in this universe
 
-From ["Cosmology and the arrow of time: Sean Carroll at TEDxCaltech"](https://www.youtube.com/watch?v=WMaTyg8wR4Y) and most importantly ["Sean Carroll | The Passage of Time & the Meaning of Life"](https://www.youtube.com/watch?v=7BH6XCRZad8)
+From:
+1. ["Cosmology and the arrow of time: Sean Carroll at TEDxCaltech"](https://www.youtube.com/watch?v=WMaTyg8wR4Y)
+2. and most importantly ["Sean Carroll - The Passage of Time & the Meaning of Life"](https://www.youtube.com/watch?v=7BH6XCRZad8)
 
 ```
 We are a little tornados in a cup on a border of coffee and milk when they are mixed together
