@@ -65,7 +65,7 @@ Clash of thoghts create a truth.
 
 заметь, я против чтобы Украина нападала чтобы вернуть ДНР и Крым, нападающий всегда в проигрыше.
 
-А возможно и лучше будет чтобы вернула, чтобы на телевидении показывали не только российское телевидение, чтобы отстроили дороги, чтобы прекратились пытки которые вы там проводите (сайт миротворец).
+А возможно и лучше будет чтобы Украина вернула территории, чтобы на телевидении показывали не только российское телевидение, чтобы отстроили дороги, чтобы прекратились пытки которые вы там проводите (сайт миротворец).
 
 Чтобы люди проголосовали, название какой страны они хотят чтобы имела их территория.
 
@@ -73,7 +73,7 @@ The difference is HOW Ukrainian army will do this.
 
 We will not steal TV. We are not hungry.
 
-We will not rape 10 y.o. girls - there is no kadirovtzev amongst us.
+We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) amongst us.
 
 We are not under regime of psychopath.
 
@@ -90,7 +90,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
 > Russian language is banned in Ukraine? maybe
 
-> All ukrainians are pro-Bandera => nazis (think that all other nations should die)? maybe
+> "All ukrainians are pro-Bandera" => nazis (think that all other nations should die)? maybe
 
 > "Azov" military division is Nazis? Maybe
 
@@ -102,9 +102,9 @@ But Nevzorov tells that he have talked with them.
  </pre>
 </details>
 
-> USSR was great, we want to be in USSR, because right now we are slaves for rich people? maybe
+> "USSR was great, we want to be in USSR, because right now we are slaves for rich people"? maybe
 
-> Russia have won, Ukraine will not become a part of NATO
+> "Russia have won, Ukraine will not become a part of NATO anymore"
 
 <details>
  <pre>
@@ -120,9 +120,9 @@ We will be able to live in any Europe country without changing citizenship (only
  </pre>
 </details>
 
-> Putin is a nice guy
+> "Putin is a nice guy"
 
-> We do the same that USA did in Siria
+> "We do the same that USA did in Siria. Why dont you reprimand USA instead?"
 
 # !!!IF you think war is cool!!!
 
