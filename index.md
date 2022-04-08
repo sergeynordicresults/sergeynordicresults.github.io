@@ -7,7 +7,7 @@ For people inside of Russia:
 - ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
 
 For children that were sent on a war without knowing:
-- surrender (we treat You as a proper Euro-country, check Arestovich youtube channel, there is an ORDER for us to do this)
+- surrender (we treat You as a proper Euro-country, check Arestovich youtube channel, there is an ORDER for us to do this, for my people that think differently - each time Russians see video of our military not behaving well - another 1% is converted to evil)
 - OR go to any ukrainian house, we are your bothers, we will give you food and shelter
 
 For people from other countries:
@@ -30,6 +30,27 @@ Clash of thoghts create a truth.
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
 
 А вы обосрались
+
+Вы напали потому что боялись что через 3 года мы попытаемся вернуть территории?
+
+1. Вам можно усиливать оборону а нам нельзя
+2. Вам можно нападать а нам нельзя
+3. Вам можно иметь атомное оружие, а нам нельзя (я против)
+
+заметь, я против чтобы Украина нападала чтобы вернуть ДНР и Крым, нападающий всегда в проигрыше.
+
+А возможно и лучше будет чтобы вернула, чтобы на телевидении показывали не только российское телевидение, чтобы отстроили дороги, чтобы прекратились пытки которые вы там проводите (сайт миротворец).
+
+Чтобы люди проголосовали, название какой страны они хотят чтобы имела их территория.
+
+The difference is HOW Ukrainian army will do this.
+
+We will not steal TV. We are not hungry.
+
+We will not rape 10 y.o. girls - there is no kadirovtzev amongst us.
+
+We are not under regime of psychopath
+
 </details>
 
 > Bucha is fake? maybe
@@ -51,6 +72,24 @@ But Nevzorov tells that he have talked with them.
 </details>
 
 > USSR was great, we want to USSR, because right now we are slaves for rich people? maybe
+
+> Russia have won, Ukraine will not become a part of NATO
+
+<details>
+Thanks to Russia
+
+We now have something better than NATO, 3 days instead of 60
+
+https://m.youtube.com/watch?v=_AHt79TlZ7k
+
+Also we will become a EURO-country
+
+We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
+</details>
+
+> Putin is a nice guy
+
+> We do the same that USA did in Siria
 
 # !!!IF you think war is cool!!!
 
