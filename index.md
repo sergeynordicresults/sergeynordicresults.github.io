@@ -53,7 +53,7 @@ For children that were sent on a war without knowing:
   1. we treat You as a proper Euro-country
   2. check Arestovich youtube channel, there is an ORDER for us to do this
   3. for my people that think differently: each time russian people see video of our military not behaving well - another 1% is converted to evil
-  4. every prisoner is another proof of atrocities (1. [Сержант Дамбаев Чингиз Тумунович "Я испугался и ВЫСТРЕЛИЛ В МИРНОГО УКРАИНЦА"](https://youtu.be/kzxtQPUVa4M?t=1844), 2. [это вранье, у них все хорошо было, 2я минута](https://www.facebook.com/glavnoenet/videos/1046186079293277/), 3. [every interview on this channel is gold](https://www.youtube.com/shorts/pirFV9H5IoM))
+  4. every prisoner is another proof of atrocities (1. [Сержант Дамбаев Чингиз Тумунович "Я испугался и ВЫСТРЕЛИЛ В МИРНОГО УКРАИНЦА"](https://youtu.be/kzxtQPUVa4M?t=1844), 2. ["это вранье, у них все хорошо было, 2я минута"](https://www.facebook.com/glavnoenet/videos/1046186079293277/), 3. [видео из канала "Ищи своих"](https://www.youtube.com/shorts/pirFV9H5IoM))
 - OR go to any ukrainian house, we are your bothers, we will give you food and shelter
 
 For people from other countries:
