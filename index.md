@@ -52,9 +52,8 @@ lets have a meeting in google-meets or zoom.
 
 Clash of thoghts create a truth.
 
-<details>
+<blockquote><details><summary>Zelensky/NATO would attack first? maybe</summary><pre>
 
-<summary><blockquote><p>Zelensky/NATO would attack first? maybe</p></blockquote></summary><pre>
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
@@ -84,34 +83,45 @@ We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) am
 We are not under regime of psychopath.
 
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя)
-</pre></details>
+</pre></details></blockquote>
 
-> Bucha is fake? maybe
+> "Bucha is fake"
 
-> People in Donetsk dont want to be in Ukraine? maybe
+<blockquote><details><summary>"Russian soldiers are best"</summary><pre>
 
-<details><pre>
- IN MY CITY-VILLIAGE some people WERE pro-"russian liberation" (old people),
- they are not anymore
-</pre></details>
+1. video "Мариуполь. Оккупанты не стесняются и фиксируют свои военные преступления."
+2. video "В Буче русский военный расстрелял мужчину на глазах у его 14-летнего сына"
+3. "Белорусские СМИ выложили видео, как российские оккупанты на почте оформляют награбленное из Украины"
+4. ["Разговор русского военного с женой"](https://www.youtube.com/watch?v=TTnVGyNvNTg)
+5. https://firstregion.com.ua/novyny-hersonshhyny/v-herson-pryvezly-massovku-dlya-provedenyya-fejkov%D1%8Bh-mytyngov/
+
+</pre></details></blockquote>
+
+<blockquote><details><summary>People in Donetsk dont want to be in Ukraine? maybe</summary><pre>
+ IN MY CITY: some people WERE pro-"russian liberation" (old people), they are not anymore
+
+ https://www.youtube.com/watch?v=VUwXnBDOmeY - I think THIS is fake
+</pre></details></blockquote>
 
 > People in Donetsk are killed by Ukrainian military? maybe
 
-> Russian language is banned in Ukraine? maybe
-
-<details><pre>
+<blockquote><details><summary>Russian language is banned in Ukraine? maybe</summary><pre>
  My view: I'm from Rodynskoye Donetsk oblast
 
  Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
 
- > the 1/3 of a country knows only russian language, it's discrimination
+ > the 1/3 of a country knows only russian language, it's a discrimination
 
  In my city I dont know ANYONE who doesnt know ukrainian
 
  I AM:
+
  1. I THINK in a russian language
  2. I DIDNT like ukrainian langauge (language of villigies)
- 3. NOW I do like it (because of Bucha, because блять is not a ukrainian word, Onuka - "its cleaner", because we separate кохання and любов)
+ 3. NOW I do like it
+    a. because of Bucha, because блять is not a ukrainian word)
+    b. because ukrainian separates кохання and любов
+    c. Onuka "украинский для меня, как дорогое праздничное платье, которое я надеваю только на праздники"
 
  I THINK:
 
@@ -120,23 +130,19 @@ P.S. в "классное" время мы живем, брат может оп�
  The country is in charge of preserving a language
 
  IF you are AGAINST of making ukr lang a main language in schools THEN go away to Russia and live under putin
-</pre></details>
+</pre></details></blockquote>
 
 > "All ukrainians are pro-Bandera" => nazis (think that all other nations should die)? maybe
 
-> "Azov" military division is Nazis? Maybe
-
-<details><pre>
+<blockquote><details><summary>"Azov" military division is Nazis? Maybe</summary><pre>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
-</pre></details>
+</pre></details></blockquote>
 
 > "USSR was great, we want to be in USSR, because right now we are slaves for rich people"? maybe
 
-> "Russia have won, Ukraine will not become a part of NATO anymore"
-
-<details><pre>
+<blockquote><details><summary>"Russia have won, Ukraine will not become a part of NATO anymore"</summary><pre>
 Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
@@ -146,27 +152,23 @@ https://m.youtube.com/watch?v=_AHt79TlZ7k
 Also we will become a EURO-country
 
 We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
-</pre></details>
+</pre></details></blockquote>
 
-> "Putin is a nice guy"
-
-<details><pre>
+<blockquote><details><summary>"Putin is a nice guy"</summary><pre>
 film "Недоверие" / Russian apartment bombings in September 1999 - Putin ordered FSB to bomb buildings of ordinary russian people to start a war with Chechnya
 
 https://youtu.be/ipAnwilMncI - Putin's palace. History of world's largest bribe
 
 https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tells HOW he was putting poison on a trousers
-</pre></details>
+</pre></details></blockquote>
 
 > "IF putin was a bad guy THEN the damage would be even greater"
 
-> "Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"
-
-<details><pre>
+<blockquote><details><summary>"Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"</summary><pre>
 Nevzorov: putin had a LOT of time to make russia great
 
 Jordan Peterson: If You want to understand the MEANING of actions, You should see a RESULT. RESULT is a MEANING
-</pre></details>
+</pre></details></blockquote>
 
 > "We do the same that USA did in Siria. Why wont you reprimand USA instead?"
 
@@ -174,9 +176,7 @@ Jordan Peterson: If You want to understand the MEANING of actions, You should se
 
 > "If we started a war, we should finish it. Stupid to retreat now."
 
-> "I dont want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he die."
-
-<details><pre>
+<blockquote><details><summary>"I dont want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he die."</summary><pre>
 WHY WE DID live bad?
 
 I dont know WHY the revolution 2014 started.
@@ -197,23 +197,19 @@ BUT with ZELENSKY we lived MUUUUCH better:
 2. the Дiя ("Action") application
 3. investments from other countries
 
-</pre></details>
+</pre></details></blockquote>
 
-> "No, russians should not surrender, Ukrainians will kill them"
-
-<details><pre>
+<blockquote><details><summary>"No, russians should not surrender, Ukrainians will kill them"</summary><pre>
 yes, after Bucha some ukrainian militarists dont want to take prisoners anymore (I think this is wrong)
 
 BUT:
 - https://www.youtube.com/watch?v=GixuoTMXwWM - dont bully the prisoners
 - https://www.youtube.com/watch?v=3_cfpbAif1Q - dont put ammunition in a lard
 - https://www.youtube.com/watch?v=eS_rYu8ffrg&t=1500s - prisoner in an interrogation
-</pre></details>
+</pre></details></blockquote>
 
 
-> "What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"
-
-<details><pre>
+<blockquote><details><summary>"What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"</summary><pre>
 there is a way to rotate politicians more often / throw off dictators BEFORE they do wrong:
 
 electronic voting on blockchain
@@ -223,7 +219,7 @@ fair, cant be faked
 this is a next big technology that will revolutionize human race
 
 it's already possible
-</pre></details>
+</pre></details></blockquote>
 
 
 # !!!IF you think war is cool!!!
@@ -342,7 +338,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
   NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
 
-  SO: IF you will NOT destroy original body (step `d`) THEN
+  SO IF you will NOT destroy original body (step `d`) THEN
 
   a. did the original soul devide to two souls?
 
