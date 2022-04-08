@@ -32,7 +32,12 @@ For people inside of Russia:
 - ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
 
 For children that were sent on a war without knowing:
-- surrender (we treat You as a proper Euro-country, check Arestovich youtube channel, there is an ORDER for us to do this, for my people that think differently - each time Russians see video of our military not behaving well - another 1% is converted to evil)
+- surrender
+
+  1. we treat You as a proper Euro-country
+  2. check Arestovich youtube channel, there is an ORDER for us to do this
+  3. for my people that think differently - each time russian people see video of our military not behaving well - another 1% is converted to evil
+
 - OR go to any ukrainian house, we are your bothers, we will give you food and shelter
 
 For people from other countries:
@@ -49,8 +54,7 @@ Clash of thoghts create a truth.
 
 > Zelensky/NATO would attack first? maybe
 
-<details>
- <pre>
+<details><pre>
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
@@ -59,15 +63,17 @@ Clash of thoghts create a truth.
 
 Вы напали потому что боялись что через 3 года мы попытаемся вернуть территории?
 
-1. Вам можно усиливать оборону а нам нельзя
-2. Вам можно нападать а нам нельзя
-3. Вам можно иметь атомное оружие, а нам нельзя (я против)
+1. Вам можно усиливать оборону а нам нельзя?
+2. Вам можно нападать а нам нельзя?
+3. Вам можно иметь атомное оружие, а нам нельзя? (я против)
 
-заметь, я против чтобы Украина нападала чтобы вернуть ДНР и Крым, нападающий всегда в проигрыше.
+Заметь, я против чтобы Украина нападала чтобы вернуть ДНР и Крым, нападающий всегда в проигрыше.
 
-А возможно и лучше будет чтобы Украина вернула территории, чтобы на телевидении показывали не только российское телевидение, чтобы отстроили дороги, чтобы прекратились пытки которые вы там проводите (сайт миротворец).
-
-Чтобы люди проголосовали, название какой страны они хотят чтобы имела их территория.
+А хотя не знаю - возможно будет лучше чтобы Украина вернула территории
+1. чтобы на телевидении показывали не только российское телевидение
+2. чтобы отстроили дороги
+3. чтобы прекратились пытки которые вы там проводите (сайт миротворец)
+4. чтобы люди проголосовали, название какой страны они хотят чтобы имела их территория. (мне все равно за название, я гражданин мира, и только потом - Украины)
 
 The difference is HOW Ukrainian army will do this.
 
@@ -78,36 +84,59 @@ We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) am
 We are not under regime of psychopath.
 
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя)
- </pre>
-
-</details>
+</pre></details>
 
 > Bucha is fake? maybe
 
 > People in Donetsk dont want to be in Ukraine? maybe
 
+<details><pre>
+ IN MY CITY-VILLIAGE some people WERE pro-"russian liberation" (old people),
+ they are not anymore
+</pre></details>
+
 > People in Donetsk are killed by Ukrainian military? maybe
 
 > Russian language is banned in Ukraine? maybe
+
+<details><pre>
+ My view: I'm from Rodynskoye Donetsk oblast
+
+ Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
+
+ > the 1/3 of a country knows only russian language, it's discrimination
+
+ In my city I dont know ANYONE who doesnt know ukrainian
+
+ I AM:
+ 1. I THINK in a russian language
+ 2. I DIDNT like ukrainian langauge (language of villigies)
+ 3. NOW I do like it (because of Bucha, because блять is not a ukrainian word, Onuka - "its cleaner", because we separate кохання and любов)
+
+ I THINK:
+
+ Ukrainian langauge WAS in danger of extinction (after Bucha - not anymore).
+
+ The country is in charge of preserving a language
+
+ IF you are AGAINST of making ukr lang a main language in schools THEN go away to Russia and live under putin
+</pre></details>
 
 > "All ukrainians are pro-Bandera" => nazis (think that all other nations should die)? maybe
 
 > "Azov" military division is Nazis? Maybe
 
-<details>
- <pre>
+<details><pre>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
- </pre>
-</details>
+</pre></details>
 
 > "USSR was great, we want to be in USSR, because right now we are slaves for rich people"? maybe
 
 > "Russia have won, Ukraine will not become a part of NATO anymore"
 
-<details>
- <pre>
+<details><pre>
 Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
@@ -117,18 +146,58 @@ https://m.youtube.com/watch?v=_AHt79TlZ7k
 Also we will become a EURO-country
 
 We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
- </pre>
-</details>
+</pre></details>
 
 > "Putin is a nice guy"
 
+<details><pre>
+film "Недоверие" / Russian apartment bombings in September 1999 - Putin ordered FSB to bomb buildings of ordinary russian people to start a war with Chechnya
+
+https://youtu.be/ipAnwilMncI - Putin's palace. History of world's largest bribe
+
+https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tells HOW he was putting poison on a trousers
+</pre></details>
+
 > "IF putin was a bad guy THEN the damage would be even greater"
+
+> "Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"
+
+<details><pre>
+Nevzorov: he had a LOT of time to make russia great
+
+Jordan Peterson: If You want to understand the MEANING of actions, You should see a RESULT. RESULT IS A MEANING
+</pre></details>
 
 > "We do the same that USA did in Siria. Why wont you reprimand USA instead?"
 
 > "We didnt take Crimea, russian military was there already always. We just changed a name from `Autonomous republic` to `Republic`"
 
-> "If we started, we should finish. Stupid to retreat now."
+> "If we started a war, we should finish it. Stupid to retreat now."
+
+> "I dont want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he die."
+
+<details><pre>
+FROM MY PERSPECTIVE:
+
+I dont know WHY the revolution 2014 started.
+I heard people were agains Yanukovich. (RIGHT NOW - I am against him too, he is a thief from Donetsk)
+
+next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukraine, US to Putin
+</pre></details>
+
+> "No, russians should not surrender, Ukrainians will kill them"
+
+<pre><details>
+yes, after Bucha some ukrainian militarists dont want to take prisoners anymore (I think this is wrong)
+
+BUT:
+- https://www.youtube.com/watch?v=GixuoTMXwWM - dont bully the prisoners
+- https://www.youtube.com/watch?v=3_cfpbAif1Q - dont put ammunition in a lard
+- https://www.youtube.com/watch?v=eS_rYu8ffrg&t=1500s - prisoner in an interrogation
+</pre></details>
+
+
+> "What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"
 
 # !!!IF you think war is cool!!!
 
@@ -143,7 +212,9 @@ Check what is a Milgrem experiment
 
 > "The only thing that makes us different from animals is a knowledge" (Nevzorov)
 
-> its evolution, the strongest survives - This is a cynicism, a shit will happen in your life and you will change your thoughts
+> its evolution, the strongest survives
+
+- This is a cynicism, a shit will happen in your life and you will change your thoughts
 
 -------------------
 
@@ -250,7 +321,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
   SO: IF you will NOT destroy original body (step `d`) THEN
 
   a. did the original soul devide to two souls?
-  
+
   b. or now the original soul operates two bodies from a heaven????
 
   NO, souls dont exist! Use Occam's razor!
@@ -294,3 +365,4 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 > Too much order - tyranny, too little - chaos. (Jordan Peterson)
 
 > It's harder to write a poem without "rules/order" or "starting point".
+
