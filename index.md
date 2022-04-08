@@ -187,7 +187,7 @@ next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukra
 
 > "No, russians should not surrender, Ukrainians will kill them"
 
-<pre><details>
+<details><pre>
 yes, after Bucha some ukrainian militarists dont want to take prisoners anymore (I think this is wrong)
 
 BUT:
@@ -198,6 +198,19 @@ BUT:
 
 
 > "What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"
+
+<details><pre>
+there is a way to rotate politicians more often / throw off dictators BEFORE they do wrong:
+
+electronic voting on blockchain
+
+fair, cant be faked
+
+this is a next big technology that will revolutionize human race
+
+it's already possible
+</pre></details>
+
 
 # !!!IF you think war is cool!!!
 
@@ -263,8 +276,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
 1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
 
-<details>
-  <pre>
+<details><pre>
     "Human-like" neural network works like this:
 
     a. each "axon" is just a number from 0.0 to 1.0 (represented as a data, a number, it really exists, not virtual, not only in code, and can be updated, this is a memory)
@@ -310,13 +322,11 @@ Thus, god is an extra variable to a function that works fine without extra varia
     c. make a copy of human body from atoms from the air
     d. destroy original body (without this the process would be called a "cloning")
 
-<details>
- <pre>
+<details><pre>
   I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, dont remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
 
   NOTE that teleporation is not like a quantum teleporation of electrons
-  </pre>
-</details>
+</pre></details>
 
   SO: IF you will NOT destroy original body (step `d`) THEN
 
