@@ -230,7 +230,7 @@ it's already possible
 
 # !!!IF you think war is cool!!!
 
-Check what is a Milgrem experiment
+Check what is a Milgram experiment
 1. there is a 80% chance that you are a monster
 2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
 3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
@@ -319,7 +319,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
   NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
 
-  SO IF you will NOT destroy original body (step `d`) THEN
+  so IF you will NOT destroy original body (step `d`) THEN
 
   a. did the original soul devide to two souls?
 
