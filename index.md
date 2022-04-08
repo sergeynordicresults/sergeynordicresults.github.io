@@ -81,7 +81,7 @@ Check what is a Milgrem experiment
 
 ## My view on this universe
 
-#### (Why I act as if) God doesn't exist
+#### (Why I act as if) God doesn't exist (I mean dont belive in religion and prayers)
 
 (from "God as illusion" by Charles Dockins) 
 
@@ -95,9 +95,6 @@ We dont know why universe was created, but there is an Anthropic principle (we a
 
 Thus, god is an extra variable to a function that works fine without extra variable.
 
-P.S.
-
-If God from Bible is laws of universe, then hell and heaven is a memory of people.
 
 ###### Why souls dont exist:
 
@@ -175,5 +172,21 @@ We are a little tornados in a cup on a border of coffee and milk when they are m
 2. coffee and milk starts to mix - human civilization then black holes are everywhere, but black holes evaporate, hight entropy 
 3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, low entropy again
 
-Soon the process will repeat, all energy combinations will be tried and then, in one place, there will be a combination that is same or almost the same as the "begging of universe". New universe, like a bubble amongst other bubbles, have appeared in a glue amongst other expanding universes. The whole thing is called multiverse.
+Soon the process will repeat, all energy combinations will be tried.
+
+Then, in one place, there will be a combination that is same (or almost the same) as the "begging of universe" combination.
+
+New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), have appeared in a glue of "plane energy".
 ```
+
+#### P.S.
+
+> "If God from Bible is laws of universe, then hell and heaven is a memory of people." (mine)
+
+> The great flood story is about that you should prepare, because flood is coming. The Cain and Avel - is that its only a constatation of a fact that people will envy your success and maybe kill you (Jordan Peterson)
+
+> We sell today for tomorrow. (Jordan Peterson)
+
+> Too much order - tyranny, too little - chaos. (Jordan Peterson)
+
+> It's harder to write a poem without "rules" or "starting point".
