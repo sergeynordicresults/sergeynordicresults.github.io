@@ -68,10 +68,10 @@ We are not under regime of psychopath
 <details>
 But Nevzorov tells that he have talked with them.
 
-"Maybe they were - but now I don't care, they are on a side of light"
+"Maybe they were - but now I don't care, they save children"
 </details>
 
-> USSR was great, we want to USSR, because right now we are slaves for rich people? maybe
+> USSR was great, we want to be in USSR, because right now we are slaves for rich people? maybe
 
 > Russia have won, Ukraine will not become a part of NATO
 
