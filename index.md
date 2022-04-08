@@ -43,16 +43,16 @@ Russia reaction - send mobile crematoriums.
 
 For people inside of Russia:
 - [Solzhenitsyn - "The Gulag Archipelago" - WE SHOULD have killed police with an axe THEN Stalin's machine would stop](https://twitter.com/srghma/status/1498244965780045828) - get an axe
-- put recruiting stations on fire ("Я не пойду убивать братьев": в России парень сжег военкомат, чтобы не ехать на войну в Украину, видео)
+- put recruiting stations on fire (`"Я не пойду убивать братьев": в России парень сжег военкомат, чтобы не ехать на войну в Украину, видео`)
 - put politician properties on fire (without damaging people of course)
-- ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
+- ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but for now - ***you know what to do***)
 
 For children that were sent on a war without knowing:
 - surrender
 
   1. we treat You as a proper Euro-country
   2. check Arestovich youtube channel, there is an ORDER for us to do this
-  3. for my people that think differently - each time russian people see video of our military not behaving well - another 1% is converted to evil
+  3. for my people that think differently: each time russian people see video of our military not behaving well - another 1% is converted to evil
 
 - OR go to any ukrainian house, we are your bothers, we will give you food and shelter
 
@@ -61,7 +61,7 @@ For people from other countries:
 - ITS POSSIBLE THAT NONE UKRAINIAN WILL DIE ANYMORE - we just need more planes to "close the air" (intercept missiles)
 - donate ([Government bank](https://bank.gov.ua/en/about/support-the-armed-forces))
 
-# !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru)
+# !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru, the "Россия и Украина" tag)
 
 send me an email to srghma@gmail.com, I want to know what You know!
 
@@ -79,8 +79,8 @@ Clash of thoughts create a truth.
 
 Вы напали потому что боялись что через 3 года мы попытаемся вернуть территории?
 
-1. Вам можно усиливать оборону а нам нельзя?
-2. Вам можно нападать а нам нельзя?
+1. Вам можно усиливать оборону, а нам нельзя?
+2. Вам можно нападать, а нам нельзя?
 3. Вам можно иметь атомное оружие, а нам нельзя? (я против)
 
 Заметь, я против чтобы Украина нападала чтобы вернуть ДНР и Крым, нападающий всегда в проигрыше.
@@ -93,7 +93,7 @@ Clash of thoughts create a truth.
 
 The difference is HOW Ukrainian army will do this.
 
-We will not steal TV. We are not hungry.
+We will not steal TV - We are not hungry.
 
 We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) amongst us.
 
@@ -108,7 +108,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
 1. video "Мариуполь. Оккупанты не стесняются и фиксируют свои военные преступления."
 2. video "В Буче русский военный расстрелял мужчину на глазах у его 14-летнего сына"
-3. "Белорусские СМИ выложили видео, как российские оккупанты на почте оформляют награбленное из Украины"
+3. video "Белорусские СМИ выложили видео, как российские оккупанты на почте оформляют награбленное из Украины"
 4. ["Разговор русского военного с женой"](https://www.youtube.com/watch?v=TTnVGyNvNTg)
 5. https://firstregion.com.ua/novyny-hersonshhyny/v-herson-pryvezly-massovku-dlya-provedenyya-fejkov%D1%8Bh-mytyngov/
 
