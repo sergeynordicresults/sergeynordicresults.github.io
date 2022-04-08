@@ -297,17 +297,22 @@ Check what is a Milgram experiment
 
 ## My view on this universe
 
-#### (Why I act as if) God doesn't exist (I mean don't belive in religion and prayers)
+#### (Why I act as if) God doesn't exist (I mean I don't belive in religion and prayers)
 
 (from "God as illusion" by Charles Dockins)
 
 The atheist is the one that gives 99% probability that god doesnt exist. I am an atheist by this definition.
 
-We cannot prove that god doesnt exist, BUT we can prove that souls don't exist (later).
+We cannot prove that god doesnt exist, BUT
 
-We also know how life was created (self-replicating molecules-robots that have been created, created and will be created RANDOMLY. Just like in "Game of life" automata, you generate random field, give rules, and self-replicating structures appear)
+1. we can prove that souls don't exist (later).
+2. We know how life was created 
 
-We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
+We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created till the end of universe" RANDOMLY. 
+
+Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
+
+3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 Thus, god is an extra variable to a function that works fine without extra variable.
 
