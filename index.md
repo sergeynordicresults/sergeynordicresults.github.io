@@ -29,7 +29,7 @@ For people inside of Russia:
 - [Solzhenitsyn - "The Gulag Archipelago" - WE SHOULD have killed police with an axe THEN Stalin's machine would stop](https://twitter.com/srghma/status/1498244965780045828) - get an axe
 - put recruiting stations on fire
 - put politician properties on fire (without damaging people of course)
-- ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
+- ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
 
 For children that were sent on a war without knowing:
 - surrender
@@ -50,7 +50,7 @@ send me an email to srghma@gmail.com, I want to know what You know!
 
 lets have a meeting in google-meets or zoom.
 
-Clash of thoghts create a truth.
+Clash of thoughts create a truth.
 
 <blockquote><details><summary>Zelensky/NATO would attack first? maybe</summary><pre>
 
@@ -97,15 +97,15 @@ P.S. в "классное" время мы живем, брат может оп�
 
 </pre></details></blockquote>
 
-<blockquote><details><summary>People in Donetsk dont want to be in Ukraine? maybe</summary><pre>
+<blockquote><details><summary>People in Donetsk don't want to be in Ukraine? maybe</summary><pre>
  IN MY CITY: some people WERE pro-"russian liberation" (old people), they are not anymore
 
  https://www.youtube.com/watch?v=VUwXnBDOmeY - I think THIS is fake
- 
+
  ANYWAY - Ukraine and Russia should allow people to vote, fairly, every citizen (is this possible with putin at all? Better Navalny as president)
- 
+
  1. Let's see if they will chose a country without blockchain technology, without Дiя.
- 2. Even if they will choose Russia - I dont care, I'm a citizen of world first, then - Ukraine
+ 2. Even if they will choose Russia - I don't care, I'm a citizen of world first, then - Ukraine
 </pre></details></blockquote>
 
 > People in Donetsk are killed by Ukrainian military? maybe
@@ -117,7 +117,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
  > "the 1/3 of a country knows only russian language, it's a discrimination"
 
- In my city I dont know ANYONE who doesnt know ukrainian
+ In my city I don't know ANYONE who doesnt know ukrainian
 
  I AM:
 
@@ -153,11 +153,11 @@ Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
 
-https://m.youtube.com/watch?v=_AHt79TlZ7k
+https://www.youtube.com/watch?v=_AHt79TlZ7k
 
 Also we will become a EURO-country
 
-We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
+We will be able to live in any Europe country without changing citizenship (only residentship - pay taxes if you stay in a country for more than half of a year)
 </pre></details></blockquote>
 
 <blockquote><details><summary>"Putin is a nice guy"</summary><pre>
@@ -182,10 +182,10 @@ Jordan Peterson: If You want to understand the MEANING of actions, You should se
 
 > "If we started a war, we should finish it. Stupid to retreat now."
 
-<blockquote><details><summary>"I dont want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he die."</summary><pre>
+<blockquote><details><summary>"I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre>
 WHY WE DID live bad?
 
-I dont know WHY the revolution 2014 started.
+I don't know WHY the revolution 2014 started.
 I heard people were agains Yanukovich. (RIGHT NOW - I am against him too, he is a thief from Donetsk)
 
 next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukraine and his own people to Putin
@@ -206,11 +206,11 @@ BUT with ZELENSKY we lived MUUUUCH better:
 </pre></details></blockquote>
 
 <blockquote><details><summary>"No, russians should not surrender, Ukrainians will kill them"</summary><pre>
-yes, after Bucha some ukrainian militarists dont want to take prisoners anymore (I think this is wrong)
+yes, after Bucha some ukrainian militarists don't want to take prisoners anymore (I think this is wrong)
 
 BUT:
-- https://www.youtube.com/watch?v=GixuoTMXwWM - dont bully the prisoners
-- https://www.youtube.com/watch?v=3_cfpbAif1Q - dont put ammunition in a lard
+- https://www.youtube.com/watch?v=GixuoTMXwWM - don't bully the prisoners
+- https://www.youtube.com/watch?v=3_cfpbAif1Q - don't put ammunition in a lard
 - https://www.youtube.com/watch?v=eS_rYu8ffrg&t=1500s - prisoner in an interrogation
 </pre></details></blockquote>
 
@@ -249,21 +249,21 @@ Check what is a Milgrem experiment
 
 ## My view on this universe
 
-#### (Why I act as if) God doesn't exist (I mean dont belive in religion and prayers)
+#### (Why I act as if) God doesn't exist (I mean don't belive in religion and prayers)
 
 (from "God as illusion" by Charles Dockins)
 
 The atheist is the one that gives 99% probability that god doesnt exist. I am an atheist by this definition.
 
-We cannot prove that god doesnt exist, BUT we can prove that souls dont exist (later).
+We cannot prove that god doesnt exist, BUT we can prove that souls don't exist (later).
 
 We also know how life was created (self-replicating molecules-robots that have been created, created and will be created RANDOMLY. Just like in "Game of life" automata, you generate random field, give rules, and self-replicating structures appear)
 
-We dont know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
+We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 Thus, god is an extra variable to a function that works fine without extra variable.
 
-###### Why souls dont exist:
+###### Why souls don't exist:
 
 1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
 
@@ -273,7 +273,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
     a. each "axon" is just a number from 0.0 to 1.0 (represented as a data, a number, it really exists, not virtual, not only in code, and can be updated, this is a memory)
     b. IF the state of "axon" is more or equal to 0.5 THEN signal goes through axon ELSE doesnt
     c. "axon" have 1 input and 1 output
-    d. "neuron" is just a connection, only in code, it collects input from axons, finds average input (sum of inputs devided by length of an input array) and outputs input to other axons
+    d. "neuron" is just a connection, only in code, it collects input from axons, finds average input (sum of inputs divided by length of an input array) and outputs input to other axons
 
     Process
 
@@ -283,7 +283,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
       an array `[0.0, 0.5]` which is the location of eyes for example
       OR just a one number DO_I_SEE_A_DOG (probability from 0.0 to 1.0)
 
-    1. FOR EXAMPLE your neural network outputted DO_I_SEE_A_DOG probablity 0.0 on an image with a dog. You know the probablity should be 1.0. HOW TO UPDATE WEIGHTS so that is outputs 1.0 number?
+    1. FOR EXAMPLE your neural network outputted DO_I_SEE_A_DOG probability 0.0 on an image with a dog. You know the probability should be 1.0. HOW TO UPDATE WEIGHTS so that is outputs 1.0 number?
     2. You make a copy of your neural network, You update RANDOMLY the weights, +0.1 to one weight, -0.1 to other weight of axon
     3. IF new neural network weights a better THEN replace old "brain" with new "brain" ELSE discard "new" brain, try again to create a "new" brain.
 
@@ -314,7 +314,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
     d. destroy original body (without this the process would be called a "cloning")
 
 <details><pre>
-  I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, dont remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
+  I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
 
   NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
@@ -325,17 +325,17 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
   b. or now the original soul operates two bodies from a heaven????
 
-  NO, souls dont exist! Use Occam's razor!
+  NO, souls don't exist! Use Occam's razor!
 
   Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
-4. (Sam Harris proof) souls dont exist because you can devide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+4. (Sam Harris proof) souls don't exist because you can devide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
-5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls dont exist because brain injuries DOES EXIST (A guy was a good man, then his head was injuried and he because evil. SOUL?)
+5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he because evil. SOUL?)
 
-#### What will happen after death
+#### What will happen after death?
 
-what was before your life, nothing
+what was before your life - nothing
 
 #### Who we are in this universe
 
@@ -361,7 +361,7 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 
 > "If God from Bible is laws of universe, then hell and heaven is a memory of people." (mine)
 
-> The great flood story is about that you should prepare, because flood is coming. The Cain and Avel - is that its only a constatation of a fact that people will envy your success and maybe kill you (Jordan Peterson)
+> The great flood story is about that you should prepare, because flood is coming. The Cain and Avel - is that its only a statement of a fact that people will envy your success and maybe kill you (Jordan Peterson)
 
 > We sell today for tomorrow. (Jordan Peterson)
 
@@ -393,4 +393,5 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 #### Some of my other work
 
 - [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io) (No, I still don't know chinese)
+
 
