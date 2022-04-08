@@ -110,7 +110,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
  Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
 
- > the 1/3 of a country knows only russian language, it's a discrimination
+ > "the 1/3 of a country knows only russian language, it's a discrimination"
 
  In my city I dont know ANYONE who doesnt know ukrainian
 
