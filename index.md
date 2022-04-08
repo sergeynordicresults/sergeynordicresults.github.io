@@ -95,7 +95,6 @@ We dont know why universe was created, but there is an Anthropic principle (we a
 
 Thus, god is an extra variable to a function that works fine without extra variable.
 
-
 ###### Why souls dont exist:
 
 1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
@@ -136,7 +135,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
 </details>
 
 
-2. (I came up to this myself) souls don't exist because the teleporation is possible
+2. (mine) souls don't exist because the teleportation is possible
 
   By this I mean that there is NOTHING in physics that disallows us to: 
   
@@ -151,11 +150,16 @@ Thus, god is an extra variable to a function that works fine without extra varia
   NOTE that teleporation is not like a quantum teleporation of electrons
 </details>
 
-  SO: IF you will NOT destroy origianal body THEN did the original soul devided to two? or now the original soul operates two bodies from a heaven???? 
+  SO: IF you will NOT destroy original body (step `d`) THEN 
   
-  NO, souls dont exist! Use Occam razor! Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable (with `a` and `b` variables only) - it means the variable `c` is not used in a body of function!
+  a. did the original soul devide to two souls?
+  b. or now the original soul operates two bodies from a heaven???? 
   
-4. (Sam Harris proof) souls dont exist because you can devide the connection between two hemispheres a little (like this is done to treat epilepsy), and now human will act as if there two humans live in one body (e.g. one hand is putting closes on, while the other puts off closes)
+  NO, souls dont exist! Use Occam's razor! 
+  
+  Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of function!
+  
+4. (Sam Harris proof) souls dont exist because you can devide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
 #### What will happen after death
 
@@ -189,4 +193,4 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 
 > Too much order - tyranny, too little - chaos. (Jordan Peterson)
 
-> It's harder to write a poem without "rules" or "starting point".
+> It's harder to write a poem without "rules/order" or "starting point".
