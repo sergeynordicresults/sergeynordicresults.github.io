@@ -50,7 +50,7 @@ Clash of thoghts create a truth.
 > Zelensky/NATO would attack first? maybe
 
 <details>
- ```
+ <p>
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
@@ -78,7 +78,7 @@ We will not rape 10 y.o. girls - there is no kadirovtzev amongst us.
 We are not under regime of psychopath.
 
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя) 
- ```
+ </p>
  
 </details>
 
@@ -95,11 +95,11 @@ P.S. в "классное" время мы живем, брат может оп�
 > "Azov" military division is Nazis? Maybe
 
 <details>
- ```
+ <p>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were - but now I don't care, they save children"
- ```
+ </p>
 </details>
 
 > USSR was great, we want to be in USSR, because right now we are slaves for rich people? maybe
@@ -107,7 +107,7 @@ But Nevzorov tells that he have talked with them.
 > Russia have won, Ukraine will not become a part of NATO
 
 <details>
- ```
+ <p>
 Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
@@ -117,7 +117,7 @@ https://m.youtube.com/watch?v=_AHt79TlZ7k
 Also we will become a EURO-country
 
 We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
- ```
+ </p>
 </details>
 
 > Putin is a nice guy
@@ -187,7 +187,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
 1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
 
 <details>
-   <pre>
+  <p>
   "Human-like" neural network works like this:
   
     a. each "axon" is just a number from 0.0 to 1.0 (represented as a data, a number, it really exists, not virtual, not only in code, and can be updated, this is a memory) 
@@ -206,9 +206,8 @@ Thus, god is an extra variable to a function that works fine without extra varia
     1. FOR EXAMPLE your neural network outputted DO_I_SEE_A_DOG probablity 0.0 on an image with a dog. You know the probablity should be 1.0. HOW TO UPDATE WEIGHTS so that is outputs 1.0 number?
     2. You make a copy of your neural network, You update RANDOMLY the weights, +0.1 to one weight, -0.1 to other weight of axon
     3. IF new neural network weights a better THEN replace old "brain" with new "brain" ELSE discard "new" brain, try again to create a "new" brain. 
-    </pre>
 
-    <pre>
+    ```javascript
     let doISeeDog = 0.0
     1_to_1 = 0.0
     brain = {
@@ -218,10 +217,11 @@ Thus, god is an extra variable to a function that works fine without extra varia
     input_axons_average_
     
     TODO: finish
-    </pre>
+    ```
  
  <img src="https://user-images.githubusercontent.com/7573215/162324220-cdc1699b-7090-4d9e-be93-2d72ef67adb4.png" alt="Banner" width="100%">
 
+   </p>
 </details>
 
 
@@ -235,11 +235,11 @@ Thus, god is an extra variable to a function that works fine without extra varia
     d. destroy original body (without this the process would be called a "cloning")
 
 <details>
- <pre>
+ <p>
   I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, dont remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
   
   NOTE that teleporation is not like a quantum teleporation of electrons
-  </pre>
+  </p>
 </details>
 
   SO: IF you will NOT destroy original body (step `d`) THEN 
