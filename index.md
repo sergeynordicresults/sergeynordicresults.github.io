@@ -58,6 +58,7 @@ For children that were sent on a war without knowing:
 For people from other countries:
 - more sanctions - they will not go to streets unless hungry (I wouldnt)
 - ITS POSSIBLE THAT NONE UKRAINIAN WILL DIE ANYMORE - we just need more planes to "close the air" (intercept missiles)
+- donate ([Government bank](https://bank.gov.ua/en/about/support-the-armed-forces))
 
 # !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru)
 
