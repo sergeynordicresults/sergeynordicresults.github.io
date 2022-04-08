@@ -26,7 +26,7 @@ Russia reaction - send mobile crematoriums.
 # !!!What to do with a war!!!
 
 For people inside of Russia:
-- [https://twitter.com/srghma/status/1498244965780045828](https://twitter.com/srghma/status/1498244965780045828) - get an axe
+- [Solzhenitsyn - "The Gulag Archipelago" - WE SHOULD have killed police with an axe THEN Stalin's machine would stop](https://twitter.com/srghma/status/1498244965780045828) - get an axe
 - put recruiting stations on fire
 - put politician properties on fire (without damaging people of course)
 - ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
