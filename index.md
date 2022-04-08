@@ -52,9 +52,9 @@ lets have a meeting in google-meets or zoom.
 
 Clash of thoghts create a truth.
 
-> Zelensky/NATO would attack first? maybe
+<details>
 
-<details><pre>
+<summary><blockquote><p>Zelensky/NATO would attack first? maybe</p></blockquote></summary><pre>
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
@@ -163,9 +163,9 @@ https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tell
 > "Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"
 
 <details><pre>
-Nevzorov: he had a LOT of time to make russia great
+Nevzorov: putin had a LOT of time to make russia great
 
-Jordan Peterson: If You want to understand the MEANING of actions, You should see a RESULT. RESULT IS A MEANING
+Jordan Peterson: If You want to understand the MEANING of actions, You should see a RESULT. RESULT is a MEANING
 </pre></details>
 
 > "We do the same that USA did in Siria. Why wont you reprimand USA instead?"
@@ -177,12 +177,26 @@ Jordan Peterson: If You want to understand the MEANING of actions, You should se
 > "I dont want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he die."
 
 <details><pre>
-FROM MY PERSPECTIVE:
+WHY WE DID live bad?
 
 I dont know WHY the revolution 2014 started.
 I heard people were agains Yanukovich. (RIGHT NOW - I am against him too, he is a thief from Donetsk)
 
-next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukraine, US to Putin
+next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukraine and his own people to Putin
+
+we have recording (3 videos, the last - https://youtu.be/TEDvUkFMZd4?t=2453):
+
+1. Poroshenko (WHILE BEIGN A PRESIDENT) and Medvedchuk (Putin is the godfather of Medvedchuk's youngest daughter) where sending UKRAINIAN money to RUSSIAN occupants in Donetsk People's Republic (probably they were paid to do this)
+2. ... lot of other bad things
+
+----------------
+
+BUT with ZELENSKY we lived MUUUUCH better:
+
+1. roads
+2. the Дiя ("Action") application
+3. investments from other countries
+
 </pre></details>
 
 > "No, russians should not surrender, Ukrainians will kill them"
