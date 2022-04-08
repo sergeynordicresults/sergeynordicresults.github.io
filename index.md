@@ -1,3 +1,28 @@
+```
+Буча 2022:
+- отцам и братьям - отрезали носы и уши, связали руки, застрелили в голову из-за спины
+- матерей и сестер - изнасиловали, выбросили из машины при побеге и сожгли
+- 10ти летнюю девочку - изнасиловали и застрелили
+Реакция россии - отослать мобильные крематории на оккупированные территории
+```
+
+```
+BUCHA MASSACRE 2022
+
+This is what russian “liberators” did:
+
+- Fathers - cut off nose, ears, shot from behind
+- Mothers - raped, shot, set on fire on retreat
+- 10 y.o. - raped, shot
+
+Russia reaction - send mobile crematoriums.
+
+```
+
+<img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
+
+-------------------
+
 # !!!What to do with a war!!!
 
 For people inside of Russia: 
@@ -109,9 +134,6 @@ Check what is a Milgrem experiment
  
 -------------------
 
-<img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
-
--------------------
 
 ## Resume
 
