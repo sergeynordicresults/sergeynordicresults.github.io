@@ -101,6 +101,11 @@ P.S. в "классное" время мы живем, брат может оп�
  IN MY CITY: some people WERE pro-"russian liberation" (old people), they are not anymore
 
  https://www.youtube.com/watch?v=VUwXnBDOmeY - I think THIS is fake
+ 
+ ANYWAY - Ukraine and Russia should allow people to vote, fairly, every citizen (is this possible with putin at all? Better Navalny as president)
+ 
+ 1. Let's see if they will chose a country without blockchain technology, without Дiя.
+ 2. Even if they will choose Russia - I dont care, I'm a citizen of world first, then - Ukraine
 </pre></details></blockquote>
 
 > People in Donetsk are killed by Ukrainian military? maybe
