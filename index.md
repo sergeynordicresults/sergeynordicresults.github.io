@@ -102,7 +102,9 @@ We are not under regime of psychopath.
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя)
 </pre></details></blockquote>
 
-> "Bucha is fake"
+<blockquote><details><summary>"Russian soldiers are best"</summary><pre>
+https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
+</pre></details></blockquote>
 
 <blockquote><details><summary>"Russian soldiers are best"</summary><pre>
 
