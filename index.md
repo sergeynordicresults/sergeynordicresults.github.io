@@ -244,13 +244,16 @@ Thus, god is an extra variable to a function that works fine without extra varia
   SO: IF you will NOT destroy original body (step `d`) THEN
 
   a. did the original soul devide to two souls?
+  
   b. or now the original soul operates two bodies from a heaven????
 
   NO, souls dont exist! Use Occam's razor!
 
-  Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of function!
+  Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
 4. (Sam Harris proof) souls dont exist because you can devide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+
+5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls dont exist because brain injuries DOES EXIST (A guy was a good man, then his head was injuried and he because evil. SOUL?)
 
 #### What will happen after death
 
