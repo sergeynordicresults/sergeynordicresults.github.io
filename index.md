@@ -50,7 +50,7 @@ Clash of thoghts create a truth.
 > Zelensky/NATO would attack first? maybe
 
 <details>
- <p>
+ <pre>
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
@@ -78,7 +78,7 @@ We will not rape 10 y.o. girls - there is no kadirovtzev amongst us.
 We are not under regime of psychopath.
 
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя) 
- </p>
+ </pre>
  
 </details>
 
@@ -95,11 +95,11 @@ P.S. в "классное" время мы живем, брат может оп�
 > "Azov" military division is Nazis? Maybe
 
 <details>
- <p>
+ <pre>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were - but now I don't care, they save children"
- </p>
+ </pre>
 </details>
 
 > USSR was great, we want to be in USSR, because right now we are slaves for rich people? maybe
@@ -107,7 +107,7 @@ But Nevzorov tells that he have talked with them.
 > Russia have won, Ukraine will not become a part of NATO
 
 <details>
- <p>
+ <pre>
 Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
@@ -117,7 +117,7 @@ https://m.youtube.com/watch?v=_AHt79TlZ7k
 Also we will become a EURO-country
 
 We will be able to live in any Europe country without changing citizenship (only residenship - pay taxes if more than half of year)
- </p>
+ </pre>
 </details>
 
 > Putin is a nice guy
@@ -187,7 +187,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
 1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
 
 <details>
-  <p>
+  <pre>
   "Human-like" neural network works like this:
   
     a. each "axon" is just a number from 0.0 to 1.0 (represented as a data, a number, it really exists, not virtual, not only in code, and can be updated, this is a memory) 
@@ -221,7 +221,7 @@ Thus, god is an extra variable to a function that works fine without extra varia
  
  <img src="https://user-images.githubusercontent.com/7573215/162324220-cdc1699b-7090-4d9e-be93-2d72ef67adb4.png" alt="Banner" width="100%">
 
-   </p>
+   </pre>
 </details>
 
 
@@ -235,11 +235,11 @@ Thus, god is an extra variable to a function that works fine without extra varia
     d. destroy original body (without this the process would be called a "cloning")
 
 <details>
- <p>
+ <pre>
   I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, dont remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
   
   NOTE that teleporation is not like a quantum teleporation of electrons
-  </p>
+  </pre>
 </details>
 
   SO: IF you will NOT destroy original body (step `d`) THEN 
@@ -286,3 +286,4 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 > Too much order - tyranny, too little - chaos. (Jordan Peterson)
 
 > It's harder to write a poem without "rules/order" or "starting point".
+
