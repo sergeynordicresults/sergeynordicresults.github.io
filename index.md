@@ -119,9 +119,10 @@ P.S. в "классное" время мы живем, брат может оп�
  1. I THINK in a russian language
  2. I DIDNT like ukrainian langauge (language of villigies)
  3. NOW I do like it
-    a. because of Bucha, because блять is not a ukrainian word)
-    b. because ukrainian separates кохання and любов
-    c. Onuka "украинский для меня, как дорогое праздничное платье, которое я надеваю только на праздники"
+    a. because of Bucha
+    b. because блять is not a ukrainian word
+    c. because ukrainian separates кохання and любов
+    d. Onuka "украинский для меня, как дорогое праздничное платье, которое я надеваю только на праздники"
 
  I THINK:
 
