@@ -24,12 +24,13 @@ Russia reaction - send mobile crematoriums.
 2. Мой друг в Херсоне: все гуманитарные конвои, которые Украина пыталась передать в оккупированный Херсон, были расстреляны или захвачены и съедены русскими. Вместо этого населению они раздают вонючие пропавшие каши и рассказывают как помогают наслению.
 3. Тетя: приехал русский мер с телевидением, покрасовался, мы спросили у него "а что делать с разрушенными домами", он сказал "берите кредит в русском банке" и уехал
 
-Не может такого быть, скажешь ты. Почему ты так думаешь, если русские даже к своим военным относятся как к мясу?
-- обмундирование
-- еда
-- отправляют ничего не знающих детей на бойню, говорят что это учения
+Не может такого быть, скажешь ты. 
+
+Почему ты так думаешь, если русские даже к СВОИМ военным относятся как к мясу?
+- плохое обмундирование, еда, танки настолько ужасные что ваши генералы стреляются
+- отправляют ничего не знающих детей на бойню, говорят что это учения и забирают мобильные телефоны чтобы не догадались
 - отправляют представителей меньшинств (ведь не так жалко когда умрет узкоглазый, правда?)
-- не забирают трупы
+- не забирают трупы, как в Чеченской войне
 - расстреливают мирных жителей в машинах
 - соглашаются что дадут гуманитарный корридор для уезжающих из оккупированных территорий и потом ПРЕДАТЕЛЬСКИ расстреливают мирных людей 
 ```
@@ -42,7 +43,7 @@ Russia reaction - send mobile crematoriums.
 
 For people inside of Russia:
 - [Solzhenitsyn - "The Gulag Archipelago" - WE SHOULD have killed police with an axe THEN Stalin's machine would stop](https://twitter.com/srghma/status/1498244965780045828) - get an axe
-- put recruiting stations on fire
+- put recruiting stations on fire ("Я не пойду убивать братьев": в России парень сжег военкомат, чтобы не ехать на войну в Украину, видео)
 - put politician properties on fire (without damaging people of course)
 - ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
 
@@ -162,7 +163,27 @@ But Nevzorov tells that he have talked with them.
 "Maybe they were nazis - but now I don't care, now they save children"
 </pre></details></blockquote>
 
-> "USSR was great, we want to be in USSR, because right now we are slaves for rich people"? maybe
+> "USSR was great, we want to be in USSR, because right now we are slaves for rich people"
+
+<blockquote><details><summary>"Stalin was a great guy"</summary><pre>
+
+https://www.youtube.com/watch?v=ClKSvmWJEAk
+
+https://www.youtube.com/watch?v=XPfWThToClo
+
+Solthenitsin - GULAG archipelago:
+
+when Lenin came to power - he killed/put in camps/slaved
+
+1. all alcoholics
+2. then people with old world-views 
+(because believed that its not possible to make a good country when they are around)
+
+Stalin continued this, and killed "kulaks" (this is a 20% of people that make 80% of goods in a country) - that's why great hunger started
+
+of course Stalin didnt care - he killed XX% of ukrainians in Holodomor and then moved people from Russia to Ukrainian territory
+</pre></details></blockquote>
+
 
 <blockquote><details><summary>"Russia have won, Ukraine will not become a part of NATO anymore"</summary><pre>
 Thanks to Russia
@@ -179,7 +200,7 @@ We will be able to live in any Europe country without changing citizenship (only
 <blockquote><details><summary>"Putin is a nice guy"</summary><pre>
 film "Недоверие" / Russian apartment bombings in September 1999 - Putin ordered FSB to bomb buildings of ordinary russian people to start a war with Chechnya
 
-https://youtu.be/ipAnwilMncI - Putin's palace. History of world's largest bribe
+https://youtu.be/ipAnwilMncI - "Putin's palace. History of world's largest bribe"
 
 https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tells HOW he was putting poison on a trousers
 </pre></details></blockquote>
@@ -189,14 +210,16 @@ https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tell
 <blockquote><details><summary>"Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"</summary><pre>
 Nevzorov: putin had a LOT of time to make russia great
 
-Jordan Peterson: If You want to understand the MEANING of actions, You should see a RESULT. RESULT is a MEANING
+Jordan Peterson: If You want to understand a MEANING of actions, You should see a RESULT. RESULT is a MEANING
 </pre></details></blockquote>
 
 > "We do the same that USA did in Siria. Why wont you reprimand USA instead?"
 
 > "We didnt take Crimea, russian military was there already always. We just changed a name from `Autonomous republic` to `Republic`"
 
-> "If we started a war, we should finish it. Stupid to retreat now."
+<blockquote><details><summary>"If war is started - it should be finished. Its stupid to retreat now."</summary><pre>
+A rule of poker game: it's better to exit game late, then not exist at all
+</pre></details></blockquote>
 
 <blockquote><details><summary>"I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre>
 WHY WE DID live bad?
@@ -213,11 +236,20 @@ we have recording (3 videos, the last - https://youtu.be/TEDvUkFMZd4?t=2453):
 
 ----------------
 
-BUT with ZELENSKY we lived MUUUUCH better:
+BUT with ZELENSKY we lived MUUUUCH better
 
-1. roads
-2. the Дiя ("Action") application
+What he already did:
+1. new roads everywhere
+2. the Дiя (translated as "Action") application (passport and driving licence in a mobile phone)
 3. investments from other countries
+4. new government, 51% and more from his team (because all old are completely corrupted)
+
+What Zelensky promised to do:
+1. electronic voting for a president (just like in Estonia and better)
+2. put Poroshenko in prison
+
+What I wish he would do:
+1. WHEN people in liberated Bucha tell "we need this and this" INSTEAD "I will talk with your mayor" BETTER "ok, we will make an application where all people could post proposals to what they need"
 
 </pre></details></blockquote>
 
@@ -225,9 +257,9 @@ BUT with ZELENSKY we lived MUUUUCH better:
 yes, after Bucha some ukrainian militarists don't want to take prisoners anymore (I think this is wrong)
 
 BUT:
-- https://www.youtube.com/watch?v=GixuoTMXwWM - don't bully the prisoners
-- https://www.youtube.com/watch?v=3_cfpbAif1Q - don't put ammunition in a lard
-- https://www.youtube.com/watch?v=eS_rYu8ffrg&t=1500s - prisoner in an interrogation
+- https://www.youtube.com/watch?v=GixuoTMXwWM - Arestovich: don't bully the prisoners
+- https://www.youtube.com/watch?v=3_cfpbAif1Q - Arestovich: don't put ammunition in a lard
+- https://www.youtube.com/watch?v=eS_rYu8ffrg&t=1500s - prisoner in an interrogation, "we shouldnt have entered Ukraine"
 </pre></details></blockquote>
 
 
@@ -251,7 +283,7 @@ Check what is a Milgram experiment
 2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
 3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
 
-> "We should ask not why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
+> "We should ask NOT why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
 
 > "You can justify any atrocity" (Jordan Peterson)
 
