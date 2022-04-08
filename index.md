@@ -127,7 +127,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
 > People in Donetsk are killed by Ukrainian military? maybe
 
-<blockquote><details><summary>Russian language is banned in Ukraine? maybe</summary><pre>
+<blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
  My view: I'm from Rodynskoye Donetsk oblast
 
  Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
@@ -140,7 +140,7 @@ P.S. в "классное" время мы живем, брат может оп�
 
  1. I THINK in a russian language
  2. I DIDNT like ukrainian langauge (language of villigies)
- 3. NOW I do like it
+ 3. now I DO like it
     a. because of Bucha
     b. because блять is not a ukrainian word
     c. because ukrainian separates кохання and любов
@@ -199,6 +199,8 @@ We will be able to live in any Europe country without changing citizenship (only
 
 <blockquote><details><summary>"Putin is a nice guy"</summary><pre>
 film "Недоверие" / Russian apartment bombings in September 1999 - Putin ordered FSB to bomb buildings of ordinary russian people to start a war with Chechnya
+
+https://youtu.be/BIeIu66MKLY?t=58 - Nemtsov 2014, miting again a war in Ukraine, putin should go to mental hospital, the war will not bring anything good to Russia, he just wants to rule forever.
 
 https://youtu.be/ipAnwilMncI - "Putin's palace. History of world's largest bribe"
 
