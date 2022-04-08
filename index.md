@@ -4,7 +4,7 @@ For people inside of Russia:
 - [https://twitter.com/srghma/status/1498244965780045828](https://twitter.com/srghma/status/1498244965780045828) - get an axe
 - put recruiting stations on fire
 - put politician properties on fire (without damaging people of course)
-- ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - better to kill)
+- ***you know what to do*** with putin (he's a phychopath as Ted Bundy, maybe in future we will be able to cure him, but now - ***you know***)
 
 For children that were sent on a war without knowing:
 - surrender (we treat You as a proper Euro-country, check Arestovich youtube channel, there is an ORDER for us to do this)
