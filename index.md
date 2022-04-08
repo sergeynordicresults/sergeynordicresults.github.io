@@ -176,7 +176,7 @@ The atheist is the one that gives 99% probability that god doesnt exist. I am an
 
 We cannot prove that god doesnt exist, BUT we can prove that souls dont exist (later).
 
-We also know how life was created (self-replicating molecules-robots that have been created, created and will be created RANDOMLY)
+We also know how life was created (self-replicating molecules-robots that have been created, created and will be created RANDOMLY. Just like in "Game of life" automata, you generate random field, give rules, and self-replicating structures appear)
 
 We dont know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
