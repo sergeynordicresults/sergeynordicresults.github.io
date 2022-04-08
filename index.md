@@ -98,7 +98,7 @@ P.S. в "классное" время мы живем, брат может оп�
  <pre>
 But Nevzorov tells that he have talked with them.
 
-"Maybe they were - but now I don't care, they save children"
+"Maybe they were nazis - but now I don't care, now they save children"
  </pre>
 </details>
 
