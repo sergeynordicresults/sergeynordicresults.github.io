@@ -124,6 +124,8 @@ We will be able to live in any Europe country without changing citizenship (only
 
 > "We do the same that USA did in Siria. Why dont you reprimand USA instead?"
 
+> "We didnt take Crimea, russian military was there already always. We just changed a name from `Autonomous republic` to `Republic`"
+
 # !!!IF you think war is cool!!!
 
 Check what is a Milgrem experiment
