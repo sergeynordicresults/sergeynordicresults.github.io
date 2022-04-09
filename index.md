@@ -137,6 +137,8 @@ https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
 
 > "atrocities are done by ukrainian military, because our RUSSIAN soldiers dont use helmets from 2d world war"
 
+> "we love the sanctions, because the rich and poor are equally poor now"
+
 
 
 <blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
