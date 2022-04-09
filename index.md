@@ -350,6 +350,7 @@ Check what is a Milgram experiment
 > its evolution, the strongest survives
 
 - This is a cynicism, a shit will happen in your life and you will change your thoughts
+- my friend once asked me after watching "Я соромлюсь свого тіла": do you sympathize a woman with illness XXX?, i told - "no, why should I?", now i think i was severely stupid.
 
 > Harry Potter and methods of rationality:
 > 1. it's very humane (and in a human genome) to disable compassion for people from other tribes
