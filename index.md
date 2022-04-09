@@ -87,7 +87,10 @@ For people from other countries:
 
 # !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru, the "Россия и Украина" tag)
 
-send me an email to srghma@gmail.com, I want to know what You know!
+1. send me an email to srghma@gmail.com
+2. write me to Signal mobile application +380957367005 (it's open-source unlike telegram AND not tapped by Russia unlike viber)
+
+I want to know what You know!
 
 lets have a meeting in google-meets or zoom.
 
