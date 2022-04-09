@@ -130,6 +130,10 @@ https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
 > People in Donetsk are killed by Ukrainian military? maybe
 
 <blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
+
+https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on russian, I write songs on ukrainian"
+
+
  My view: I'm from Rodynskoye Donetsk oblast
 
  Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
