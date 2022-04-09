@@ -418,7 +418,7 @@ P.S.
 Q: What IS an entropy?
 A: entropy is HOW MUCH different arrangement of atoms give the SAME picture that an OBSERVER (human) will see (kind of)
 
-By this I mean: then definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using light, but light is wavy
+By this I mean: the definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is wavy
 
 https://www.youtube.com/watch?v=MBnnXbOM5S4
 
