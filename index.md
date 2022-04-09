@@ -352,8 +352,8 @@ Check what is a Milgram experiment
 - This is a cynicism, a shit will happen in your life and you will change your thoughts
 
 > Harry Potter and methods of rationality:
-> it's very humane (and in a human genome) to disable compassion for people from other tribes
-> Killers of Jews were ordinary people, they HAD an ability to sympathize to other humans, it's just that they didn't think Jews were humans
+> 1. it's very humane (and in a human genome) to disable compassion for people from other tribes
+> 2. Killers of Jews were ordinary people, they HAD an ability to sympathize to other humans, it's just that they didn't think Jews were humans
 -------------------
 
 ## My view on this universe
