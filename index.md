@@ -49,6 +49,8 @@ Russia reaction - send mobile crematoriums.
 як в фільмі "Життя прекрасне (фільм, 1997)" - батько сказав сину що вони не в полоні у німців, що це гра
 
 https://www.youtube.com/watch?v=nxsRHJW0ors
+
+Їм всім буде дуже соромно
 ```
 
 <img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
