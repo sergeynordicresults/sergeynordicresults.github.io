@@ -84,6 +84,7 @@ For people from other countries:
 - more sanctions - they will not go to streets unless hungry (I wouldnt)
 - ITS POSSIBLE THAT NONE UKRAINIAN WILL DIE ANYMORE - we just need more planes to "close the air" (intercept missiles)
 - donate ([Government bank](https://bank.gov.ua/en/about/support-the-armed-forces))
+- every extra penny you pay for oil is your donation to us to destroy dictatorship - be thankful
 
 # !!!IF you think Russia is right!!! (to ordinary people from pikabu.ru, the "Россия и Украина" tag)
 
@@ -267,6 +268,8 @@ Nevzorov: putin had a LOT of time to make russia great
 
 Jordan Peterson: If You want to understand a MEANING of actions, You should see a RESULT. RESULT is a MEANING
 </pre></details></blockquote>
+
+> "People in Ukraine should just surrender / don't participate in battles / sit in a bunker and don't go out"
 
 > "We do the same that USA did in Siria. Why wont you reprimand USA instead?"
 
@@ -480,6 +483,15 @@ Then, in one place, there will be a combination that is same (or almost the same
 
 New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), have appeared in a glue of "plane energy".
 
+P.S.
+We are like hexagons that appear on a mercury when it is heated
+
+Low temperature - no cells
+Heated - cells
+Heated more - no cells again
+
+https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
+
 P.S. 
 
 Q: What IS an entropy?
@@ -510,6 +522,7 @@ THUS
 
 > It's harder to write a poem without "rules/order" or "starting point".
 
+> Elon Musk: "the more you know, the better questions you can ask"
 
 ## Resume
 
