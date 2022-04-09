@@ -412,6 +412,23 @@ Soon the process will repeat, all energy combinations will be tried.
 Then, in one place, there will be a combination that is same (or almost the same) as the "begging of universe" combination.
 
 New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), have appeared in a glue of "plane energy".
+
+P.S. 
+
+Q: What IS an entropy?
+A: entropy is HOW MUCH different arrangement of atoms give the SAME picture that an OBSERVER (human) will see (kind of)
+
+By this I mean: then definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using light, but light is wavy
+
+https://www.youtube.com/watch?v=MBnnXbOM5S4
+
+To know a position of a plane - radar should emanate pulses of signals (1 pulse - wait response - another pulse)
+To know a speed of a plane - radar should emanate very high-frequency waves, higher frequency = higher speed precicion
+
+THUS
+1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
+2. atoms a hot - more "exact positions" of atoms could give such picture
+3. atoms a still (e.g. 0 kelvin) - only one position of atoms could give such picture
 ```
 
 #### P.S.
