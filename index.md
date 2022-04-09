@@ -133,7 +133,11 @@ https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
  2. Even if they will choose Russia - I don't care, I'm a citizen of world first, then - Ukraine
 </pre></details></blockquote>
 
-> People in Donetsk are killed by Ukrainian military? maybe
+> "People in Donetsk are killed by Ukrainian military"
+
+> "atrocities are done by ukrainian military, because our RUSSIAN soldiers dont use helmets from 2d world war"
+
+
 
 <blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
 
