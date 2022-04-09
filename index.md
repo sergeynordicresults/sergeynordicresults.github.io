@@ -345,14 +345,30 @@ Thus, god is an extra variable to a function that works fine without extra varia
     3. IF new neural network weights a better THEN replace old "brain" with new "brain" ELSE discard "new" brain, try again to create a "new" brain.
 
     ```javascript
-    let doISeeDog = 0.0
-    1_to_1 = 0.0
-    brain = {
-
-    }
-    input_axon_weights = [0.1, 0.2, 1.0]
-    input_axons_average_
-
+    # image = load_image()
+    image = [
+      0.0, # white
+      1.0, # black
+      0.5, # grey
+    ]
+    
+    const numberOfInputs = 3 # image.length - 1
+    const numberOfNeuronsInHiddenLayer = 4 # there is only one hidden layer, but could be many
+    const numberOfOutputs = 1 # because the doISeeDogProbability is only one number from 0.0 (zero percent probability) to 1.0 (100 percent probability)
+    
+    const makeAnArrayOfZerosWithLenght = (lengthOfArray) = Array.from({length: lengthOfArray}, () => 0.0)
+    
+    assert(makeAnArrayOfZerosWithLenght(3), [0.0, 0.0, 0.0])
+    
+    const axonsFromInputToLayer1 = [
+      makeAnArrayOfZerosWithLenght(numberOfNeuronsInHiddenLayer), # 1st input to hidden layer
+      makeAnArrayOfZerosWithLenght(numberOfNeuronsInHiddenLayer), # 2d input to hidden layer
+      makeAnArrayOfZerosWithLenght(numberOfNeuronsInHiddenLayer), # 3d input to hidden layer
+      makeAnArrayOfZerosWithLenght(numberOfNeuronsInHiddenLayer), # 4th input to hidden layer
+    ]
+    
+    const axonsFromLayer1ToOutput = makeAnArrayOfZerosWithLenght(numberOfNeuronsInHiddenLayer)
+    
     TODO: finish
     ```
    </pre>
