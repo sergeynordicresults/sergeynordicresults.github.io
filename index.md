@@ -32,7 +32,9 @@ Russia reaction - send mobile crematoriums.
 - отправляют представителей меньшинств (ведь не так жалко когда умрет узкоглазый, правда?)
 - не забирают трупы, как в Чеченской войне
 - расстреливают мирных жителей в машинах
-- соглашаются что дадут гуманитарный корридор для уезжающих из оккупированных территорий и потом ПРЕДАТЕЛЬСКИ расстреливают мирных людей 
+- соглашаются что дадут гуманитарный корридор для уезжающих из оккупированных территорий и потом ПРЕДАТЕЛЬСКИ расстреливают мирных людей
+
+Психопат отвлек ваше внимание от проблем войной
 ```
 
 ```
@@ -99,7 +101,7 @@ Clash of thoughts create a truth.
 
 <blockquote><details><summary>Zelensky/NATO would attack first? maybe</summary><pre>
 
-Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы да Во рту росли грибы"
+Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы"
 
 Украинцы не обосрались когда ваши начали собираться у границы, до последнего верили что не может же ваш пид быть настолько туп
 
@@ -127,12 +129,33 @@ We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) am
 
 We are not under regime of psychopath.
 
+WHAT IS A PHYCHOPATH:
+1. they appear fearless BECAUSE they DONT HAVE EMOTIONS AT ALL
+2. they cannot compassion to people, they have problem with brains (The most important lesson from 83,000 brain scans Daniel Amen TEDxOrangeCoast - https://www.youtube.com/watch?v=esPRsT-lmw8 )
+3. they leap from group of people to group, until group finds out and kicks him out (it should be harder for them to live in an internet era) (https://www.youtube.com/watch?v=djEKllJJukk)
+
+Words of psychopaths that decided to seek for cure: 
+1. woman - "I have found pattern: Friends kick me out and I find new one, then again. If this goes this way - I will have no friends. When I was in school, I so that everyone started being self-concious about looks - I thought it was pathetic"
+2. man - "its an addiction. When I see someone I could exploit - I just cannot abstain this desire"
+
+
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя)
 </pre></details></blockquote>
 
 <blockquote><details><summary>"Bucha is fake"</summary><pre>
 https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
 </pre></details></blockquote>
+
+<blockquote><details><summary>"You are brain-washed"</summary><pre>
+Maybe you too
+
+BUT
+
+> (Loserthink) the truth have 2 properties: direction and precision.
+> - IF engeneer says that new devise will break after X months of use, it doesnt matter if he was mistaken about exact date, because SOMEDAY it WILL break
+> - dont dismiss the whole idea, if it's only wrong in precision
+</pre></details></blockquote>
+
 
 <blockquote><details><summary>"почему вы не осуждали войну Луганск и Донецк когда была возможность, а теперь взбесились?"</summary><pre>
 а потому что никто не знал что происходит
