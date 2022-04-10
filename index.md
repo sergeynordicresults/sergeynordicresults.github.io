@@ -144,6 +144,18 @@ P.S. в "классное" время мы живем, брат может оп�
 
 <blockquote><details><summary>"Bucha is fake"</summary><pre>
 https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
+
+> after WW2 some german people TOO told that
+> - no, nazis didnt kill jews in gas chambers and furnaces/ovens
+> EVEN SHOWING THEM bones and ovens DIDNT CHANGE THEIR MIND
+
+but you are not like this, right?
+
+just tell "I will not believe until XXX and YYY", so that we could start dialog
+
+----
+
+I too cannot prove that Bucha happened, Its just more probably for me that this was done by russian soldiers
 </pre></details></blockquote>
 
 <blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
