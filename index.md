@@ -146,7 +146,7 @@ P.S. в "классное" время мы живем, брат может оп�
 https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
 </pre></details></blockquote>
 
-<blockquote><details><summary>"You are brain-washed"</summary><pre>
+<blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
 Maybe you too
 
 BUT
@@ -181,7 +181,7 @@ BUT
 
 </pre></details></blockquote>
 
-<blockquote><details><summary>People in Donetsk don't want to be in Ukraine? maybe</summary><pre>
+<blockquote><details><summary>"People in Donetsk don't want to be in Ukraine"</summary><pre>
  IN MY CITY: some people WERE pro-"russian liberation" (old people), they are not anymore
 
  https://www.youtube.com/watch?v=VUwXnBDOmeY - I think THIS is fake
