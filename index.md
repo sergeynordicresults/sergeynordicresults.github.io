@@ -341,6 +341,8 @@ Check what is a Milgram experiment
 2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
 3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
 
+> it doesnt mean that you are a good man IF you didnt do anything wrong, you are a good man IF you know what you are capable of (Jordan Peterson)
+
 > "We should ask NOT why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
 
 > "You can justify any atrocity" (Jordan Peterson)
