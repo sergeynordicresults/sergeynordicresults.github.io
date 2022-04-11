@@ -244,12 +244,42 @@ https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on ru
  IF you are AGAINST of making ukr lang a main language in schools THEN go away to Russia and live under putin
 </pre></details></blockquote>
 
-> "All ukrainians are pro-Bandera" => nazis (think that all other nations should die)? maybe
+
+<blockquote><details><summary>"All ukrainians are pro-Bandera" => nazis (think that all other nations should die)</summary><pre>
+My view: I dont know anything about Bandera
+
+yes, there are monuments to bandera in Lviv (people from Lviv sneer or smile when you mention this monument, probably because its controversial figure)
+
+WHY THEY SAY "glory to bandera"? - because he was pro-Ukraine? maybe they think that he was using nazis?
+
+I THINK things that Stalin did were equally bad to what Hitler did (Holodomor, GULag, right?), maybe bandera was thinking the same? 
+
+I WILL abstein from hailing "glory to bandera" until I AT LEAST watch "Volhynia (film)" 2016
+
+-----
+
+Эйдельман – как устроена диктатура / How dictatorship work
+https://youtu.be/ARaX2djZYFw?t=4256
+
+1. nasizm vs fashizm
+2. 14 signs of fashizm by Umberto Eko
+3. is ukr nasizm? no
+4. is russia fashizm? yes
+</pre></details></blockquote>
 
 <blockquote><details><summary>"Azov" military division is Nazis? Maybe</summary><pre>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
+
+P.S. 
+
+Эйдельман – как устроена диктатура / How dictatorship work
+https://youtu.be/ARaX2djZYFw?t=4256
+
+1. nasizm vs fashizm
+2. 14 signs of fashizm by Umberto Eko
+2. is ukr nasizm? no is russia fashizm? yes
 </pre></details></blockquote>
 
 > "USSR was great, we want to be in USSR, because right now we are slaves for rich people"
