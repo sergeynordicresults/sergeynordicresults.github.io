@@ -191,8 +191,8 @@ BUT
 2. video "В Буче русский военный расстрелял мужчину на глазах у его 14-летнего сына"
 3. video "Белорусские СМИ выложили видео, как российские оккупанты на почте оформляют награбленное из Украины"
 4. ["Разговор русского военного с женой"](https://www.youtube.com/watch?v=TTnVGyNvNTg)
-5. https://firstregion.com.ua/novyny-hersonshhyny/v-herson-pryvezly-massovku-dlya-provedenyya-fejkov%D1%8Bh-mytyngov/
-
+5. [В Херсон привезли массовку для проведения фейковых митингов](https://firstregion.com.ua/novyny-hersonshhyny/v-herson-pryvezly-massovku-dlya-provedenyya-fejkov%D1%8Bh-mytyngov/)
+6. [Russians DID know that people are under a bringe, BUT BOMBED THE BRIDGE ANYWAY](https://youtu.be/uFXassgoymI?t=957)
 </pre></details></blockquote>
 
 <blockquote><details><summary>"People in Donetsk don't want to be in Ukraine"</summary><pre>
