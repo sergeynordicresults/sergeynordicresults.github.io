@@ -37,7 +37,7 @@ Russia reaction - send mobile crematoriums.
 Психопат отвлек ваше внимание от проблем войной
 ```
 
-[MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERON!!!](/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
+[MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
 
 ```
 Слово моїм співвідчизникам:
