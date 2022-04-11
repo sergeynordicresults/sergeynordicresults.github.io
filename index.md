@@ -248,13 +248,16 @@ https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on ru
 <blockquote><details><summary>"All ukrainians are pro-Bandera" => nazis (think that all other nations should die)</summary><pre>
 My view: I dont know anything about Bandera
 
-yes, there are monuments to bandera in Lviv (people from Lviv sneer or smile when you mention this monument, probably because its controversial figure)
+yes, there are monuments to Bandera in Lviv
 
-WHY THEY SAY "glory to bandera"? - because he was pro-Ukraine? maybe they think that he was using nazis?
+people from Lviv sneer (or smile, I dont understand) when you mention this monument, probably because its controversial figure
 
-I THINK things that Stalin did were equally bad to what Hitler did (Holodomor, GULag, right?), maybe bandera was thinking the same? 
+WHY SOME UKRANIANS SAY "glory to Bandera"?
+- because he was pro-Ukraine? maybe they think that he was USING nazis to later betray them?
 
-I WILL abstein from hailing "glory to bandera" until I AT LEAST watch "Volhynia (film)" 2016
+I THINK things that Stalin did were equally bad to what Hitler did (Holodomor, GULag, right?), maybe Bandera was thinking the same? 
+
+I WILL abstain from hailing "glory to Bandera" until I AT LEAST watch "Volhynia (film)" 2016
 
 -----
 
