@@ -35,6 +35,8 @@ Russia reaction - send mobile crematoriums.
 - соглашаются что дадут гуманитарный корридор для уезжающих из оккупированных территорий и потом ПРЕДАТЕЛЬСКИ расстреливают мирных людей
 
 Психопат отвлек ваше внимание от проблем войной
+
+У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
 ```
 
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
@@ -260,6 +262,12 @@ WHY SOME UKRANIANS SAY "glory to Bandera"?
 I THINK things that Stalin did were equally bad to what Hitler did (Holodomor, GULag, right?), maybe Bandera was thinking the same? 
 
 I WILL abstain from hailing "glory to Bandera" until I AT LEAST watch "Volhynia (film)" 2016
+
+-----
+
+https://youtu.be/PbAeMe3cttk?t=323
+
+every country have some nasiz movements
 
 -----
 
