@@ -70,6 +70,7 @@ For people inside of Russia:
 - put recruiting stations on fire (`"Я не пойду убивать братьев": в России парень сжег военкомат, чтобы не ехать на войну в Украину, видео`)
 - put politician properties on fire (without damaging people of course)
 - ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but for now - ***you know what to do***)
+- вступай в Легион “Свобода России"
 
 For russian people that were sent on a war (for children, without knowing):
 1. surrender
