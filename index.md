@@ -328,6 +328,8 @@ https://www.youtube.com/watch?v=_AHt79TlZ7k
 Also we will become a EURO-country
 
 We will be able to live in any Europe country without changing citizenship (only residentship - pay taxes if you stay in a country for more than half of a year)
+
+ вступления Швеции и Финляндии Кремль получит НАТО в получасе езды от Петербурга
 </pre></details></blockquote>
 
 <blockquote><details><summary>"Putin is a nice guy"</summary><pre>
