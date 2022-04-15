@@ -71,11 +71,10 @@ For people inside of Russia:
 - put politician properties on fire (without damaging people of course)
 - ***you know what to do*** with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but for now - ***you know what to do***)
 
-For children that were sent on a war without knowing:
+For russian people that were sent on a war (for children, without knowing):
 1. surrender
 
-    1. we will treat You as a proper Euro-country
-    2. check Arestovich youtube channel, there is an ORDER for us to do this
+    1. we will treat You as a proper Euro-country (check Arestovich youtube channel - "не издеватесь над заключёнными, мы европейцы")
     3. for my people that think differently: each time russian people see video of our military not behaving well - another 1% is converted to evil
     4. every prisoner is another proof of atrocities 
     
@@ -85,6 +84,7 @@ For children that were sent on a war without knowing:
         4. ["Украинская артистка Оля Полякова о вторжении России в Украину" 4:56](https://youtu.be/TiN0Lyc_vqM?t=296)
    
 2. OR go to any ukrainian house, we are your bothers, we will give you food and shelter
+3. Your real enemy is putin
 
 For people from other countries:
 - more sanctions - they will not go to streets unless hungry (I wouldnt)
