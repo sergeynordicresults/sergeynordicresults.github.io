@@ -38,7 +38,7 @@ Russia reaction - send mobile crematoriums.
 
 У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
 
-Крым и Донецк должны вернуться Украине
+Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку
 ```
 
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
