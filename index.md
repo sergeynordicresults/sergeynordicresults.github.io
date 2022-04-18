@@ -164,8 +164,8 @@ I too cannot prove that Bucha happened, Its just more probably for me that this 
 </pre></details></blockquote>
 
 <blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
-Maybe you too
-
+Maybe you
+https://youtu.be/evkr6wG3BY0
 BUT
 
 > (Loserthink) the truth have 2 properties: direction and precision.
