@@ -37,6 +37,8 @@ Russia reaction - send mobile crematoriums.
 Психопат отвлек ваше внимание от проблем войной
 
 У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
+
+Крым и Донецк должны вернуться Украине
 ```
 
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
