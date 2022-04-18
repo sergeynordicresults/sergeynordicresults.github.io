@@ -34,9 +34,9 @@ Russia reaction - send mobile crematoriums.
 - расстреливают мирных жителей в машинах
 - соглашаются что дадут гуманитарный корридор для уезжающих из оккупированных территорий и потом ПРЕДАТЕЛЬСКИ расстреливают мирных людей
 
-Психопат отвлек ваше внимание от проблем войной
+Психопат отвлек ваше внимание от проблем внутри государства войной
 
-У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
+Воспользовался вашими тупыми желаниями указывать другим как жить (https://www.youtube.com/watch?v=evkr6wG3BY0)
 
 Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку
 ```
@@ -166,8 +166,12 @@ I too cannot prove that Bucha happened, Its just more probably for me that this 
 </pre></details></blockquote>
 
 <blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
-Maybe you
-https://youtu.be/evkr6wG3BY0
+Show me how!
+
+Maybe you https://youtu.be/evkr6wG3BY0 ?
+
+У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
+
 BUT
 
 > (Loserthink) the truth have 2 properties: direction and precision.
@@ -288,14 +292,6 @@ But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
 
-P.S. 
-
-Эйдельман – как устроена диктатура / How dictatorship work
-https://youtu.be/ARaX2djZYFw?t=4256
-
-1. nasizm vs fashizm
-2. 14 signs of fashizm by Umberto Eko
-2. is ukr nasizm? no is russia fashizm? yes
 </pre></details></blockquote>
 
 > "USSR was great, we want to be in USSR, because right now we are slaves for rich people"
