@@ -38,7 +38,7 @@ Russia reaction - send mobile crematoriums.
 
 Воспользовался вашими тупыми желаниями указывать другим как жить (https://www.youtube.com/watch?v=evkr6wG3BY0)
 
-Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку
+Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку, какая разница что было в безумном СССР. (Хотя да, самый лучший вариант - что бы люди Крыма и Донецка проголосовали через блокчейн где они хотят остаться).
 ```
 
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
