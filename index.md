@@ -19,7 +19,9 @@ Russia reaction - send mobile crematoriums.
 ```
 
 ```
-что должна делать русская оппозиция:
+https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_prezidenta_ukrainyi_9048156
+
+Что должна делать русская оппозиция:
 1. Навальный должен объявить краудфандинг на зарплату Беркуту (зачем работать на путина сейчас если вам и так выдадут деньги)
 2. рояль на главной площади (как в Украине на майдане)
 ```
@@ -344,6 +346,15 @@ https://youtu.be/BIeIu66MKLY?t=58 - Nemtsov 2014, miting again a war in Ukraine,
 https://youtu.be/ipAnwilMncI - "Putin's palace. History of world's largest bribe"
 
 https://youtu.be/pOhmDeih19g?t=770 - Navalny calls to his killer and killer tells HOW he was putting poison on a trousers
+
+-------------
+
+https://youtu.be/aY-VBOYAaSI?t=587
+
+> Представьте что 2 или 3 дебила, ради забавы, держат ребеночка за ручки и за ножки и рвут чтобы посмотреть на момент когда он лопнет и его когда посыпятся его кишочки
+>
+> И есть человек по воле которого его рвут 
+
 </pre></details></blockquote>
 
 > "IF putin was a bad guy THEN the damage would be even greater"
@@ -526,10 +537,14 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
 By this I mean that there is NOTHING in physics that disallows us to:
 
+```
   a. (in place A) scan a body of a human for "position" and "type" of each atom
   b. transfer this information to place B
   c. make a copy of human body from atoms from the air
-  d. destroy original body (without this the process would be called a "cloning")
+  d. destroy original body (optional)
+```
+
+Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
 <details><pre>
 I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
@@ -537,10 +552,12 @@ I believe, the thought process of a new human will start from where the old body
 NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
 
-so IF you will NOT destroy original body (step `d`) THEN
+thus IF you do "atom-per-atom cloning" (NOT destroy original body, step `d`) THEN
 
+```
   a. did the original soul devide to two souls?
   b. or now the original soul operates two bodies from a heaven????
+```
 
 NO, souls don't exist! Use Occam's razor!
 
