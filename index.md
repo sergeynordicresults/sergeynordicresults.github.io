@@ -230,6 +230,19 @@ BUT
 > "we love the sanctions, because the rich and poor are equally poor now"
 
 
+<blockquote><details><summary>Yanukovich should return</summary><pre>
+
+he is a dictator, he wanted to make Ukraine the another one Belarus and Russia, but ukranians remember holodomor too good to allow this to happen
+
+laws of 16th of january, the reason why revolution started, the laws should have allowed to make a case agains anyone AT ANY DATE
+
+https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine
+
+first - Euromaidan (Yanukovich wanted us to go away from Europe and closer to russia) and Automaidan (people wanted to fire all policemen from road police and hire new, because of corruption)
+then - laws
+then - revolution
+
+</pre></details></blockquote>
 
 <blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
 
