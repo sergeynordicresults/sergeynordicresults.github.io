@@ -442,7 +442,11 @@ this is a next big technology that will revolutionize human race
 it's already possible
 </pre></details></blockquote>
 
-<blockquote><details><summary>the atrocities were done NOT by russian soldiers, but by ukranian, BECAUSE russian soldiers dont wear helmets from World War 2</summary><pre>
+
+> the atrocities were done NOT by russian soldiers, but by ukranian, BECAUSE russian soldiers dont wear helmets from World War 2
+
+<blockquote><details><summary>we have proofs that Bucha didn't happen</summary><pre>
+https://nnm.club/post/stoit-li-doverjat-sputnikovym-video-ot-maxar.html
 
 https://youtube.com/watch?v=c9J0yRXj-mg
 </pre></details></blockquote>
