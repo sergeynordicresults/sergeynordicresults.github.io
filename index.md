@@ -442,7 +442,12 @@ this is a next big technology that will revolutionize human race
 it's already possible
 </pre></details></blockquote>
 
-> the atrocities were done NOT by russian soldiers, but by ukranian, BECAUSE russian soldiers dont wear helmets from World War 2
+<blockquote><details><summary>the atrocities were done NOT by russian soldiers, but by ukranian, BECAUSE russian soldiers dont wear helmets from World War 2</summary><pre>
+
+https://youtube.com/watch?v=c9J0yRXj-mg
+</pre></details></blockquote>
+
+> atrocities by russian soldiers are exception, not a rule, we came with piece
 
 # !!!IF you think war is cool!!!
 
