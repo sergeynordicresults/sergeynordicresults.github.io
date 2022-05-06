@@ -145,7 +145,7 @@ We will not rape 10 y.o. girls - there is no Kadyrovites (кадыровцы) am
 We are not under regime of psychopath.
 
 WHAT IS A PHYCHOPATH:
-1. they appear fearless BECAUSE they DONT HAVE EMOTIONS AT ALL
+1. (maybe) they appear fearless BECAUSE they DONT HAVE some EMOTIONS AT ALL?
 2. they cannot compassion to people, they have problem with brains (The most important lesson from 83,000 brain scans Daniel Amen TEDxOrangeCoast - https://www.youtube.com/watch?v=esPRsT-lmw8 )
 3. they leap from group of people to group, until group finds out and kicks him out (it should be harder for them to live in an internet era) (https://www.youtube.com/watch?v=djEKllJJukk)
 
