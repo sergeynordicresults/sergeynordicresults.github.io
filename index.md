@@ -23,6 +23,6 @@
 
 ### Posts
 
-1. [About the war](/posts/war) (but I don't regard it as ideal way to convert Russians anymore)
+1. [About the war](/posts/war) (but I don't regard it anymore)
 
 2. About this universe ([English](/posts/universe), [Spanish](/posts/universe-spanish))
