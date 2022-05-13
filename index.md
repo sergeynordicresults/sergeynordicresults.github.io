@@ -23,6 +23,6 @@
 
 ### Posts
 
-1. [About the war](https://srghma.github.io/posts/war) (but I don't regard it anymore)
+1. [About the war](https://srghma.github.io/posts/war) (but I don't regard it good anymore)
 
 2. About this universe ([English](https://srghma.github.io/posts/universe), [Spanish](https://srghma.github.io/posts/universe-spanish))
