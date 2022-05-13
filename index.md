@@ -3,6 +3,7 @@
 - [resume.io](https://resume.io/r/gIIVYqKmf)
 - [twitter.com/srghma](https://twitter.com/srghma)
 - [github.com/srghma](https://github.com/srghma)
+- [instagram.com/srghma](https://instagram.com/srghma)
 
 ## My work
 
@@ -19,3 +20,9 @@
 #### Some of my other work
 
 - [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io) (No, I still don't know chinese)
+
+### Posts
+
+1. [About the war](/posts/war) (but I don't regard it as ideal way to convert Russians anymore)
+
+2. About this universe ([English](/posts/universe), [Spanish](/posts/universe-spanish))
