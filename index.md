@@ -28,3 +28,8 @@
 1. [About the war](https://srghma.github.io/posts/war) (but I don't regard it good anymore)
 
 2. About this universe ([English](https://srghma.github.io/posts/universe), [Spanish](https://srghma.github.io/posts/universe-spanish))
+
+### Passwords to accounts
+
+1. https://s1.sliwbl.com/ , username - melgaardbjorn , password - vxQuFTz43LxwMhw
+2. https://datafan.club/ , username - melgaardbjorn , password - TODO
