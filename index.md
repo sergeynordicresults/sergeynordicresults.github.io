@@ -4,7 +4,8 @@
 - [twitter.com/srghma](https://twitter.com/srghma)
 - [github.com/srghma](https://github.com/srghma)
 - [instagram.com/srghma](https://instagram.com/srghma)
-- srghma@gmail.com
+- [couchsurfing.com/people/srghma](https://www.couchsurfing.com/people/srghma)
+- [srghma@gmail.com](mailto:srghma@gmail.com)
 
 ## My work
 
