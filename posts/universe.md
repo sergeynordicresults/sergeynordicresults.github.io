@@ -180,3 +180,5 @@ THUS
 > Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: I wish I would be less angry and emotional in hard situations.
 
 > Michio Kaku: in 2060 wee will have a device that will be making a good from atoms in the air. So, relax, everything will be fine
+
+> Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
