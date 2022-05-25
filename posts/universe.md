@@ -148,13 +148,13 @@ https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 P.S.
 
 Q: What IS an entropy?
-A: entropy is HOW MUCH different arrangement of atoms give the SAME picture that an OBSERVER (human) will see (kind of)
+A: entropy is HOW MUCH different arrangement of atoms would give the SAME picture that an OBSERVER (human) is seeing now (kind of)
 
-By this I mean: the definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is wavy
+By this I mean: the definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
 
 https://www.youtube.com/watch?v=MBnnXbOM5S4
 
-To know a position of a plane - radar should emanate pulses of signals (1 pulse - wait response - another pulse)
+To know a position of a plane - radar should emanate pulses of signals (1 pulse - wait response, wait till it reflects from the flying plane and returns - REPEAT)
 To know a speed of a plane - radar should emanate very high-frequency waves, higher frequency = higher speed precicion
 
 THUS
