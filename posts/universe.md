@@ -1,6 +1,6 @@
 ## My view on this universe
 
-#### (Why I act as if) God doesn't exist (I mean I don't belive in religion and prayers)
+#### (Why I act as if) God doesn't exist (I mean I don't belive in religion and power of prayers)
 
 (from "God as illusion" by Charles Dockins)
 
