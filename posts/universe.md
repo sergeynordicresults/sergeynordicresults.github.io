@@ -184,3 +184,5 @@ THUS
 > Michio Kaku: in 2060 wee will have a device that will be making a good from atoms in the air. So, relax, everything will be fine
 
 > Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
+
+> I am a citizen of a universe, not a country
