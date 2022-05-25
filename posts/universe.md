@@ -8,7 +8,7 @@ The atheist is the one that gives 99% probability that god doesnt exist. I am an
 
 We cannot prove that god doesnt exist, BUT
 
-1. we can prove that souls don't exist (later).
+1. We can prove that souls don't exist (later).
 2. We know how life was created
 
 We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created till the end of universe" RANDOMLY.
@@ -92,7 +92,7 @@ By this I mean that there is NOTHING in physics that disallows us to:
 Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
 <details><pre>
-I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
+I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), (neuron is just memory device that holds a number from 0.0 to 1.0, yes, unlike the previous example it stores state just like axon too, if average signal value is more than neuron state THEN signal is passed to other axons for example)
 
 NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
