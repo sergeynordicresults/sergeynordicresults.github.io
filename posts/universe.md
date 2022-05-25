@@ -100,13 +100,13 @@ NOTE that teleporation is not like a quantum teleporation of electrons
 thus IF you do "atom-per-atom cloning" (NOT destroy original body, step `d`) THEN
 
 ```
-  a. did the original soul devide to two souls?
+  a. did the original soul divide onto two souls?
   b. or now the original soul operates two bodies from a heaven????
 ```
 
 NO, souls don't exist! Use Occam's razor!
 
-Soul is an additional variable `c` to a function `f(a, b, c)` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are arguments) that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
 
 4. (Sam Harris proof) souls don't exist because you can divide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
@@ -176,3 +176,5 @@ THUS
 > It's harder to write a poem without "rules/order" or "starting point".
 
 > Elon Musk: "the more you know, the better questions you can ask"
+
+> Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: be less angry and emotional in hard situations.
