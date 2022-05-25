@@ -111,7 +111,7 @@ Soul is an additional variable `c` to a function `f(a, b, c) { ...body of functi
 
 4. (Sam Harris proof) souls don't exist because you can divide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
-5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he because evil. SOUL?)
+5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he became evil. SOUL?)
 
 #### What will happen after death?
 
