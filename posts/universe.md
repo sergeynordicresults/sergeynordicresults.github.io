@@ -15,6 +15,8 @@ We are descendants of "Self-replicating molecules-robots" that "have been create
 
 Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
 
+So, life appeared like this: this universe appeared with lots of atoms, atoms started to connect into molecules, and it was only a matter of time that atoms connect together into self-replicating molecule-robot, this molecule later evolved into us 
+
 3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 Thus, god is an extra variable to a function that works fine without extra variable.
