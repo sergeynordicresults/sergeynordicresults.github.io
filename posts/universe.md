@@ -165,11 +165,13 @@ THUS
 
 #### P.S.
 
-> "If God from Bible is laws of universe, then hell and heaven is a memory of people." (mine)
+> Mine: If God from Bible is laws of universe, then hell and heaven is a memory of people.
 
-> The great flood story is about that you should prepare, because flood is coming. The Cain and Avel - is that its only a statement of a fact that people will envy your success and maybe kill you (Jordan Peterson)
+> Jordan Peterson: The great flood story is about that you should prepare, because flood is coming. The Cain and Avel story - is that it's only a statement of a fact that people can envy your success and maybe even kill you
 
-> We sell today for tomorrow. (Jordan Peterson)
+> We sell today for tomorrow. We do hard work now, to live better later (Jordan Peterson)
+
+> Easy decisions - hard life, hard decisions - easy life
 
 > Too much order - tyranny, too little - chaos. (Jordan Peterson)
 
