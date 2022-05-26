@@ -159,8 +159,8 @@ To know a speed of a plane - radar should emanate very high-frequency waves, hig
 
 THUS
 1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
-2. atoms a hot - more "exact positions" of atoms could give such picture
-3. atoms a still (e.g. 0 kelvin) - only one position of atoms could give such picture
+2. atoms are hot (move fast) - more "exact positions" of atoms could give such picture
+3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
 ```
 
 #### P.S.
