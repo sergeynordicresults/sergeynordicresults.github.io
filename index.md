@@ -21,7 +21,7 @@
 
 #### Some of my other work
 
-- [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io) (No, I still don't know chinese)
+- [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io), telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
 
 ### Posts
 
@@ -29,7 +29,8 @@
 
 2. About this universe ([English](https://srghma.github.io/posts/universe), [Spanish](https://srghma.github.io/posts/universe-spanish))
 
-### Passwords to accounts
+### Pirated data
 
-1. https://s1.sliwbl.com/ , username - melgaardbjorn , password - vxQuFTz43LxwMhw
+1. https://s1.sliwbl.com/ , username - melgaardbjorn , password - vxQuFTz43LxwMhw (STOLEN)
 2. https://datafan.club/ , username - melgaardbjorn , password - TODO
+3. https://mega.nz/folder/h0lW2RyQ#TcVrInr6S8mtugYA0OgklA
