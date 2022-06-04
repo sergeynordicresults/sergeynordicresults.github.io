@@ -1,3 +1,26 @@
+# !!!IF you think war is cool!!!
+
+Check what is a Milgram experiment
+1. there is a 80% chance that you are a monster
+2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
+3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
+
+> it doesnt mean that you are a good man IF you didnt do anything wrong, you are a good man IF you know what you are capable of (Jordan Peterson)
+
+> "We should ask NOT why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
+
+> "You can justify any atrocity" (Jordan Peterson)
+
+> "The only thing that makes us different from animals is a knowledge" (Nevzorov)
+
+> The "its evolution, the strongest survives" is a cynicism, a shit will happen in your life and you will change your thoughts
+
+> Harry Potter and methods of rationality:
+> 1. it's very humane (and in a human genome) to disable compassion for people from other tribes
+> 2. Killers of Jews were ordinary people, they HAD an ability to sympathize to other humans, it's just that they didn't think Jews were humans
+
+--------------------
+
 ```
 Буча 2022:
 - мужчинам - отрезали носы и уши, связали руки, застрелили в голову из-за спины
@@ -453,25 +476,3 @@ https://youtube.com/watch?v=c9J0yRXj-mg
 
 > atrocities by russian soldiers are exception, not a rule, we came with piece
 
-# !!!IF you think war is cool!!!
-
-Check what is a Milgram experiment
-1. there is a 80% chance that you are a monster
-2. that [You would to kill and rape people](https://youtu.be/N4qcA4Gg25o?t=572) IF you are given a chance (I would, the raw person in my body would, I hope not children)
-3. that You would be a nazi in nazi Germany (I would, without proper vision to future)
-
-> it doesnt mean that you are a good man IF you didnt do anything wrong, you are a good man IF you know what you are capable of (Jordan Peterson)
-
-> "We should ask NOT why something DOESNT WORK, but why something (from time to time) DOES WORK AT ALL" (Jordan Peterson)
-
-> "You can justify any atrocity" (Jordan Peterson)
-
-> "The only thing that makes us different from animals is a knowledge" (Nevzorov)
-
-> its evolution, the strongest survives
-
-- This is a cynicism, a shit will happen in your life and you will change your thoughts
-
-> Harry Potter and methods of rationality:
-> 1. it's very humane (and in a human genome) to disable compassion for people from other tribes
-> 2. Killers of Jews were ordinary people, they HAD an ability to sympathize to other humans, it's just that they didn't think Jews were humans
