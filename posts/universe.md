@@ -169,6 +169,8 @@ THUS
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
 ```
 
+https://m.youtube.com/watch?v=_eC14GonZnU - Stephen Wolfram found some basic principles that are even more basic than our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
+
 #### P.S.
 
 > Mine: If God from Bible is laws of universe, then hell and heaven is a memory of people.
@@ -192,3 +194,7 @@ THUS
 > Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
 
 > I am a citizen of a universe, not a country
+
+> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (they change perception of problem to reduce the cognitive dissonance). The same is with our attitude to a death: somehow we think that being dead or unconscious is better then conscious.
+
+> Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day  
