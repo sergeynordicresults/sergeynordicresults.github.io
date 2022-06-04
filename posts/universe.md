@@ -138,21 +138,26 @@ We are a little tornados in a cup on a border of coffee and milk when they are m
 
 Soon the process will repeat, all energy combinations will be tried.
 
-Then, in one place, there will be a combination that is same (or almost the same) as the "begging of universe" combination.
+Then, in one place, there will be a combination that is the same (or almost the same) as the "begging of universe" combination.
 
 New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), have appeared in a glue of "plane energy".
+</pre>
 
-P.S.
+---------
+
+<pre translate=yes>
 We are like hexagons that appear on a mercury when it is heated
 
-Low temperature - no cells
-Heated - cells
-Heated more - no cells again
+1. Low temperature - no cells
+2. Mercury is heated - hexagonal cells appear (this allows heat/entropy to pass through to the outer world easier?)
+3. Heated more - no cells again
 
 https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
+</pre>
 
-P.S.
+---------
 
+<pre translate=yes>
 Q: What IS an entropy?
 A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture that an OBSERVER (human) is seeing"
 
@@ -169,7 +174,14 @@ THUS
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
 </pre>
 
-https://m.youtube.com/watch?v=_eC14GonZnU - Stephen Wolfram found some basic principles that are even more basic than our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
+<pre translate=yes>
+https://youtube.com/watch?v=_eC14GonZnU
+
+Stephen Wolfram have found some basic principles that are even more basic than principles of our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
+
+> The quantum theory follows very beautifully from this: the recipient state cannot be updated before originator of a signal is updated
+</pre>
+
 
 #### P.S.
 
