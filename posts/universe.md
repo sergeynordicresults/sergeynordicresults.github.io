@@ -84,12 +84,12 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
 By this I mean that there is NOTHING in physics that disallows us to:
 
-```
+<pre translate=yes>
   a. (in place A) scan a body of a human for "position" and "type" of each atom
   b. transfer this information to place B
   c. make a copy of human body from atoms from the air
   d. destroy original body (optional)
-```
+</pre>
 
 Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
@@ -103,10 +103,10 @@ NOTE that teleporation is not like a quantum teleporation of electrons
 
 thus IF you do "atom-per-atom cloning" (NOT destroy original body, step `d`) THEN
 
-```
+<pre translate=yes>
   a. did the original soul divide onto two souls?
   b. or now the "original soul" operates two bodies from a heaven??
-```
+</pre>
 
 NO, souls don't exist.
 
@@ -129,7 +129,7 @@ From:
 1. ["Cosmology and the arrow of time: Sean Carroll at TEDxCaltech"](https://www.youtube.com/watch?v=WMaTyg8wR4Y)
 2. and most importantly ["Sean Carroll - The Passage of Time & the Meaning of Life"](https://www.youtube.com/watch?v=7BH6XCRZad8)
 
-```
+<pre translate=yes>
 We are a little tornados in a cup on a border of coffee and milk when they are mixed together
 
 1. coffee and milk are fully separated - low entropy, beginning of universe
@@ -167,7 +167,7 @@ THUS
 1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
 2. atoms are hot (move fast) - more "exact positions" of atoms could give "a picture we see"
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
-```
+</pre>
 
 https://m.youtube.com/watch?v=_eC14GonZnU - Stephen Wolfram found some basic principles that are even more basic than our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
 
@@ -195,6 +195,6 @@ https://m.youtube.com/watch?v=_eC14GonZnU - Stephen Wolfram found some basic pri
 
 > I am a citizen of a universe, not a country
 
-> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (they change perception of problem to reduce the cognitive dissonance). The same is with our attitude to a death: somehow we think that being dead or unconscious is better then conscious.
+> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (they change perception of problem to reduce the cognitive dissonance). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
 
 > Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day  
