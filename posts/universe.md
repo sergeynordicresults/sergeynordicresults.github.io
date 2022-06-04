@@ -17,7 +17,9 @@ Just like in a "Game of life" automata: you generate random field, give rules, a
 
 So, life appeared like this: this universe appeared with lots of atoms, atoms started to connect into molecules, and it was only a matter of time that atoms connect together into self-replicating molecule-robot (some molecules were unstable and died), some such molecule later evolved into us.
 
-3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol, kind of)
+NOTE: it is not similar to "from nothing a plane was created", because we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot". So, it's very probable that this will happen in infinite universe.
+
+3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 Thus, god is an extra variable to a function that works fine without extra variable. (about this later)
 
@@ -101,10 +103,12 @@ thus IF you do "atom-per-atom cloning" (NOT destroy original body, step `d`) THE
 
 ```
   a. did the original soul divide onto two souls?
-  b. or now the original soul operates two bodies from a heaven????
+  b. or now the "original soul" operates two bodies from a heaven??
 ```
 
-NO, souls don't exist! Use Occam's razor!
+NO, souls don't exist.
+
+"Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
 Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are arguments) that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
