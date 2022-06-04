@@ -154,9 +154,9 @@ https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 P.S.
 
 Q: What IS an entropy?
-A: entropy is HOW MUCH different arrangement of atoms would give the SAME picture that an OBSERVER (human) is seeing now (kind of)
+A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture that an OBSERVER (human) is seeing"
 
-By this I mean: the definition of entropy is tied to a fact, that the only way for us humans to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
+By this I mean: the definition of entropy is tied to a fact, that the only way for us (humans / observers / instruments that can detect and react on changes) to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
 
 https://www.youtube.com/watch?v=MBnnXbOM5S4
 
