@@ -34,3 +34,5 @@
 1. https://s1.sliwbl.com/ , username - melgaardbjorn , password - vxQuFTz43LxwMhw (STOLEN)
 2. https://datafan.club/ , username - melgaardbjorn , password - TODO
 3. https://mega.nz/folder/h0lW2RyQ#TcVrInr6S8mtugYA0OgklA (also the "Священная рана" of Arestovich is on rutracker.org)
+
+> Арестович говорил что ему пофиг если кто-то будет вылаживать, зато меньше денег достанется уродам из россии
