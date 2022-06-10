@@ -193,7 +193,7 @@ just tell "I will not believe until XXX and YYY", so that we could start dialog
 
 ----
 
-I too cannot prove that Bucha happened, Its just more probably for me that this was done by russian soldiers
+I too cannot prove that Bucha happened, Its just more probable for me that this was done by russian soldiers
 </pre></details></blockquote>
 
 <blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
