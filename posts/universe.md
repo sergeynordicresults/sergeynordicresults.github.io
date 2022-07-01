@@ -1,6 +1,6 @@
-## My view on this universe
+# My view on this universe
 
-#### (Why I act as if) God doesn't exist (I mean I don't belive in religion and power of prayers)
+## (Why I act as if) God doesn't exist (I mean I don't belive in religion and power of prayers)
 
 (from "God as illusion" by Charles Dockins)
 
@@ -23,9 +23,9 @@ NOTE: it is not similar to "from nothing a plane was created", because we need (
 
 Thus, god is an extra variable to a function that works fine without extra variable. (about this later)
 
-###### Why souls don't exist:
+## Why souls don't exist:
 
-1. I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no magic soup in the brain.
+#### `1.` I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no "magic soup" in the brain.
 
 <details><pre>
     "Human-like" neural network works like this:
@@ -80,9 +80,9 @@ Thus, god is an extra variable to a function that works fine without extra varia
 </details>
 
 
-2. (mine) souls don't exist because the teleportation is possible
+#### `2.` (mine) souls don't exist because the "atom-per-atom teleportation" is possible
 
-By this I mean that there is NOTHING in physics that disallows us to:
+By this I mean that there is NOTHING in laws of physics that disallows us to:
 
 <pre translate=yes>
   a. (in place A) scan a body of a human for "position" and "type" of each atom
@@ -94,7 +94,7 @@ By this I mean that there is NOTHING in physics that disallows us to:
 Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
 <details><pre>
-I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), and a neuron is just memory device that holds a number from 0.0 to 1.0 
+I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), and a neuron is just memory device that holds a number from 0.0 to 1.0
 
 IF "average signal value to the neuron" is more than "neuron state value" THEN signal is passed to other axons ELSE not passed
 
@@ -115,15 +115,15 @@ NO, souls don't exist.
 Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are arguments) that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
 
-4. (Sam Harris proof) souls don't exist because you can divide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+#### `3.` (Sam Harris proof) souls don't exist because you can divide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
-5. (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he became evil. SOUL?)
+#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he became evil. SOUL?)
 
-#### What will happen after death?
+## What will happen after death?
 
 what was before your life - nothing
 
-#### Who we are in this universe
+## Who we are in this universe
 
 From:
 1. ["Cosmology and the arrow of time: Sean Carroll at TEDxCaltech"](https://www.youtube.com/watch?v=WMaTyg8wR4Y)
@@ -183,7 +183,7 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 </pre>
 
 
-#### P.S.
+## P.S.
 
 > Mine: If God from Bible is laws of universe, then hell and heaven is a memory of people.
 
@@ -209,4 +209,4 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 > Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (they change perception of problem to reduce the cognitive dissonance). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
 
-> Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day  
+> Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
