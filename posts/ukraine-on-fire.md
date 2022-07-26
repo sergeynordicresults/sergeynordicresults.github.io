@@ -8,4 +8,4 @@ What is it about:
 1. It contains interviews with putin (pidaras) and yanukovich (old ukr president, pidaras too)
 2. The revolution in ukraine in 2014 was created by american government
 
-But they don't tell that: ....laws of 2014, yanukovich wanted to created a new dictatorship in ukraine TODO
+But they don't tell about: ....laws of 2014, yanukovich wanted to created a new dictatorship in ukraine TODO
