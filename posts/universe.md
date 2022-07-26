@@ -9,28 +9,45 @@ The atheist is the one that gives 99% probability that god doesnt exist. I am an
 We cannot prove that god doesnt exist, BUT
 
 1. We can prove that souls don't exist (later).
-2. We know how life was created
+2. We know HOW life was "created"
 
-We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created till the end of universe" RANDOMLY.
+```
+Life appeared like this:
+1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
+2. atoms started to connect together into molecules with random properties
+3. some molecules DID NOT have the "self-replicate" property (they didnt make copies of themselves), but others DID
+4. some molecules were unstable and died, but OUR ancestor "self-replicating molecule-robot" DIDN'T, AND evolved into us.
 
-Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
+THIS IS NOT similar to "from nothing a plane was created", because:
+1. we need (for example) just 1000 atoms (actually less) to arrange properly to create a "self-replicating molecule-robot"
+2. So, it was only a matter of time that this will happen in "infinite" universe.
 
-So, life appeared like this: this universe appeared with lots of atoms, atoms started to connect into molecules, and it was only a matter of time that atoms connect together into self-replicating molecule-robot (some molecules were unstable and died), some such molecule later evolved into us.
-
-NOTE: it is not similar to "from nothing a plane was created", because we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot". So, it's very probable that this will happen in infinite universe.
+SUMMARY:
+1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created untill the end of universe" RANDOMLY.
+2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
+3. The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
+```
 
 3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
-Thus, god is an extra variable to a function that works fine without extra variable. (about this later)
+SUMMARY:
+god is an extra variable to a function that works fine without extra variable. (about this later)
 
 ## Why souls don't exist:
 
 #### `1.` I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no "magic soup" in the brain.
 
+<!--
 <details><pre>
+    !!!!NOT FINISHED, DONT READ!!!!!
+    
+    Networks types:
+    1. "deep learning" - e.g. input is a pixel image is matrix AND memory is matrix too => input and memory are compared by dot-operator (gives another matrix) => then output matrix is coverted into percent value between 0% and 100%
+    2. "human-like"  [https://youtu.be/qv6UVOQ0F44?t=216](https://youtu.be/qv6UVOQ0F44?t=216)
+
     "Human-like" neural network works like this:
 
-    a. each "axon" is just a number from 0.0 to 1.0 (represented as a data, a number, it really exists, not virtual, not only in code, and can be updated, this is a memory)
+    a. each "axon" is an UPDATEABLE chunk of memory that contains a number from 0.0 to 1.0
     b. IF the state of "axon" is more or equal to 0.5 THEN signal goes through axon ELSE doesnt
     c. "axon" have 1 input and 1 output
     d. "neuron" is just a connection, only in code, it collects input from axons, finds average input (sum of inputs divided by length of an input array) and outputs input to other axons
@@ -78,9 +95,9 @@ Thus, god is an extra variable to a function that works fine without extra varia
 
    <img src="https://user-images.githubusercontent.com/7573215/162324220-cdc1699b-7090-4d9e-be93-2d72ef67adb4.png" alt="Banner" width="100%">
 </details>
+-->
 
-
-#### `2.` (mine) souls don't exist because the "atom-per-atom teleportation" is possible
+#### `2.` (mine) souls don't exist because the "atom-per-atom cloning" is possible
 
 By this I mean that there is NOTHING in laws of physics that disallows us to:
 
@@ -101,27 +118,36 @@ IF "average signal value to the neuron" is more than "neuron state value" THEN s
 NOTE that teleporation is not like a quantum teleporation of electrons
 </pre></details>
 
-thus IF you do "atom-per-atom cloning" (NOT destroy original body, step `d`) THEN
+THUS (!!!!): IF you do "atom-per-atom cloning" (i.e. one does NOT destroy "original body" - step `d`) THEN
 
 <pre translate=yes>
-  a. did the original soul divide onto two souls?
-  b. or now the "original soul" operates two bodies from a heaven??
+  a. Did the original soul divide onto two souls?
+  b. or Now the "original soul" operates two bodies from a heaven ?? O_O
 </pre>
 
-NO, souls don't exist.
+NO, souls don't exist (!!!)
 
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
 Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are arguments) that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
 
-#### `3.` (Sam Harris proof) souls don't exist because you can divide the connection between two hemispheres (a little, like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+#### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
 
-#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DOES EXIST (A guy was a good man, then his head was injured and he became evil. SOUL?)
+Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+
+#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DO EXIST
+
+A guy was a good man, then his head was injured and he became evil. SOUL?
 
 ## What will happen after death?
 
-what was before your life - nothing
+https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death
+
+1. The same that wasbefore your was born
+2. same that happens when you are out of conciousness
+
+nothing
 
 ## Who we are in this universe
 
