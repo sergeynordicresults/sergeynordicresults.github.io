@@ -11,7 +11,8 @@ We cannot prove that god doesnt exist, BUT
 1. We can prove that souls don't exist (later).
 2. We know HOW life was "created"
 
-```
+<pre>
+
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
@@ -26,7 +27,7 @@ SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created untill the end of universe" RANDOMLY.
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
 3. The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
-```
+</pre>
 
 3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
@@ -144,10 +145,9 @@ A guy was a good man, then his head was injured and he became evil. SOUL?
 
 https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death
 
-1. The same that wasbefore your was born
-2. same that happens when you are out of conciousness
-
-nothing
+Seems like:
+1. The same that was before your was born
+2. Same that happens when you are out of conciousness
 
 ## Who we are in this universe
 
@@ -156,17 +156,24 @@ From:
 2. and most importantly ["Sean Carroll - The Passage of Time & the Meaning of Life"](https://www.youtube.com/watch?v=7BH6XCRZad8)
 
 <pre translate=yes>
-We are a little tornados in a cup on a border of coffee and milk when they are mixed together
+Imagine a cup, in a cup there is:
+1. (at the bottom) a coffee 
+2. (at the middle) some thing that separates coffee and milk, e.g. from plastic
+3. (at the top) a milk
 
-1. coffee and milk are fully separated - low entropy, beginning of universe
-2. coffee and milk starts to mix - human civilization then black holes are everywhere, but black holes evaporate, hight entropy
-3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, low entropy again
+then imagine a separation magically disappeared. What will happen next is that coffee and milk will start to slowly mix together AND created tornados (e.g. tornados of milk in the coffee OR tornados of coffee in the milk)
+
+WE ARE these little tornados in a cup (on a border of coffee and milk, when they are mixed together)
+
+1. coffee and milk are fully separated - beginning of universe, LOW ENTROPY
+2. coffee and milk starts to mix - human civilization then black holes are everywhere, but black holes evaporate, HIGH ENTROPY
+3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, LOW ENTROPY again
 
 Soon the process will repeat, all energy combinations will be tried.
 
 Then, in one place, there will be a combination that is the same (or almost the same) as the "begging of universe" combination.
 
-New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), have appeared in a glue of "plane energy".
+This is the New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), that have appeared in a glue of "plane energy".
 </pre>
 
 ---------
@@ -174,9 +181,9 @@ New universe, like a bubble amongst other bubbles (other expanding universes in 
 <pre translate=yes>
 We are like hexagons that appear on a mercury when it is heated
 
-1. Low temperature - no cells
-2. Mercury is heated - hexagonal cells appear (this allows heat/entropy to pass through to the outer world easier?)
-3. Heated more - no cells again
+1. Low temperature - no cells, LOW ENTROPY
+2. Mercury is heated - hexagonal cells appear (this allows heat/entropy to pass through to the outer world easier?), HIGH ENTROPY
+3. Heated more - no cells, LOW ENTROPY again
 
 https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 </pre>
