@@ -10,7 +10,7 @@ What it is about:
 3. american government heated both sides of revolution: on one side was giving money to ukranian nationalists (right sector, anti-moskow) AND on other side (through some ukranian politics) gave order to police to beat ordinary people
 
 But they don't tell about: 
-1. https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
+1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
 2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people)
 
 
