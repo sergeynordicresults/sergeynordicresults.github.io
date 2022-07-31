@@ -67,7 +67,7 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 
 https://www.youtube.com/watch?v=nxsRHJW0ors
 
-Їм всім буде дуже соромно
+Їм усім буде дуже соромно
 ```
 
 <img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
