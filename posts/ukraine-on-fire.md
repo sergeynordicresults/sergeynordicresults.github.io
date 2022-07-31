@@ -1,6 +1,6 @@
 This is what one of russians have sent me when I asked "why do you attack us"?
 
-He have sent it to me and said "maybe in future we will see the whole truth" (LOL, he still doesnt think that putin-pidaras created a war just to distract people of rUSSIA from problems inside of a country)
+He have sent it to me and said "maybe in future we will see the whole truth" (LOL, he still doesn't think that putin-pidaras created a war just to distract people of rUSSIA from problems inside of a country)
 
 ----
 
@@ -14,7 +14,7 @@ But they don't tell about:
 2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people)
 
 
-So, I wouldn't be shocking for me, if in future we will find out that it was pUTIN who gave weapons and money to ukranian (anti-moskow) right sector (even thought they are enermies), to be able to tell later `you see, russian people, they are all nazis, that's why we should liberate Ukraine`
+So, I wouldn't be shocking for me, if in future we will find out that it was pUTIN who gave weapons and money to ukranian (anti-moskow) right sector (even thought they are enermies), to be able to tell later `you see, russian people, they are all nazis, that's why we should "liberate" Ukraine`
 
 
 P.S. Poroshenko is an agent of moskow too, check [Bigus info](https://www.youtube.com/watch?v=VZJG_RKktBQ) , he was sending ukranian money to russian soldiers in DNR
