@@ -8,7 +8,7 @@ The atheist is the one that gives 99% probability that god doesnt exist. I am an
 
 We cannot prove that god doesnt exist, BUT
 
-1. We can prove that souls don't exist (later).
+1. We can prove that souls don't exist (about this - below 👇).
 2. We know HOW life was "created"
 
 <pre>
@@ -24,9 +24,9 @@ THIS IS NOT similar to "from nothing a plane was created", because:
 2. So, it was only a matter of time that this will happen in "infinite" universe.
 
 SUMMARY:
-1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created untill the end of universe" RANDOMLY.
+1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created untill the end of universe" RANDOMLY (todo - give definition of "randomly").
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
-3. The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
+3. (From book "selfish gene") The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
 </pre>
 
 3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
