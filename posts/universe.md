@@ -1,4 +1,4 @@
-# My view on this universe
+# Interesting things I have found
 
 ## (Why I act as if) God doesn't exist (I mean I don't belive in religion and power of prayers)
 
