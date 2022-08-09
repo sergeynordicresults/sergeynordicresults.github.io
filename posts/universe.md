@@ -1,12 +1,12 @@
 # Interesting things I have found
 
-## (Why I act as if) God doesn't exist (I mean I don't belive in religion and power of prayers)
+## (Why I act as if) God doesn't exist (I mean I don't believe in religion and power of prayers)
 
 (from "God as illusion" by Charles Dockins)
 
-The atheist is the one that gives 99% probability that god doesnt exist. I am an atheist by this definition.
+The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
 
-We cannot prove that god doesnt exist, BUT
+We cannot prove that god doesn't exist, BUT
 
 1. We can prove that souls don't exist (about this - below 👇).
 2. We know HOW life was "created"
@@ -16,7 +16,7 @@ We cannot prove that god doesnt exist, BUT
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID NOT have the "self-replicate" property (they didnt make copies of themselves), but others DID
+3. some molecules DID NOT have the "self-replicate" property (they didn't make copies of themselves), but others DID
 4. some molecules were unstable and died, but OUR ancestor "self-replicating molecule-robot" DIDN'T, AND evolved into us.
 
 THIS IS NOT similar to "from nothing a plane was created", because:
@@ -24,12 +24,12 @@ THIS IS NOT similar to "from nothing a plane was created", because:
 2. So, it was only a matter of time that this will happen in "infinite" universe.
 
 SUMMARY:
-1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created untill the end of universe" RANDOMLY (todo - give definition of "randomly").
+1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY (TODO - give definition of "randomly").
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
 3. (From book "selfish gene") The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
 </pre>
 
-3. We don't know why universe was created, but there is an Anthropic principle (we are here because we are here, lol)
+3. We don't know why the universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 SUMMARY:
 god is an extra variable to a function that works fine without extra variable. (about this later)
@@ -112,11 +112,14 @@ By this I mean that there is NOTHING in laws of physics that disallows us to:
 Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
 <details><pre>
-I believe, the thought process of a new human will start from where the old body stopped thinking, because the memory is just a ratio of Calcium to Potassium (for example, don't remember), and a neuron is just memory device that holds a number from 0.0 to 1.0
+I believe, the thought process of a new human will start from where the old body stopped thinking, because:
+
+1. memory is just a ratio of Calcium to Potassium (for example, don't remember) in each neuron
+2. a neuron is just memory device that holds a number from 0.0 to 1.0
 
 IF "average signal value to the neuron" is more than "neuron state value" THEN signal is passed to other axons ELSE not passed
 
-NOTE that teleporation is not like a quantum teleporation of electrons
+NOTE that teleportation is not like a quantum teleportation of electrons
 </pre></details>
 
 THUS (!!!!): IF you do "atom-per-atom cloning" (i.e. one does NOT destroy "original body" - step `d`) THEN
@@ -147,7 +150,7 @@ https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_dea
 
 Seems like:
 1. The same that was before your was born
-2. Same that happens when you are out of conciousness
+2. Same that happens when you are out of consciousness
 
 ## Who we are in this universe
 
@@ -199,7 +202,7 @@ By this I mean: the definition of entropy is tied to a fact, that the only way f
 https://www.youtube.com/watch?v=MBnnXbOM5S4
 
 To know a position of a plane - radar should emanate pulses of signals (1 pulse - wait response, wait till it reflects from the flying plane and returns - REPEAT)
-To know a speed of a plane - radar should emanate very high-frequency waves, higher frequency = higher speed precicion
+To know a speed of a plane - radar should emanate very high-frequency waves, higher frequency = higher speed precision
 
 THUS
 1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
@@ -234,7 +237,7 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 > Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: I wish I would be less angry and emotional in hard situations.
 
-> Michio Kaku: in 2060 wee will have a device that will be making food from atoms in the air.
+> Michio Kaku: in 2060 we will have a device that will be making food from atoms in the air.
 
 > Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
 
