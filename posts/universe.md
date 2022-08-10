@@ -199,7 +199,7 @@ https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 
 <pre translate=yes>
 Q: What IS an entropy?
-A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture that an OBSERVER (human) is seeing"
+A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture, that an OBSERVER (human) is seeing"
 
 By this I mean: the definition of entropy is tied to a fact, that the only way for us (humans / observers / instruments that can detect and react on changes) to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
 
@@ -212,6 +212,10 @@ THUS
 1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
 2. atoms are hot (move fast) - more "exact positions" of atoms could give "a picture we see"
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
+
+----------
+
+High entropy = lot of "disk space" is needed to store the information about the "picture, that OBSERVER is seeing"
 </pre>
 
 <pre translate=yes>
