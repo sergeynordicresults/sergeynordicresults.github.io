@@ -8,10 +8,11 @@ The atheist is the one that gives 99% probability that god doesn't exist. I am a
 
 We cannot prove that god doesn't exist, BUT
 
-1. We can prove that souls don't exist (about this - below 👇).
-2. We know HOW life was "created"
+`1.` We can prove that souls don't exist (about this - below 👇¹).
 
-<pre>
+`2.` We know HOW life was "created"
+
+<pre translate=yes>
 
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
@@ -29,12 +30,12 @@ SUMMARY:
 3. (From book "selfish gene") The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
 </pre>
 
-3. We don't know why the universe was created, but there is an Anthropic principle (we are here because we are here, lol)
+`3.` We don't know why the universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 SUMMARY:
-god is an extra variable to a function that works fine without extra variable. (about this later)
+god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
-## Why souls don't exist:
+## 👉¹ Why souls don't exist:
 
 #### `1.` I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no "magic soup" in the brain.
 
@@ -133,12 +134,12 @@ NO, souls don't exist (!!!)
 
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
-Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are arguments) that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables") that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
 
 #### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
 
-Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there are TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
 #### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DO EXIST
 
@@ -164,20 +165,21 @@ Imagine a cup, in a cup there is:
 2. (at the middle) some thing that separates coffee and milk, e.g. from plastic
 3. (at the top) a milk
 
-then imagine a separation magically disappeared. What will happen next is that coffee and milk will start to slowly mix together AND created tornados (e.g. tornados of milk in the coffee OR tornados of coffee in the milk)
+then imagine a separation `2.` magically disappeared. What will happen next is that coffee and milk will start to slowly mix together AND create tornados (i.e. `tornados of milk in the coffee` OR `tornados of coffee in the milk`)
 
 WE ARE these little tornados in a cup (on a border of coffee and milk, when they are mixed together)
 
 1. coffee and milk are fully separated - beginning of universe, LOW ENTROPY
-2. coffee and milk starts to mix - human civilization then black holes are everywhere, but black holes evaporate, HIGH ENTROPY
-3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, LOW ENTROPY again
-
-Soon the process will repeat, all energy combinations will be tried.
+2. coffee and milk starts to mix - human civilization, then black holes are everywhere, but black holes evaporate, HIGH ENTROPY
+3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, LOW ENTROPY again, all energy combinations will be tried
 
 Then, in one place, there will be a combination that is the same (or almost the same) as the "begging of universe" combination.
 
-This is the New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), that have appeared in a glue of "plane energy".
+This is the New universe, like a bubble amongst other bubbles (other expanding universes in multiverse), that have appeared in a space of "plane energy".
 </pre>
+
+![autodraw 8_10_2022](https://user-images.githubusercontent.com/7573215/183978832-9bbf6d1b-8202-4e07-a302-4ddf565dd70e.png)
+
 
 ---------
 
