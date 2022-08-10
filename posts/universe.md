@@ -180,6 +180,8 @@ This is the New universe, like a bubble amongst other bubbles (other expanding u
 
 ![autodraw 8_10_2022](https://user-images.githubusercontent.com/7573215/183978832-9bbf6d1b-8202-4e07-a302-4ddf565dd70e.png)
 
+![x](https://user-images.githubusercontent.com/7573215/183980214-4de65deb-07ba-4793-9770-caf8fc22be44.png)
+
 
 ---------
 
