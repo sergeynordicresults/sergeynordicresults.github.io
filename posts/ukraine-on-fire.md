@@ -7,7 +7,7 @@ He have sent it to me and said "maybe in future we will see the whole truth" (LO
 What it is about:
 1. It contains interviews with putin (pidaras) and yanukovich (old ukr president, pidaras too)
 2. The revolution in ukraine in 2014 was created by american government
-3. american government heated both sides of revolution: on one side was giving money to ukranian nationalists (right sector, anti-moskow) AND on other side (through some ukranian politics) gave order to police to beat ordinary people
+3. american government heated both sides of revolution: on one side was giving money to ukranian nationalists (right sector, anti-moskow) AND on other side (through some ukranian politics) gave order to ukranian police to beat ordinary people
 
 But they don't tell about: 
 1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
