@@ -136,13 +136,20 @@ NO, souls don't exist (!!!)
 
 👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` (`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables") that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
 
-i.e. By "works fine" I mean - IT SEEMS LIKE function `f` doesn't use the variable `c`
+i.e. By "works fine" I mean IT SEEMS LIKE function `f` doesn't use the variable `c`
 
 <pre translate=yes>
-  IF I change `a` argument         THEN `returned_value` will be changed
-  IF I change `b` argument         THEN `returned_value` will be changed
-  IF I change `a` and `b` argument THEN `returned_value` will be changed
-  IF I change `c` argument         THEN `returned_value` will NOT be changed, the `c` makes no effect on `returned_value`
+IF I change `a` argument         THEN `returned_value` will be changed
+IF I change `b` argument         THEN `returned_value` will be changed
+IF I change `c` argument         THEN `returned_value` will NOT be changed, the `c` makes no effect on `returned_value`
+
+IF I change `a` and `b` argument THEN `returned_value` will be changed
+IF I change `a` and `c` argument THEN `returned_value` is same as if I changed only `a`
+IF I change `b` and `c` argument THEN `returned_value` is same as if I changed only `b`
+
+IF I change `a` and `b` and `c` argument THEN `returned_value` is same as if I changed only `a` and `b`
+
+RESULT OF TEST: (IT SEEMS LIKE) function `f` doesn't use the variable `c`
 </pre>
 
 <details>
