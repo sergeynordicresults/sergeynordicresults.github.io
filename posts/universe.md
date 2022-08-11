@@ -134,7 +134,32 @@ NO, souls don't exist (!!!)
 
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
-👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function... }` (`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables") that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what is it... }` (`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables") that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+
+i.e. By "works fine" I mean - IT SEEMS LIKE function `f` doesn't use the variable `c`
+
+<pre translate=yes>
+  IF I change `a` argument         THEN `returned_value` will be changed
+  IF I change `b` argument         THEN `returned_value` will be changed
+  IF I change `a` and `b` argument THEN `returned_value` will be changed
+  IF I change `c` argument         THEN `returned_value` will NOT be changed, the `c` makes no effect on `returned_value`
+</pre>
+
+<details>
+example function with such property:
+
+```js
+function f(a, b, c) { return a + b }
+
+const returned_value1 = f(10, 20, 30) // 30
+const returned_value2 = f(11, 20, 30) // 31
+const returned_value3 = f(10, 21, 30) // 31
+    
+const returned_value4 = f(10, 20, 31) // 30
+const returned_value5 = f(10, 20, 32) // 30
+....
+```
+</details>
 
 
 #### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
