@@ -190,7 +190,7 @@ A guy was a good man, then his head was injured and he became evil. SOUL?
 https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death
 
 Seems like:
-1. The same that was before your was born
+1. The same that was before you was born
 2. Same that happens when you are out of consciousness
 
 ## Who we are in this universe
@@ -291,6 +291,6 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 > I am a citizen of a universe, not a country
 
-> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (they change perception of problem to reduce the cognitive dissonance). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
+> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
 
 > Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
