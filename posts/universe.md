@@ -146,9 +146,9 @@ i.e. By "works fine" I mean - IT SEEMS LIKE function `f` doesn't use the variabl
 </pre>
 
 <details>
-example function with such property:
+example function with such property in javascript:
 
-```js
+<pre>
 function f(a, b, c) { 
     return a + b
 }
@@ -166,7 +166,7 @@ const returned_value__when_changing_b__2 = f(10, 22, 30) // 32
 const returned_value__when_changing_c__1 = f(10, 20, 31) // 30
 const returned_value__when_changing_c__2 = f(10, 20, 32) // 30
 ....
-```
+</pre>
 </details>
 
 
