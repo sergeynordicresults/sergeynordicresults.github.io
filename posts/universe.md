@@ -149,17 +149,22 @@ i.e. By "works fine" I mean - IT SEEMS LIKE function `f` doesn't use the variabl
 example function with such property:
 
 ```js
-function f(a, b, c) { return a + b }
+function f(a, b, c) { 
+    return a + b
+}
 
-const returned_value = f(10, 20, 30) // 30
+const returned_value__init = f(10, 20, 30) // 30
     
-const returned_value = f(11, 20, 30) // 31
+const returned_value__when_changing_a__1 = f(11, 20, 30) // 31
+const returned_value__when_changing_a__2 = f(12, 20, 30) // 32
 ....
-const returned_value3 = f(10, 21, 30) // 31
+    
+const returned_value__when_changing_b__1 = f(10, 21, 30) // 31
+const returned_value__when_changing_b__2 = f(10, 22, 30) // 32
 ....
 
-const returned_value4 = f(10, 20, 31) // 30
-const returned_value5 = f(10, 20, 32) // 30
+const returned_value__when_changing_c__1 = f(10, 20, 31) // 30
+const returned_value__when_changing_c__2 = f(10, 20, 32) // 30
 ....
 ```
 </details>
