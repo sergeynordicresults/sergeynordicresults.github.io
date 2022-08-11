@@ -153,8 +153,10 @@ function f(a, b, c) { return a + b }
 
 const returned_value1 = f(10, 20, 30) // 30
 const returned_value2 = f(11, 20, 30) // 31
+....
 const returned_value3 = f(10, 21, 30) // 31
-    
+....
+
 const returned_value4 = f(10, 20, 31) // 30
 const returned_value5 = f(10, 20, 32) // 30
 ....
