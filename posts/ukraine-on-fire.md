@@ -11,7 +11,7 @@ What it is about:
 
 But they don't tell about: 
 1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
-2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people)
+2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people and then see if they can get something while parties are weakened)
 
 
 So, I wouldn't be shocking for me, if in future we will find out that it was pUTIN who gave weapons and money to ukranian (anti-moskow) right sector (even thought they are enermies), to be able to tell later `you see, russian people, they are all nazis, that's why we should "liberate" Ukraine`
