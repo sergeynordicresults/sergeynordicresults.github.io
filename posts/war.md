@@ -86,7 +86,7 @@ For people inside of Russia:
 For russian people that were sent on a war (for children, without knowing):
 1. surrender
 
-    1. we will treat You as a proper Euro-country (check Arestovich youtube channel - "не издеватесь над заключёнными, мы европейцы")
+    1. we will treat You as a proper Euro-country (check Arestovich youtube channel - "не издеватесь над заключёнными, мы европейцы" https://m.youtube.com/watch?v=3_cfpbAif1Q https://m.youtube.com/watch?v=_k6enyFgozs)
     3. for my people that think differently: each time russian people see video of our military not behaving well - another 1% is converted to evil
     4. every prisoner is another proof of atrocities
 
