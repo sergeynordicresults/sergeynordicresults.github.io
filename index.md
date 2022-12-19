@@ -22,7 +22,12 @@
 
 #### Some of my other work
 
-- [srghma-chinese.github.io](https://srghma-chinese.github.io), repo [github.com/srghma-chinese/srghma-chinese.github.io](https://github.com/srghma-chinese/srghma-chinese.github.io), telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
+- Chinese:
+- - [srghma-chinese2.github.io](https://srghma-chinese2.github.io)
+- - repo [github.com/srghma-chinese2/srghma-chinese2.github.io](https://github.com/srghma-chinese2/srghma-chinese2.github.io)
+- - telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
+- - NEWS: all hsk ierogliphs (+ more) are finished and are in the `ru-pinyin.txt` file.
+- - NEWS2: also, there is a folder [`srghma-chinese-stardict`](https://mega.nz/folder/Nh1TgKTB#d6oo1sTLSah-zwXcz-gCvg/folder/J8slURpA) with a dictionary for the `goldendict android` application
 
 ### Posts
 
