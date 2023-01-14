@@ -1,6 +1,6 @@
 # Interesting things I have found
 
-## (Why I act as if) God doesn't exist (I mean I don't believe in religion and power of prayers)
+## (Why I act as if) God doesn't exist (I mean I don't believe in power of prayers. All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)
 
 (from "God as illusion" by Charles Dockins)
 
@@ -285,7 +285,9 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 > Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: I wish I would be less angry and emotional in hard situations.
 
-> Michio Kaku: in 2060 we will have a device that will be making food from atoms in the air.
+> Michio Kaku: in 2060 we will have a device, that can make food from atoms in the air.
+
+> "The Nexus Trilogy" by Ramez Naam: in future we will connect all our brains to one mega-brain using Neurolink technology.
 
 > Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
 
