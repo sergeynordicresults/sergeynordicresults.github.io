@@ -24,7 +24,7 @@
 #### Some of my other work
 
 - Chinese:
-- - [srghma-chinese2.github.io](https://srghma-chinese2.github.io)
+- - [🔴 srghma-chinese2.github.io 🔴](https://srghma-chinese2.github.io)
 - - repo [github.com/srghma-chinese2/srghma-chinese2.github.io](https://github.com/srghma-chinese2/srghma-chinese2.github.io)
 - - telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
 - - NEWS: all hsk ierogliphs (+ more) are finished and are in the `ru-pinyin.txt` file.
