@@ -1,6 +1,7 @@
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
+- [linkedin.com/in/srghma](https://www.linkedin.com/in/srghma/)
 - [twitter.com/srghma](https://twitter.com/srghma)
 - [github.com/srghma](https://github.com/srghma)
 - [instagram.com/srghma](https://instagram.com/srghma)
