@@ -9,6 +9,12 @@ What it is about:
 2. The revolution in ukraine in 2014 was created by american government
 3. american government heated both sides of revolution: on one side was giving money to ukranian nationalists (right sector, anti-moskow) AND on other side (through some ukranian politics) gave order to ukranian police to beat ordinary people
 
+Film gives a feeling that putin and yanukovich are good guys.
+
+And makes easy to believe that war in Ukraine 2022 was created by America https://twitter.com/srghma/status/1641343143575445506?s=20
+
+----
+
 But they don't tell about: 
 1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
 2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people and then see if they can get something while parties are weakened). 
