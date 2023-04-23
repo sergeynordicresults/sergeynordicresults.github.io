@@ -10,7 +10,7 @@ In Ukraine, bc marijuana is not legalized, it is actually sold out with chemical
 
 Now You think: "what will happen if I will try?"
 
-Answer: nothing interesting. 
+Answer: nothing interesting
 
 You will sink into the kind of ["Shephard tone"](https://en.m.wikipedia.org/wiki/Shepard_tone) illusion (this is the sound-illusion, it makes you think that pitch is always increasing)
 
@@ -42,7 +42,7 @@ And then, in the subconsiousness, unknown to me:
   - **IF** some person has such desires **THEN** what should he do?
   - Should he go to the doctor?
   - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction?) ? (this desire clearly warps the fabric of reality)
-  - Should humans follow their natural wiring at all? <sub>(basically, the whole plot of Doctor House, who the whole series cannot decide what is better: to be the psychopath and have everything OR follow natural wiring and be good. Suffering in both cases)</sub>
+  - Should humans follow their natural wiring at all? <sub>(the whole plot of Doctor House, who the whole series cannot decide what is better: to be the psychopath and have everything OR follow natural wiring and be good. Suffering in both cases)</sub>
 
 ### Story:
 
