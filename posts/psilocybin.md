@@ -55,6 +55,6 @@ Realizations:
 1. I understood, that even though the body live in can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. 
 2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I would go to doctor
 3. Maybe it doesn´t make much sence to desire the power too much, bc
-  - we will anyway live in abundunce
+  - we will anyway live in abundunce (if not 
   - even Genghis Khan, though we had everything, wasnt very happy
-  - human civilization can survive ONLY IF will become less aggressive (Neil Degrass Tyson)
+  - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that could peacefully colonize a galaxy is not the kind of civilization that would colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
