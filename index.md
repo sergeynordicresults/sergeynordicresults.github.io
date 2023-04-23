@@ -40,9 +40,11 @@
 
 1. 🔴 About this universe 🔴 : [**English**](https://srghma.github.io/posts/universe), [Spanish (outdated)](https://srghma.github.io/posts/universe-spanish)
 
-2. [About the war](https://srghma.github.io/posts/war) (tried to get all reasons why were are attacked, but I don't regard it good anymore)
+2. [My marijuana 👎 and psylocybin 🤏 stories](https://srghma.github.io/posts/psylocybin)
 
-3. [Review on "Ukraine on fire" film](https://srghma.github.io/posts/ukraine-on-fire)
+3. [About the war](https://srghma.github.io/posts/war) (tried to get all reasons why were are attacked, but I don't regard it good anymore)
+
+4. [Review on "Ukraine on fire" film](https://srghma.github.io/posts/ukraine-on-fire)
 
 
 ### Pirated data
