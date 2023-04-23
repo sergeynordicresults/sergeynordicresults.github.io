@@ -1,8 +1,8 @@
 # marijuana
 
-⚠️ **Dont try it until 25 !!! (until Your brain connections are crystalized)** ⚠️
+⚠️ **Dont try it until 25 !!! (until Your brain connections are crystalized)!! With or without additives, marijuana impairs Your brain** ⚠️
 
-In Ukraine, bc marijuana is not legalized, it is actually sold out with chemicals (<sup>by some people that should be in jail for this, like poroshenko, bc "fish rots from the head"</sup>), that cause damage to the brain. And then, stupid children (like me and my friends) buy it. And then think *"WOW, why I am less smart as I was?"*
+In Ukraine, bc marijuana is not legalized, it is actually sold out with chemicals (<sup>by some people that should be in jail for this. like poroshenko, bc "fish rots from the head", this guy clearly wasnt trying to improve society</sup>), that cause damage to the brain. And then, stupid children (like me and my friends) buy it. And then think *"WOW, why I am less smart as I was?"*
 
 *LEARN ON MY MISTAKES!!!*
 
@@ -42,10 +42,19 @@ And then, in the subconsiousness, unknown to me:
   - **IF** some person has such desires **THEN** what should he do?
   - Should he go to the doctor?
   - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction?) ? (this desire clearly warps the fabric of reality)
-  - Should humans follow their natural wiring at all? <sub>(basically, the whole plot of Doctor House, who the whole series cannot decide what is better: to be the psychopath and have everything OR follow natural wiring and be good. Suffering in both cases)</sub> Maybe Sergey Brin 
+  - Should humans follow their natural wiring at all? <sub>(basically, the whole plot of Doctor House, who the whole series cannot decide what is better: to be the psychopath and have everything OR follow natural wiring and be good. Suffering in both cases)</sub>
 
 ### Story:
 
-So, one day I tried, then was walking in the woods, then laid and slept and had a dream:
+So, one day I tried mushrooms, then was walking in the woods, then laid and slept and had a dream:
 
-I was Kavin Spacy, that went to 
+I was in a Kavin Spacy body, but I was hating this universe. I went to the kindergarten and started pouring hot water on the hands of kindergarten teacher until the flash started to peel off from the hands (possibly inspired by ¨Men Behind the Sun¨ film, which I didnt watch). So, I was torturing the grown up people, but I couldnt torture the children. Instead, I made them watch, so that they too hate this universe, as I/Kavin Spacy hate it.
+
+Realizations:
+
+1. I understood, that even though the body live in can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. 
+2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I would go to doctor
+3. Maybe it doesn´t make much sence to desire the power too much, bc
+  - we will anyway live in abundunce
+  - even Genghis Khan, though we had everything, wasnt very happy
+  - human civilization can survive ONLY IF will become less aggressive (Neil Degrass Tyson)
