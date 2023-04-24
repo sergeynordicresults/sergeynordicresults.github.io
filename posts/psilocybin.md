@@ -27,11 +27,11 @@ Summary: dont try it, nothing interesting, just makes **"You can be mesmerized b
 
 ## But
 
-one interesting thought i indeed have:
+one interesting thought i indeed had:
 
 1. it's it possible to suffer indefinitely in our universe? (now, we know that the universe will end, so ♾️ not possible).
 1. to create a brain, put it to the machine of suffering, send it to the space with near light velocity, so that no good human could catch it and disable suffering
-1. what is the maximum of the suffering? `Suffering Force` = `Suffering Time` <sub>(till the end of universe?)</sub> * `Suffering Power` <sub>(neutral networks become accustomed to suffering OR it's possible to make it novel all the time?)</sub>
+1. what is the maximum of the suffering? `Suffering Force` = `Suffering Time` <sub>(till the end of universe?)</sub> * `Suffering Power` <sub>(neutral networks become accustomed to pain OR it's possible to make it novel all the time?)</sub>
 
 # psylocybin
 
