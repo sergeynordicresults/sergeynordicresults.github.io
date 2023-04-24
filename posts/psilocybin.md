@@ -64,7 +64,7 @@ So, I was torturing the grown up people, but I couldnt torture children. Instead
 
 Realizations:
 
-1. I understood, that even though I can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. 
+1. I understood, that even though I can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos, without a theme you will not write a poem. *Stephen Hocking*: it seems like this universe should be non-ideal in order for a stuff to exist)
 2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I should go to doctor
 3. I understood, that maybe it doesn't make much sence to desire the power too much, bc
   - we will anyway live in abundunce (if we will not destroy ourselves)
