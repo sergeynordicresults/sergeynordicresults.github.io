@@ -95,10 +95,11 @@ to advance on the ladder
 
 Alternatives to do in the universe:
 
-1. Cure death. Live until the end of universe. 
-2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something?)</sub>
-3. Meet everyone, one by one, and say "Yes, this is a life too" (Eliezer Yudkowsky) 
-4. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use people and hop from one group of people to another"
-5. Demolish country borders <sub>(Neil deGrasse Tyson: ... bc from aliens point of view, they dont make sense)<sub>
-6. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals - this will be the turning point)<sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)<sub>
+1. Cure death. Live until the end of universe. <sub>(Eliezer Yudkowsky: Harry Potter and the methods of rationality)</sub>
+2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(Jordan Peterson) (bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something?)</sub>
+3. Meet everyone, one by one, and say "Yes, this is a life too" <sub>(Eliezer Yudkowsky)</sub>
+4. Relax, this is just a game <sub>(Eliezer Yudkowsky)</sub>
+5. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use people and hop from one group of people to another"
+6. Demolish country borders <sub>(Neil deGrasse Tyson: ... bc from aliens point of view, they dont make sense)<sub>
+7. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
 
