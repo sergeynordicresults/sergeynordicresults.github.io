@@ -70,3 +70,7 @@ Realizations:
   - we will anyway live in abundunce (if we will not destroy ourselves)
   - even Genghis Khan, though we had everything, wasnt happy
   - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that could peacefully colonize a galaxy is not the kind of civilization that would colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
+
+
+Then, when i woke up, (like a cloud of a bomb) universe appeared again before me, i was lying and thought:
+> ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light, like from the black hole") 
