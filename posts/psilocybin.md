@@ -72,5 +72,30 @@ Realizations:
   - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that could peacefully colonize a galaxy is not the kind of civilization that would colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
 
 
-Then, when i woke up, (like a cloud of a bomb) universe appeared again before me, i was lying and thought:
+Then, when i woke up, (like a cloud of a bomb, and i was in center) universe appeared again around me, i was lying and thought:
 > ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light, like from the black hole") 
+
+# P. S. Why am I telling all this
+
+B. c. IF 
+
+1. Ramez Naam "The Nexus Trilogy" <sub>(in future humans will merge all brains with Elon Musk's Neuralink-like technology, will be able to show videos with past, enter each-other's bodies)</sub> 
+2. AND Erwin Schrodinger "My view of the world" <sub> ("in truth there is only one mind")</sub> 
+3. AND Sean Carroll <sub>("universe and we will not exist forever.")</sub>
+4. AND Michio Kaku <sub>("do whatever you want, you will anyway someday have 1. The device that makes the food from the air 2. Medicine to live until the end of universe")</sub> 
+
+THEN there is no need:
+
+
+1. to lie 
+2. to hide information 
+3. to cheat 
+4. kill 
+to advance on the ladder
+
+Alternatives to do in the universe:
+
+1. Cure death. Live until the end of universe. 
+2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something?)</sub>
+3. Meet everyone, one by one, and say "Yes, this is a life too" (Eliezer Yudkowsky) 
+4. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use people and hop from one group of people to another"
