@@ -1,6 +1,6 @@
 # Posts
 
-1. 🔴 About this universe 🔴 : [**English**](https://srghma.github.io/universe) (other languages: [Chinese](https://srghma-github-io.translate.goog/posts/universe?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp), [Spanish](https://srghma-github-io.translate.goog/posts/universe?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp), [Russian](https://srghma-github-io.translate.goog/posts/universe?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp), [Ukranian](https://srghma-github-io.translate.goog/posts/universe?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp))
+1. 🔴 About this universe 🔴 : [**English**](https://srghma.github.io/universe) (other languages: [Chinese](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp), [Spanish](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp), [Russian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp), [Ukranian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp))
 
 2. [My marijuana 👎 and psylocybin 🤏 stories](https://srghma.github.io/psilocybin)
 
@@ -15,9 +15,10 @@
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
+- [github.com/srghma](https://github.com/srghma)
+- [github.com/srghma/srghma.github.io](https://github.com/srghma.github.io)
 - [linkedin.com/in/srghma](https://www.linkedin.com/in/srghma/)
 - [twitter.com/srghma](https://twitter.com/srghma)
-- [github.com/srghma](https://github.com/srghma)
 - [instagram.com/srghma](https://instagram.com/srghma)
 - [couchsurfing.com/people/srghma](https://www.couchsurfing.com/people/srghma)
 - [youtube](https://m.youtube.com/channel/UCeXBynq0xehRgm5ECkr9p2A)
