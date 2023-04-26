@@ -1,5 +1,4 @@
-
-```
+<pre translate=yes>
 Буча 2022:
 - мужчинам - отрезали носы и уши, связали руки, застрелили в голову из-за спины
 - женщин - изнасиловали, выбросили из машины при побеге и сожгли
@@ -17,19 +16,53 @@ This is what russian “liberators” did:
 - 10 y.o. - raped, shot
 
 Russia reaction - send mobile crematoriums.
-```
+</pre>
 
-```
+<pre translate=yes>
+Волосы женщин Мариуполя, погибших под российскими бомбардировками, и другие остатки домов, теперь являются частью фундамента новых дорог, чтобы скрыть преступления российских оккупантов.
+
+Они говорят, что напали на нас, потому что "что-то знали".
+
+На самом деле, они хотели только захватить территорию, но это невозможно сделать без "поиска предателей", без страны-"ГУЛАГа" (Солженицын), "пыточных домов", доносов от соседей, карательной психиатрии и прочих ужасов СССР.
+
+---------------
+
+The hair of the women of Mariupol, who died under Russian bombardments, and other remains of houses, are now part of the foundation of new roads, to hide Russian criminals.
+
+They say they attacked us because they "knew something".
+
+Actually, they just wanted to take territory, but it is not possible to do this without "looking for traitors", without country-"GULAG" (Solzhenitsyn), "torture houses", denunciations of neighbors, punitive psychiatry, and other horrors of USSR.
+
+---------------
+
+死于俄罗斯轰炸下的马里乌波尔妇女的头发和其他房屋的残余物，现在成为新道路的地基的一部分，以掩盖俄罗斯占领者的罪行。
+
+他们说他们袭击我们是因为他们 "知道些什么"。
+
+实际上，他们只想夺取领土，但如果没有 "搜寻叛徒"，没有 "古拉格 "国家（索尔仁尼琴）、"酷刑屋"、邻居的告发、惩罚性精神病学和其他苏联的恐怖行为，这是不可能做到的。
+
+---------------
+
+El pelo de las mujeres de Mariupol, que murieron bajo los bombardeos rusos, y otros restos de casas, forman ahora parte del cimiento de carreteras nuevas, para ocultar crimenos rusos.
+
+Dicen, que nos atacaron porque “sabían algo”.
+
+Realmente, solo querían tomar territorio, pero no es posible hacer esto sin “buscar traidores”, sin país-“GULAG” (Solzhenitsyn), “casas de torturas”, denuncias de vecinos, psiquiatría punitiva, y otros horrores de URSS.
+</pre>
+
+-----------------
+
+<pre translate=yes>
 https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_prezidenta_ukrainyi_9048156
 
 Что должна делать русская оппозиция:
 1. Навальный должен объявить краудфандинг на зарплату Беркуту (зачем работать на путина сейчас если вам и так выдадут деньги)
 2. рояль на главной площади (как в Украине на майдане)
-```
+</pre>
 
-```
-ЧТО Я ЗНАЮ ТОЧНО:
-1. Сестра: Автобус, в котором она с ребенком пыталась перебраться в россию как беженец, по пути был расстрелян 3 раза русскими. (ок, она тоже не может доказать что это были русские)
+<pre translate=yes>
+ЧТО Я ЗНАЮ:
+1. Сестра: Автобус, в котором она с ребенком пыталась перебраться в россию как беженец, по пути был расстрелян русскими. Все выжили.
 2. Мой друг в Херсоне: все гуманитарные конвои, которые Украина пыталась передать в оккупированный Херсон, были расстреляны или захвачены и съедены русскими. Вместо этого населению они раздают вонючие пропавшие каши и рассказывают как помогают наслению.
 3. Тетя: приехал русский мер с телевидением, покрасовался, мы спросили у него "а что делать с разрушенными домами", он сказал "берите кредит в русском банке" и уехал
 
@@ -48,11 +81,11 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 Воспользовался вашими тупыми желаниями указывать другим как жить (https://www.youtube.com/watch?v=evkr6wG3BY0)
 
 Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку, какая разница что было в безумном СССР. (Хотя да, самый лучший вариант - что бы люди Крыма и Донецка проголосовали через блокчейн где они хотят остаться).
-```
+</pre>
 
-[MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/posts/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
+[MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
 
-```
+<pre translate=yes>
 Слово моїм співвідчизникам:
 
 1. працюйте, допомогайте, це вбереже вас від збожеволення (як це трапилось з деякими старими людьми)
@@ -68,7 +101,7 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 https://www.youtube.com/watch?v=nxsRHJW0ors
 
 Їм усім буде дуже соромно
-```
+</pre>
 
 <img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
 
@@ -115,7 +148,7 @@ lets have a meeting in google-meets or zoom.
 
 Clash of thoughts create a truth.
 
-<blockquote><details><summary>Zelensky/NATO would attack first? maybe</summary><pre>
+<blockquote><details><summary>Zelensky/NATO would attack first? maybe</summary><pre translate=yes>
 
 Пусть бы НАТО и напало, убедились бы, а так - "вот бы да кабы"
 
@@ -159,7 +192,7 @@ Words of psychopaths that decided to seek for cure:
 P.S. в "классное" время мы живем, брат может оправдать убийство сестры (ты знаешь о ком я, дядя)
 </pre></details></blockquote>
 
-<blockquote><details><summary>"Bucha is fake"</summary><pre>
+<blockquote><details><summary>"Bucha is fake"</summary><pre translate=yes>
 https://www.youtube.com/watch?v=Sk1XNYrnT9w&t=1190s
 
 > after WW2 some german people TOO told that
@@ -175,7 +208,7 @@ just tell "I will not believe until XXX and YYY", so that we could start dialog
 I too cannot prove that Bucha happened, Its just more probable for me that this was done by russian soldiers
 </pre></details></blockquote>
 
-<blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre>
+<blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre translate=yes>
 Show me how!
 
 Maybe you https://youtu.be/evkr6wG3BY0 ?
@@ -190,7 +223,7 @@ BUT
 </pre></details></blockquote>
 
 
-<blockquote><details><summary>"почему вы не осуждали войну Луганск и Донецк когда была возможность, а теперь взбесились?"</summary><pre>
+<blockquote><details><summary>"почему вы не осуждали войну Луганск и Донецк когда была возможность, а теперь взбесились?"</summary><pre translate=yes>
 а потому что никто не знал что происходит
 
 1. почему люди были против Януковича
@@ -204,7 +237,7 @@ BUT
 теперь то по крайней мере Я думаю что знаю что где зло
 </pre></details></blockquote>
 
-<blockquote><details><summary>"Russian soldiers are best"</summary><pre>
+<blockquote><details><summary>"Russian soldiers are best"</summary><pre translate=yes>
 
 1. video "Мариуполь. Оккупанты не стесняются и фиксируют свои военные преступления."
 2. video "В Буче русский военный расстрелял мужчину на глазах у его 14-летнего сына"
@@ -214,7 +247,7 @@ BUT
 6. [Russians DID know that people are under a bringe, BUT BOMBED THE BRIDGE ANYWAY](https://youtu.be/uFXassgoymI?t=957)
 </pre></details></blockquote>
 
-<blockquote><details><summary>"People in Donetsk don't want to be in Ukraine"</summary><pre>
+<blockquote><details><summary>"People in Donetsk don't want to be in Ukraine"</summary><pre translate=yes>
  IN MY CITY: some people WERE pro-"russian liberation" (old people), they are not anymore
 
  https://www.youtube.com/watch?v=VUwXnBDOmeY - I think THIS is fake
@@ -232,7 +265,7 @@ BUT
 > "we love the sanctions, because the rich and poor are equally poor now"
 
 
-<blockquote><details><summary>Yanukovich should return</summary><pre>
+<blockquote><details><summary>Yanukovich should return</summary><pre translate=yes>
 
 he is a dictator, he wanted to make Ukraine the another one Belarus and Russia, but ukranians remember holodomor too good to allow this to happen
 
@@ -246,7 +279,7 @@ then - revolution
 
 </pre></details></blockquote>
 
-<blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre>
+<blockquote><details><summary>"Russian language is banned in Ukraine"</summary><pre translate=yes>
 
 https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on russian, I write songs on ukrainian"
 
@@ -279,7 +312,7 @@ https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on ru
 </pre></details></blockquote>
 
 
-<blockquote><details><summary>"All ukrainians are pro-Bandera" => nazis (think that all other nations should die)</summary><pre>
+<blockquote><details><summary>"All ukrainians are pro-Bandera" => nazis (think that all other nations should die)</summary><pre translate=yes>
 My view: I dont know anything about Bandera
 
 yes, there are monuments to Bandera in Lviv
@@ -310,7 +343,7 @@ https://youtu.be/ARaX2djZYFw?t=4256
 4. is russia fashizm? yes
 </pre></details></blockquote>
 
-<blockquote><details><summary>"Azov" military division is Nazis? Maybe</summary><pre>
+<blockquote><details><summary>"Azov" military division is Nazis? Maybe</summary><pre translate=yes>
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
@@ -319,7 +352,7 @@ But Nevzorov tells that he have talked with them.
 
 > "USSR was great, we want to be in USSR, because right now we are slaves for rich people"
 
-<blockquote><details><summary>"Stalin was a great guy"</summary><pre>
+<blockquote><details><summary>"Stalin was a great guy"</summary><pre translate=yes>
 
 https://www.youtube.com/watch?v=ClKSvmWJEAk
 
@@ -339,7 +372,7 @@ of course Stalin didnt care - he killed XX% of ukrainians in Holodomor and then 
 </pre></details></blockquote>
 
 
-<blockquote><details><summary>"Russia have won, Ukraine will not become a part of NATO anymore"</summary><pre>
+<blockquote><details><summary>"Russia have won, Ukraine will not become a part of NATO anymore"</summary><pre translate=yes>
 Thanks to Russia
 
 We now have something better than NATO, 3 days instead of 60
@@ -353,7 +386,7 @@ We will be able to live in any Europe country without changing citizenship (only
  вступления Швеции и Финляндии Кремль получит НАТО в получасе езды от Петербурга
 </pre></details></blockquote>
 
-<blockquote><details><summary>"Putin is a nice guy"</summary><pre>
+<blockquote><details><summary>"Putin is a nice guy"</summary><pre translate=yes>
 film "Недоверие" / Russian apartment bombings in September 1999 - Putin ordered FSB to bomb buildings of ordinary russian people to start a war with Chechnya
 
 https://youtu.be/BIeIu66MKLY?t=58 - Nemtsov 2014, miting again a war in Ukraine, putin should go to mental hospital, the war will not bring anything good to Russia, he just wants to rule forever.
@@ -374,7 +407,7 @@ https://youtu.be/aY-VBOYAaSI?t=587
 
 > "IF putin was a bad guy THEN the damage would be even greater"
 
-<blockquote><details><summary>"Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"</summary><pre>
+<blockquote><details><summary>"Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"</summary><pre translate=yes>
 Nevzorov: putin had a LOT of time to make russia great
 
 Jordan Peterson: If You want to understand a MEANING of actions, You should see a RESULT. RESULT is a MEANING
@@ -386,11 +419,11 @@ Jordan Peterson: If You want to understand a MEANING of actions, You should see 
 
 > "We didnt take Crimea, russian military was there already always. We just changed a name from `Autonomous republic` to `Republic`"
 
-<blockquote><details><summary>"If war is started - it should be finished. Its stupid to retreat now."</summary><pre>
+<blockquote><details><summary>"If war is started - it should be finished. Its stupid to retreat now."</summary><pre translate=yes>
 A rule of poker game: it's better to exit game late, then not exist at all
 </pre></details></blockquote>
 
-<blockquote><details><summary>"I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre>
+<blockquote><details><summary>"I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre translate=yes>
 WHY WE DID live bad?
 
 I don't know WHY the revolution 2014 started.
@@ -422,7 +455,7 @@ What I wish he would do:
 
 </pre></details></blockquote>
 
-<blockquote><details><summary>"No, russians should not surrender, Ukrainians will kill them"</summary><pre>
+<blockquote><details><summary>"No, russians should not surrender, Ukrainians will kill them"</summary><pre translate=yes>
 yes, after Bucha some ukrainian militarists don't want to take prisoners anymore (I think this is wrong)
 
 BUT:
@@ -432,7 +465,7 @@ BUT:
 </pre></details></blockquote>
 
 
-<blockquote><details><summary>"What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"</summary><pre>
+<blockquote><details><summary>"What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"</summary><pre translate=yes>
 there is a way to rotate politicians more often / throw off dictators BEFORE they do wrong:
 
 electronic voting on blockchain
@@ -447,7 +480,7 @@ it's already possible
 
 > the atrocities were done NOT by russian soldiers, but by ukranian, BECAUSE russian soldiers dont wear helmets from World War 2
 
-<blockquote><details><summary>we have proofs that Bucha didn't happen</summary><pre>
+<blockquote><details><summary>we have proofs that Bucha didn't happen</summary><pre translate=yes>
 https://nnm.club/post/stoit-li-doverjat-sputnikovym-video-ot-maxar.html
 
 https://youtube.com/watch?v=c9J0yRXj-mg
@@ -477,5 +510,3 @@ Check what is a Milgram experiment
 > Harry Potter and methods of rationality:
 > 1. it's very humane (and in a human genome) to disable compassion for people from other tribes
 > 2. Killers of Jews were ordinary people, they HAD an ability to sympathize to other humans, it's just that they didn't think Jews were humans
-
-

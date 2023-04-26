@@ -1,16 +1,13 @@
 # Interesting things I have found
 
-## (Why I act as if) God doesn't exist (I mean I don't believe in power of prayers. All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)
+## (Why I act as if) God doesn't exist
 
-(from "God as illusion" by Charles Dockins)
+From "God as illusion" by Charles Dockins:
 
-The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
-
-We cannot prove that god doesn't exist, BUT
-
-`1.` We can prove that souls don't exist (about this - below 👇¹).
-
-`2.` We know HOW life was "created"
+> The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
+> We cannot prove that god doesn't exist, BUT
+> `1.` We can prove that souls don't exist (about this - below 👇¹).
+> `2.` We know HOW life was "created"
 
 <pre translate=yes>
 
@@ -35,14 +32,22 @@ SUMMARY:
 SUMMARY:
 god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
+<sub>
+I mean I don't believe in power of prayers (it was experimentally proved) OR "charging of water by positive thoughts" OR other magic.
+
+All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)
+
+But it doesn't mean that I want to kill people. Even putin and ted bundy.
+</sub>
+
 ## 👉¹ Why souls don't exist:
 
 #### `1.` I have seen code of "deep learning" and "human-like" neural networks, THUS I think there is no "magic soup" in the brain.
 
 <!--
-<details><pre>
+<details><pre translate=yes>
     !!!!NOT FINISHED, DONT READ!!!!!
-    
+
     Networks types:
     1. "deep learning" - e.g. input is a pixel image is matrix AND memory is matrix too => input and memory are compared by dot-operator (gives another matrix) => then output matrix is coverted into percent value between 0% and 100%
     2. "human-like"  [https://youtu.be/qv6UVOQ0F44?t=216](https://youtu.be/qv6UVOQ0F44?t=216)
@@ -112,7 +117,7 @@ By this I mean that there is NOTHING in laws of physics that disallows us to:
 
 Let's call `a,b,c` - the "atom-per-atom cloning", and `a,b,c,d` - the "atom-per-atom teleportation"
 
-<details><pre>
+<details><pre translate=yes>
 I believe, the thought process of a new human will start from where the old body stopped thinking, because:
 
 1. memory is just a ratio of Calcium to Potassium (for example, don't remember) in each neuron
@@ -134,7 +139,9 @@ NO, souls don't exist (!!!)
 
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
-👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` (`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables") that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+<details><summary>👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!</summary>
+
+`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables"
 
 i.e. By "works fine" I mean IT SEEMS LIKE function `f` doesn't use the variable `c`
 
@@ -152,20 +159,19 @@ IF I change `a` and `b` and `c` argument THEN `returned_value` is same as if I c
 RESULT OF TEST: (IT SEEMS LIKE) function `f` doesn't use the variable `c`
 </pre>
 
-<details>
 example function with such property in javascript:
 
-<pre>
-function f(a, b, c) { 
+<pre translate=yes>
+function f(a, b, c) {
     return a + b
 }
 
 const returned_value__init = f(10, 20, 30) // 30
-    
+
 const returned_value__when_changing_a__1 = f(11, 20, 30) // 31
 const returned_value__when_changing_a__2 = f(12, 20, 30) // 32
 ....
-    
+
 const returned_value__when_changing_b__1 = f(10, 21, 30) // 31
 const returned_value__when_changing_b__2 = f(10, 22, 30) // 32
 ....
@@ -174,8 +180,7 @@ const returned_value__when_changing_c__1 = f(10, 20, 31) // 30
 const returned_value__when_changing_c__2 = f(10, 20, 32) // 30
 ....
 </pre>
-</details>
-
+<details>
 
 #### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
 
@@ -201,7 +206,7 @@ From:
 
 <pre translate=yes>
 Imagine a cup, in a cup there is:
-1. (at the bottom) a coffee 
+1. (at the bottom) a coffee
 2. (at the middle) some thing that separates coffee and milk, e.g. from plastic
 3. (at the top) a milk
 
