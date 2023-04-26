@@ -3,11 +3,13 @@
 ## (Why I act as if) God doesn't exist
 
 
-<sub>I mean I don't believe in power of prayers (it was experimentally proved) OR "charging of water by positive thoughts" OR other magic.</sub>
+<sub>I mean I don't believe in power of prayers OR "charging of water by positive thoughts" OR other magic. (read "God as illusion")</sub>
 
-<sub>All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)</sub>
+<sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>But it doesn't mean that I want to kill people. Even putin and ted bundy.</sub>
+<sub>But it doesn't mean that I want to kill people. Even putin and ted bundy. There exists more optimal solutions: 
+    1. neurofeedback
+    2. fix their stupidity by teaching them that universe will end (below) and "Harry Potter and methods of rationality"</sub>
 
 From "God as illusion" by Charles Dockins:
 
