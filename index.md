@@ -16,7 +16,7 @@
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
 - [github.com/srghma](https://github.com/srghma)
-- [github.com/srghma/srghma.github.io](https://github.com/srghma.github.io)
+- [github.com/srghma/srghma.github.io](https://github.com/srghma/srghma.github.io)
 - [linkedin.com/in/srghma](https://www.linkedin.com/in/srghma/)
 - [twitter.com/srghma](https://twitter.com/srghma)
 - [instagram.com/srghma](https://instagram.com/srghma)
