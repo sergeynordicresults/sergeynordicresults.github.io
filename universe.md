@@ -2,6 +2,13 @@
 
 ## (Why I act as if) God doesn't exist
 
+
+<sub>I mean I don't believe in power of prayers (it was experimentally proved) OR "charging of water by positive thoughts" OR other magic.</sub>
+
+<sub>All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)</sub>
+
+<sub>But it doesn't mean that I want to kill people. Even putin and ted bundy.</sub>
+
 From "God as illusion" by Charles Dockins:
 
 > The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
@@ -27,18 +34,16 @@ SUMMARY:
 3. (From book "selfish gene") The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
 </pre>
 
+![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
+
+<img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
+
 `3.` We don't know why the universe was created, but there is an Anthropic principle (we are here because we are here, lol)
 
 SUMMARY:
 god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
-<sub>
-I mean I don't believe in power of prayers (it was experimentally proved) OR "charging of water by positive thoughts" OR other magic.
 
-All religions were created by geniuses, but humans, and contain not only immutable truth, but also stupid thoughts inspired by old times)
-
-But it doesn't mean that I want to kill people. Even putin and ted bundy.
-</sub>
 
 ## 👉¹ Why souls don't exist:
 
@@ -139,7 +144,9 @@ NO, souls don't exist (!!!)
 
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
-<details><summary>👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!</summary>
+👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
+
+<details>
 
 `f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables"
 
@@ -180,7 +187,7 @@ const returned_value__when_changing_c__1 = f(10, 20, 31) // 30
 const returned_value__when_changing_c__2 = f(10, 20, 32) // 30
 ....
 </pre>
-<details>
+</details>
 
 #### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
 
