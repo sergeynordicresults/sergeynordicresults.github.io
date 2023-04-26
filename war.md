@@ -86,21 +86,11 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
 
 <pre translate=yes>
-Слово моїм співвідчизникам:
-
-1. працюйте, допомогайте, це вбереже вас від збожеволення (як це трапилось з деякими старими людьми)
-
-  а. РУХАЙТЕСЬ, всесвiту всеодно на вашi бажання та молитви
-  б. навіть ПРОСТО ПРІБЕРІТЬ місце де живете
-  в. розповідайте родичам з Росії що відбувається
-
-2. якщо твоя дитина плаче - вдай що це все гра
+якщо твоя дитина плаче - вдай що це все гра
 
 як в фільмі "Життя прекрасне (фільм, 1997)" - батько сказав сину що вони не в полоні у німців, що це гра
 
 https://www.youtube.com/watch?v=nxsRHJW0ors
-
-Їм усім буде дуже соромно
 </pre>
 
 <img src="https://user-images.githubusercontent.com/7573215/162336458-64bdb6e2-77e6-485d-a3ba-d1d715900678.png" alt="Banner" width="100%">
