@@ -11,6 +11,8 @@
     1. neurofeedback
     2. fix their stupidity by teaching them that universe will end (below) and "Harry Potter and methods of rationality"</sub>
 
+-------------
+
 From "God as illusion" by Charles Dockins:
 
 > The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
