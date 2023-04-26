@@ -58,7 +58,9 @@ So, one day I tried mushrooms, then was walking in the woods, then laid and slep
 
 I was in a Kavin Spacy body, but I was hating this universe. I went to the kindergarten and started pouring hot water on the hands of kindergarten teachers until the flash started to peel off from the hands (inspired by ¨Men Behind the Sun¨ film, which I didnt watch). 
 
-![image-w1280](https://user-images.githubusercontent.com/7573215/233848206-ed86d88e-5924-43f0-bb6a-b234b36e1684.jpg)
+<details>
+https://user-images.githubusercontent.com/7573215/233848206-ed86d88e-5924-43f0-bb6a-b234b36e1684.jpg
+</details>
 
 So, I was torturing the grown up people, but I couldnt torture children. Instead, I made them watch, so that they too hate this universe, as I/Kavin Spacy hate it.
 
@@ -73,6 +75,7 @@ Realizations:
 
 
 Then, when i woke up, (like a cloud of a bomb, and i was in center) universe appeared again around me, i was lying and thought:
+
 > ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light, like from the black hole") 
 
 # P. S. Why am I telling all this
@@ -90,8 +93,7 @@ THEN there is no need:
 1. to lie 
 2. to hide information 
 3. to cheat 
-4. kill 
-to advance on the ladder
+4. to do horrible stuff to advance on the ladder
 
 Alternatives to do in the universe:
 
