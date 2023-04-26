@@ -16,8 +16,11 @@
 From "God as illusion" by Charles Dockins:
 
 > The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
+> 
 > We cannot prove that god doesn't exist, BUT
+> 
 > `1.` We can prove that souls don't exist (about this - below 👇¹).
+> 
 > `2.` We know HOW life was "created"
 
 <pre translate=yes>
