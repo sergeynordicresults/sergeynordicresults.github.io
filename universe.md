@@ -7,9 +7,11 @@
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: 
-    1. neurofeedback
-    2. fix their stupidity by teaching them that universe will end (below) and giving them to read "Harry Potter and methods of rationality" by Eliezer Yudkowsky</sub>
+<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: </sub>
+<sub>    1. neurofeedback</sub>
+<sub>    2. fix their stupidity by teaching them what will probably happen with universe (below) and giving them to read "Harry Potter and methods of rationality" by Eliezer Yudkowsky</sub>
+<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game)
+</sub>
 
 -------------
 
