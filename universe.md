@@ -1,15 +1,15 @@
 # Interesting things I have found
 
-## (Why I act as if) God doesn't exist
+## God doesn't exist with probably 99%
 
 
-<sub>I mean I don't believe in power of prayers OR "charging of water by positive thoughts" OR other magic. (read "God as illusion")</sub>
+<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion")</sub>
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>But it doesn't mean that I want to kill people. Even putin and ted bundy. There exists more optimal solutions: 
+<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: 
     1. neurofeedback
-    2. fix their stupidity by teaching them that universe will end (below) and "Harry Potter and methods of rationality"</sub>
+    2. fix their stupidity by teaching them that universe will end (below) and giving them to read "Harry Potter and methods of rationality" by Eliezer Yudkowsky</sub>
 
 -------------
 
