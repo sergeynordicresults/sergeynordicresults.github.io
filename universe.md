@@ -11,7 +11,7 @@
 
 <sub>    1. neurofeedback</sub>
 
-<sub>    2. fix their stupidity by teaching them what will probably happen with universe (below) and giving them to read "Harry Potter and methods of rationality" by Eliezer Yudkowsky</sub>
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below) and giving them to read "Harry Potter and methods of rationality" by Eliezer Yudkowsky</sub>
 
 <sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game)
 </sub>
