@@ -33,7 +33,7 @@ THIS IS NOT similar to "from nothing a plane was created", because:
 SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
-3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
+3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
 </pre>
 
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
