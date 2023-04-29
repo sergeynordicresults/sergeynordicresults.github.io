@@ -16,7 +16,7 @@ And makes easy to believe that war in Ukraine 2022 was created by America https:
 ----
 
 But they don't tell about: 
-1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine
+1. [https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine](https://en.wikipedia.org/wiki/Anti-protest_laws_in_Ukraine) laws of 16th january of 2014, yanukovich wanted to create a new dictatorship in Ukraine (these laws allow: you was on political ralley? ok, one week after (for example) police will come to you and take you to prison)
 2. Yes, I agree that America had reasons to remove yANUKOVICH (agent of moskow) from position of president, but pUTIN TOO had reasons to create a revolution - to seize the Krimea while everyone are distracted (because this is what psychopats do, they put quarrel between people and then see if they can get something while parties are weakened). 
 
 So, I wouldn't be shocking for me, if in future we will find out that it was pUTIN who gave weapons and money to ukranian (anti-moskow) "right sector" (even thought they are enermies), to be able to tell later `you see, russian people, they are all nazis, that's why we should "liberate" Ukraine`
@@ -24,4 +24,4 @@ So, I wouldn't be shocking for me, if in future we will find out that it was pUT
 So, answer on question *"who have given the policemen an order to attack people? Russia or America? Who have rocked the boat?"* I will answer *"I dont know, probably putin to take Krimea, but revolution have happened, and this is great, I want to live in free european country"*
 
 
-P.S. Poroshenko is an agent of moskow too, check [Bigus info](https://www.youtube.com/watch?v=VZJG_RKktBQ) , he was sending ukranian money to russian soldiers in DNR
+P.S. Poroshenko is an agent of moskow too, check [Bigus info](https://www.youtube.com/watch?v=VZJG_RKktBQ) , he was sending ukranian money to russian soldiers in DNR (donetsk people's republic)
