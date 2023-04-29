@@ -6,15 +6,13 @@
 
 From "God as illusion" by Richard Dawkins:
 
-> "The atheist is the one that gives 99% probability that god doesn't exist". I am an atheist by this definition.
-> 
-> We cannot prove that god doesn't exist, BUT
-> 
-> `1.` We can prove that souls don't exist (about this - below 👇¹).
-> 
-> `2.` We know HOW life was "created"
-> 
-> `3.` We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."
+"The atheist is the one that gives 99% probability that god doesn't exist". I am an atheist by this definition.
+
+We cannot prove that god doesn't exist, BUT
+
+1. We can prove that souls don't exist (about this - below 👇¹).
+2. We know HOW life was "created"
+3. We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."
 
 SUMMARY: god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
@@ -299,19 +297,35 @@ So, based on Stephen Wolfram "New science": in the plainness of energies new uni
 
 ## P.S.
 
-> "Harry Potter and methods of rationality": imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
+> "Harry Potter and methods of rationality": imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead is better than alive.
 
 > "Harry Potter and methods of rationality": imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
 
-> Jordan Peterson: The great flood story is about that you should prepare, because flood is coming. The Cain and Avel story - is that it's only a statement of a fact that people can envy your success and maybe even kill you
+> "Harry Potter and methods of rationality": IF humans would really believe in a "life after death" THEN they would commit suicide
+
+> "The God delusion" by Richard Dawkins: There was the "Great prayer experiment" to find "does praying helps patients to recover?". 
+
+<pre translate=yes>
+Patients were divided to 3 groups: 
+- group 1 - "didnt receive prayers and didnt know about it" (control group)
+- group 2 - "received prayers and didnt know about it" 
+- group 3 - "received prayers and knew about it". 
+Outcome:
+- group 1 - no statistical difference, as expected 
+- group 2 - no statistical difference, prayers dont help, 
+- group 3 - post-operation state is even worse than for other groups, because patients had stress because of thinking "wow, they even have to pray for me, probably my state is very-very bad"
+</pre>
+
+
+> Jordan Peterson: The "great flood story" is about that you should prepare, because flood is coming. The "Cain and Avel story" - is that it's only a statement of a fact that people can envy your success and maybe even kill you
 
 > Jordan Peterson: We sell today for tomorrow. We do hard work now, to live better later
 
-> Jordan Peterson: We live so good, because our grandfathers and grandmothers made the right sacrifices to the God/universe
+> Jordan Peterson: You live so good, not because You have created all cities and technologies You use every day, but because it's grandfathers and grandmothers "made the right sacrifices to the God/universe"
 
 > Jordan Peterson: Too much order - tyranny, too little - chaos.
 
-> Jordan Peterson: It's harder to write a poem without "rules/order" or "starting point".
+> Jordan Peterson: It's actually harder to write a poem without "rules/order" or "starting point".
 
 > Jordan Peterson: "Do to others what You would like other people do to You" also means "make pain to others, if You would like that someone else would do that pain to you, if You was that someone else"
 
@@ -323,7 +337,7 @@ So, based on Stephen Wolfram "New science": in the plainness of energies new uni
 
 > "The Nexus Trilogy" by Ramez Naam: In future we will connect all our brains to one mega-brain using Neurolink technology.
 
-> "Art of learning": if music doesn't allow you to learn, don't close a window, try to use it's rithm
+> "Art of learning": if music doesn't allow you to learn, don't close a window, try to use it
 
 --------
 
