@@ -308,6 +308,8 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 > Jordan Peterson: It's harder to write a poem without "rules/order" or "starting point".
 
+> Jordan Peterson: "Do to others what You would like other people do to You" also means "make pain to others, if You would like that someone else would do that pain to you, if You was that someone else"
+
 > Elon Musk: the more we know, the better questions we can ask
 
 > Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: I wish I would be less angry and emotional in hard situations.
