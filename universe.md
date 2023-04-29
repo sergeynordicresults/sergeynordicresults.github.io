@@ -331,7 +331,7 @@ I am a citizen of a universe, not a country.
 
 Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays with "killing people and ripping their hearts out".
 
-I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For ucraine I am fighting because noone wants to live in russian dicratorship)
+I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ucraine I am fighting because noone wants to live in russian dicratorship)
 
 <sub>There are no "closed topics" for me. I can tell You everything if You will ask (because why to hide or lie if we will merge our brains, or if we are the parts of one wave function). But I'm also understand difference between openness and exhibitionism.</sub>
 
