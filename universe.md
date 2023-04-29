@@ -1,6 +1,6 @@
 # Interesting things I have found
 
-## God doesn't exist with probably 99%
+## God doesn't exist with probability 99%
 
 
 
@@ -14,7 +14,7 @@ We cannot prove that god doesn't exist, BUT
 2. We know HOW life was "created"
 3. We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."
 
-SUMMARY: god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
+SUMMARY: god is an "extra variable" to a "function" that works fine without this "extra variable". (about this - below 👇²)
 
 <pre translate=yes>
 
@@ -44,7 +44,7 @@ SUMMARY:
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: </sub>
+<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist harder, but more optimal solutions:</sub>
 
 <sub>    1. neurofeedback</sub>
 
@@ -331,7 +331,7 @@ I am a citizen of a universe, not a country.
 
 Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays with "killing people and ripping their hearts out".
 
-I am not fighting to save the ucranian or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods.
+I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For ucraine I am fighting because noone wants to live in russian dicratorship)
 
 <sub>There are no "closed topics" for me. I can tell You everything if You will ask (because why to hide or lie if we will merge our brains, or if we are the parts of one wave function). But I'm also understand difference between openness and exhibitionism.</sub>
 
