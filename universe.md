@@ -323,7 +323,14 @@ So, based on Stephen Wolfram "New science": in the plainness of energies new uni
 
 > "The Nexus Trilogy" by Ramez Naam: In future we will connect all our brains to one mega-brain using Neurolink technology.
 
-> Art of learning: if music doesn't allow you to learn, don't close a window, try to use it's rithm
+> "Art of learning": if music doesn't allow you to learn, don't close a window, try to use it's rithm
 
-> I am a citizen of a universe, not a country
+--------
 
+I am a citizen of a universe, not a country. 
+
+Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays with "killing people and ripping their hearts out".
+
+I am not fighting to save the ucranian or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods
+
+Probably, The most important thing is that people live happily in 1 square meter
