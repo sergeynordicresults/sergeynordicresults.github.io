@@ -40,7 +40,7 @@ SUMMARY:
 
 -------------
 
-<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
+<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR taro cards OR horoscopes OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
