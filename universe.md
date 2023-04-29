@@ -14,7 +14,7 @@ From "God as illusion" by Richard Dawkins:
 > 
 > `2.` We know HOW life was "created"
 > 
-> `3.` We don't know why the universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see the universe this way because only in such a universe could an observer, a human being, arise."
+> `3.` We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see that our universe have these properties, because only in a universe with these properties could an observer, a human being, appear."
 
 SUMMARY: god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
