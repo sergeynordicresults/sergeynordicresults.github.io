@@ -3,20 +3,6 @@
 ## God doesn't exist with probably 99%
 
 
-<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
-
-<sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
-
-<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: </sub>
-
-<sub>    1. neurofeedback</sub>
-
-<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)</sub>
-
-<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM) )
-</sub>
-
--------------
 
 From "God as illusion" by Richard Dawkins:
 
@@ -28,7 +14,7 @@ From "God as illusion" by Richard Dawkins:
 > 
 > `2.` We know HOW life was "created"
 > 
-> `3.` We don't know why the universe was created, maybe it was created by God, but there is an Anthropic principle (we are here because we are here, lol)
+> `3.` We don't know why the universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see the universe this way because only in such a universe could an observer, a human being, arise."
 
 SUMMARY: god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
@@ -53,6 +39,21 @@ SUMMARY:
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
+
+-------------
+
+<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
+
+<sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
+
+<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist more optimal solutions: </sub>
+
+<sub>    1. neurofeedback</sub>
+
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)</sub>
+
+<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM) )
+</sub>
 
 
 ## 👉¹ Why souls don't exist:
@@ -286,9 +287,13 @@ THUS
 <pre translate=yes>
 https://youtube.com/watch?v=_eC14GonZnU
 
-Stephen Wolfram have found some basic principles that are even more basic than principles of our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
+Stephen Wolfram: have found some basic principles that are even more basic than principles of our universe itself. These principles allow to generate many universes. One of such universes is very similar to ours.
 
 > The quantum theory follows very beautifully from this: the recipient state cannot be updated before originator of a signal is updated
+
+-------
+
+So, based on Stephen Wolfram "New science": in the plainness of energies new universes arise all the time, some of them are not stable but others are, in one of such universes we live, and there is no way to escape the death of our universe?
 </pre>
 
 
