@@ -157,9 +157,9 @@ NO, souls don't exist (!!!)
 
 <details>
 
-<code>f</code> is name of function, <code>a</code> and <code>b</code> and <code>c</code> are "function arguments"/"function variables"
+<code>f</code> is name of function, <code>a</code> and <code>b</code> and <code>c</code> are "function arguments"/"function variables".
 
-i.e. By "works fine" I mean IT SEEMS LIKE function <code>f</code> doesn't use the variable <code>c</code>
+By "works fine" I mean IT SEEMS LIKE function <code>f</code> doesn't use the variable <code>c</code>.
 
 <pre translate=yes>
 IF I change `a` argument         THEN `returned_value` will be changed
