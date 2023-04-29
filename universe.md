@@ -157,9 +157,9 @@ NO, souls don't exist (!!!)
 
 <details>
 
-`f` is name of function, `a` and `b` and `c` are "function arguments"/"function variables"
+<code>f</code> is name of function, <code>a</code> and <code>b</code> and <code>c</code> are "function arguments"/"function variables"
 
-i.e. By "works fine" I mean IT SEEMS LIKE function `f` doesn't use the variable `c`
+i.e. By "works fine" I mean IT SEEMS LIKE function <code>f</code> doesn't use the variable <code>c</code>
 
 <pre translate=yes>
 IF I change `a` argument         THEN `returned_value` will be changed
@@ -177,24 +177,10 @@ RESULT OF TEST: (IT SEEMS LIKE) function `f` doesn't use the variable `c`
 
 example function with such property in javascript:
 
-<pre translate=yes>
+<pre>
 function f(a, b, c) {
     return a + b
 }
-
-const returned_value__init = f(10, 20, 30) // 30
-
-const returned_value__when_changing_a__1 = f(11, 20, 30) // 31
-const returned_value__when_changing_a__2 = f(12, 20, 30) // 32
-....
-
-const returned_value__when_changing_b__1 = f(10, 21, 30) // 31
-const returned_value__when_changing_b__2 = f(10, 22, 30) // 32
-....
-
-const returned_value__when_changing_c__1 = f(10, 20, 31) // 30
-const returned_value__when_changing_c__2 = f(10, 20, 32) // 30
-....
 </pre>
 </details>
 
@@ -249,9 +235,9 @@ This is the New universe, like a bubble amongst other bubbles (other expanding u
 <pre translate=yes>
 We are like hexagons that appear on a mercury when it is heated
 
-1. Low temperature - no cells, LOW ENTROPY
-2. Mercury is heated - hexagonal cells appear (this allows heat/entropy to pass through to the outer world easier?), HIGH ENTROPY
-3. Heated more - no cells, LOW ENTROPY again
+1. (LOW ENTROPY) Low temperature - no cells
+2. (HIGH ENTROPY) Mercury is heated - hexagonal cells appear (this allows heat/entropy to pass through to the outer world easier?)
+3. (LOW ENTROPY again) Heated more - no cells
 
 https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 </pre>
