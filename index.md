@@ -6,11 +6,14 @@
 
 3. [About the war](https://srghma.github.io/war) (tried to get all reasons why were are attacked, but I don't regard this post as good anymore)
 
-4. [Review on "Ukraine on fire" film](https://srghma.github.io/ukraine-on-fire)
+4. [Review on "Ukraine on fire" film](https://srghma.github.io/ukraine-on-fire)!
 
-![SmartSelect_20230422-203621_Squid](https://user-images.githubusercontent.com/7573215/233801131-2ff79f37-12a3-417d-950f-bdb168bbd1c1.jpg)
-![SmartSelect_20230422-203553_Squid](https://user-images.githubusercontent.com/7573215/233801133-54c1fe55-0329-4779-bf87-05d11e380f0f.jpg)
-![SmartSelect_20230422-203636_Squid](https://user-images.githubusercontent.com/7573215/233801128-8956f4d2-4677-4bce-a4fe-2d6965579f8a.jpg)
+![ucraine - Page 2](https://user-images.githubusercontent.com/7573215/235322714-59830b34-36af-4155-b8eb-d2f31579e88c.jpg)
+
+![ucraine - Page 3](https://user-images.githubusercontent.com/7573215/235322653-b4fa2001-48ea-4b90-8759-7d89c4e1f3ed.jpg)
+![ucraine - Page 4 (1)](https://user-images.githubusercontent.com/7573215/235322654-0ab64720-2e10-46c4-9a97-a098b9a9a9c4.jpg)
+![ucraine - Page 5](https://user-images.githubusercontent.com/7573215/235322655-b7d788fe-83f6-4a1b-9f4a-6579b3a23966.jpg)
+
 
 ## Resume
 
