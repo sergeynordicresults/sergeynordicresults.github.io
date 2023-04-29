@@ -3,7 +3,7 @@
 ## God doesn't exist with probably 99%
 
 
-<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion")</sub>
+<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
@@ -11,50 +11,48 @@
 
 <sub>    1. neurofeedback</sub>
 
-<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below, bc from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)</sub>
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)</sub>
 
-<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth is infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM) )
+<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM) )
 </sub>
 
 -------------
 
-From "God as illusion" by Charles Dockins:
+From "God as illusion" by Richard Dawkins:
 
-> The atheist is the one that gives 99% probability that god doesn't exist. I am an atheist by this definition.
+> "The atheist is the one that gives 99% probability that god doesn't exist". I am an atheist by this definition.
 > 
 > We cannot prove that god doesn't exist, BUT
 > 
 > `1.` We can prove that souls don't exist (about this - below 👇¹).
 > 
 > `2.` We know HOW life was "created"
+> 
+> `3.` We don't know why the universe was created, maybe it was created by God, but there is an Anthropic principle (we are here because we are here, lol)
+
+SUMMARY: god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
 
 <pre translate=yes>
 
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID NOT have the "self-replicate" property (they didn't make copies of themselves), but others DID
-4. some molecules were unstable and died, but OUR ancestor "self-replicating molecule-robot" DIDN'T, AND evolved into us.
+3. some molecules DID NOT have the "self-replicate" property (they didn't make copies of themselves), but our ancestor-molecules DID
+4. some molecules were unstable and died, but our ancestor "self-replicating molecule-robot" DIDN'T and evolved into us.
 
 THIS IS NOT similar to "from nothing a plane was created", because:
-1. we need (for example) just 1000 atoms (actually less) to arrange properly to create a "self-replicating molecule-robot"
+1. we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot"
 2. So, it was only a matter of time that this will happen in "infinite" universe.
 
 SUMMARY:
-1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY (TODO - give definition of "randomly").
+1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
-3. (From book "selfish gene") The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
+3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution
 </pre>
 
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
-
-`3.` We don't know why the universe was created, but there is an Anthropic principle (we are here because we are here, lol)
-
-SUMMARY:
-god is an "extra variable" to a "function" that works fine without "extra variable". (about this - below 👇²)
-
 
 
 ## 👉¹ Why souls don't exist:
@@ -214,7 +212,7 @@ A guy was a good man, then his head was injured and he became evil. SOUL?
 https://www.ted.com/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death
 
 Seems like:
-1. The same that was before you was born
+1. The same that was before you were born
 2. Same that happens when you are out of consciousness
 
 ## Who we are in this universe
@@ -233,9 +231,9 @@ then imagine a separation `2.` magically disappeared. What will happen next is t
 
 WE ARE these little tornados in a cup (on a border of coffee and milk, when they are mixed together)
 
-1. coffee and milk are fully separated - beginning of universe, LOW ENTROPY
-2. coffee and milk starts to mix - human civilization, then black holes are everywhere, but black holes evaporate, HIGH ENTROPY
-3. coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, LOW ENTROPY again, all energy combinations will be tried
+1. (LOW ENTROPY) coffee and milk are fully separated - beginning of universe
+2. (HIGH ENTROPY) coffee and milk starts to mix - human civilization, then black holes are everywhere, but black holes evaporate
+3. (LOW ENTROPY again) coffee and milk are fully mixed - all black holes have evaporated, only the plain energy, all energy combinations will be tried
 
 Then, in one place, there will be a combination that is the same (or almost the same) as the "begging of universe" combination.
 
@@ -246,7 +244,6 @@ This is the New universe, like a bubble amongst other bubbles (other expanding u
 
 ![x](https://user-images.githubusercontent.com/7573215/183980214-4de65deb-07ba-4793-9770-caf8fc22be44.png)
 
-![x](https://instructional-resources.physics.uiowa.edu/sites/instructional-resources.physics.uiowa.edu/files/field/demos/8b10.40a_0.jpg)
 
 ---------
 
@@ -260,27 +257,30 @@ We are like hexagons that appear on a mercury when it is heated
 https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 </pre>
 
+
+![x](https://instructional-resources.physics.uiowa.edu/sites/instructional-resources.physics.uiowa.edu/files/field/demos/8b10.40a_0.jpg)
+
 ---------
 
 <pre translate=yes>
 Q: What IS an entropy?
 A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture, that an OBSERVER (human) is seeing"
 
+High entropy = lot of "disk space" is needed to store the information about the "picture, that OBSERVER is seeing"
+
 By this I mean: the definition of entropy is tied to a fact, that the only way for us (humans / observers / instruments that can detect and react on changes) to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
 
 https://www.youtube.com/watch?v=MBnnXbOM5S4
 
-To know a position of a plane - radar should emanate pulses of signals (1 pulse - wait response, wait till it reflects from the flying plane and returns - REPEAT)
-To know a speed of a plane - radar should emanate very high-frequency waves, higher frequency = higher speed precision
+Having radar (devise that can emanate pulses to the world and detect pulses from the world) THAT makes pulses and then detects responses (the pulses reflected from the flying plane)
+- To know a position of a plane - radar should emanate "low frequency waves/single pulses"
+- To know a speed of a plane - radar should emanate "high-frequency waves/many pulses", higher frequency = higher speed precision
 
 THUS
 1. there is a limit to how much "pixels" we can get when we study a bunch of atoms in a box
 2. atoms are hot (move fast) - more "exact positions" of atoms could give "a picture we see"
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
 
-----------
-
-High entropy = lot of "disk space" is needed to store the information about the "picture, that OBSERVER is seeing"
 </pre>
 
 <pre translate=yes>
@@ -294,30 +294,29 @@ Stephen Wolfram have found some basic principles that are even more basic than p
 
 ## P.S.
 
-> Mine: If God from Bible is laws of universe, then hell and heaven is a memory of people.
+> "Harry Potter and methods of rationality": imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
+
+> "Harry Potter and methods of rationality": imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
 
 > Jordan Peterson: The great flood story is about that you should prepare, because flood is coming. The Cain and Avel story - is that it's only a statement of a fact that people can envy your success and maybe even kill you
 
-> We sell today for tomorrow. We do hard work now, to live better later (Jordan Peterson)
+> Jordan Peterson: We sell today for tomorrow. We do hard work now, to live better later
 
-> Easy decisions - hard life, hard decisions - easy life
+> Jordan Peterson: We live so good, because our grandfathers and grandmothers made the right sacrifices to the God/universe
 
-> Too much order - tyranny, too little - chaos. (Jordan Peterson)
+> Jordan Peterson: Too much order - tyranny, too little - chaos.
 
-> It's harder to write a poem without "rules/order" or "starting point".
+> Jordan Peterson: It's harder to write a poem without "rules/order" or "starting point".
 
-> Elon Musk: "the more you know, the better questions you can ask"
+> Elon Musk: the more we know, the better questions we can ask
 
 > Naval: starting from 18 years old, I was writing a diary every year, at the end of the year, about "what I wish I would do this year better". Later I would notice one and only one pattern: I wish I would be less angry and emotional in hard situations.
 
 > Michio Kaku: in 2060 we will have a device, that can make food from atoms in the air.
 
-> "The Nexus Trilogy" by Ramez Naam: in future we will connect all our brains to one mega-brain using Neurolink technology.
+> "The Nexus Trilogy" by Ramez Naam: In future we will connect all our brains to one mega-brain using Neurolink technology.
 
-> Art of learning: don't fear to invest into failure. Don't hide your true emotions, instead use them (e.g. if music doesn't allow you to learn, don't close a window, try to use it's rithm)
+> Art of learning: if music doesn't allow you to learn, don't close a window, try to use it's rithm
 
 > I am a citizen of a universe, not a country
 
-> Harry Potter and methods of rationality: imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead or unconscious is better than conscious.
-
-> Harry Potter and methods of rationality: imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
