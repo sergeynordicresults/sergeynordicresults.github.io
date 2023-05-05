@@ -38,7 +38,7 @@ SUMMARY:
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
-The game of life universe is Turing complete. It means self conscious beings can appear there too. Do you think their prays work? Do you think there is a god that can help them?
+The game of life universe is Turing complete. It means self conscious beings can appear there too. Do you think their prays work? Do you think there is a god that can help them? Do you think there is a god that will kill the bad two dimencional Chinghiz Khan that tortures 2D people and still has lot of money? You think they have the afterlife after death? 
 
 
 
