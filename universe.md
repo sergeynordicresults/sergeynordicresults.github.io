@@ -38,6 +38,10 @@ SUMMARY:
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
+The game of life universe is Turing complete. It means self conscious beings can appear there too. Do you think their prays work? Do you think there is a god that can help them?
+
+
+
 -------------
 
 <sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR taro cards OR horoscopes OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
