@@ -46,17 +46,18 @@ My first thought was: This should not be forgotten!
 And then, in the subconsiousness, unknown to me:
 1. Am I capable for these actions?
 2. How badly I should be treated by this universe and inhabitants to desire to do this?
-3. 
+3.
+
   - **IF** some person has such desires **THEN** what should he do?
   - Should he go to the doctor?
-  - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction?) ? (this desire clearly warps the fabric of reality)
-  - Should humans follow their natural wiring at all? <sub>(the whole plot of Doctor House, who the whole series cannot decide what is better: to be the psychopath and have everything OR follow natural wiring and be good. Suffering in both cases)</sub>
+  - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction?) ? (this desire clearly warps the fabric of reality / breaks fabric of interhuman relations)
+  - Should humans follow their natural wiring at all? <sub>(the whole plot of Doctor House, who the whole series cannot decide what is better: to be a psychopath and have everything OR follow natural wiring and be good. Suffering in both cases， bc Chingiz khan had everything and wasnt happy)</sub>
 
 ### Story:
 
 So, one day I tried mushrooms, then was walking in the woods, then laid and slept and had a dream:
 
-I was in a Kavin Spacy body, but I was hating this universe. I went to the kindergarten and started pouring hot water on the hands of kindergarten teachers until the flash started to peel off from the hands (inspired by ¨Men Behind the Sun¨ film, which I didnt watch). 
+I was in a Kavin Spacy body, but I was hating this universe. I went to the kindergarten and started pouring hot water on the hands of kindergarten teachers until the flash started to peel off from their hands (inspired by ¨Men Behind the Sun¨ film, which I didnt watch). 
 
 <details>
 https://user-images.githubusercontent.com/7573215/233848206-ed86d88e-5924-43f0-bb6a-b234b36e1684.jpg
@@ -69,21 +70,21 @@ Realizations:
 1. I understood, that even though I can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos, without a theme you will not write a poem. *Stephen Hocking*: it seems like this universe should be non-ideal in order for a stuff to exist)
 2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I should go to doctor
 3. I understood, that maybe it doesn't make much sence to desire the power too much, bc
-  - we will anyway live in abundunce (if we will not destroy ourselves)
+  - we will anyway live in abundunce (if we will not destroy ourselves by wars)
   - even Genghis Khan, though we had everything, wasnt happy
-  - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that could peacefully colonize a galaxy is not the kind of civilization that would colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
+  - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that COULD peacefully colonize a galaxy, is not the kind of civilization that WOULD colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
 
 
 Then, when i woke up, (like a cloud of a bomb, and i was in center) universe appeared again around me, i was lying and thought:
 
-> ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light, like from the black hole") 
+> ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light can escape, like from the black hole") 
 
 # P. S. Why am I telling all this
 
 B. c. IF 
 
 1. Ramez Naam "The Nexus Trilogy" <sub>(in future humans will merge all brains with Elon Musk's Neuralink-like technology, will be able to show videos with past, enter each-other's bodies)</sub> 
-2. AND Erwin Schrodinger "My view of the world" <sub> ("in truth there is only one mind")</sub> 
+2. AND Erwin Schrodinger "My view of the world" <sub> ("in truth, there is only one mind")</sub> 
 3. AND Sean Carroll <sub>("universe and we will not exist forever.")</sub>
 4. AND Michio Kaku <sub>("do whatever you want, you will anyway someday have 1. The device that makes the food from the air 2. Medicine to live until the end of universe")</sub> 
 
@@ -101,9 +102,9 @@ Alternatives to do in the universe:
 2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(Jordan Peterson) (bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something?)</sub>
 3. Meet everyone, one by one, and say "Yes, this is a life too". Visit wedding of 1000th grandchild. Visit Proxima Centauri <sub>(Eliezer Yudkowsky)</sub>
 4. Relax, this is just a game <sub>(Eliezer Yudkowsky)</sub>
-5. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use people and hop from one group of people to another"
+5. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use up people and hop from one group of people to another"
 6. Demolish country borders <sub>(Neil deGrasse Tyson: ... bc from aliens point of view, they dont make sense)<sub>
-7. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
+7. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals for food - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
 8. To find if the science infinite/will we ever get bored? 
   
 ----------
@@ -112,6 +113,6 @@ Preservation of cultures or languages is not the utmost importance for me. I am 
 
 I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ucraine I am fighting because noone wants to live in russian dicratorship)
 
-<sub>There are no "closed topics" for me. I can tell You everything if You will ask (because why to hide or lie if we will merge our brains, or if we are the parts of one wave function). But I also understand difference between openness and exhibitionism.</sub>
+<sub>There are no "closed topics" for me. I can tell You everything, if You will ask (because why to hide or lie if we will merge our brains, or if we are the parts of one wave function). But I also understand difference between openness and exhibitionism.</sub>
 
-Probably, The most important thing is that people live happily in 1 square meter
+Probably, The most important thing is that people live happily in 1 square meter/amount of optimizations
