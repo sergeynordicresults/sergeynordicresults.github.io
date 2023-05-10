@@ -1,4 +1,4 @@
-Watch movie, look at objects, e.g. "shoe", i take a book with words i have already learned (this is kind of my anki, but i see all words at the same time), i write in my language "ботинок", 
+Watch movie, look at objects, e.g. "shoe", i take a book with "words i have already learned" (this is kind of my anki, but i see all words at the same time), i write in my language "ботинок", 
 
 Then in other list of paper i train this word in chinese, or writing hieroglyphs on the window with a finger. 
 
