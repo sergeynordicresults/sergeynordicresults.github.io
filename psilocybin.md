@@ -18,7 +18,7 @@ But this "Shephard tone" is for the thoughts. It will make You think:
 
 1. "Wow, this thought I had right now is the most interesting thought/notice I had in my life¨
 2. "Oh, no, the tought I just had is NOT the most interesting. NOW is the most interesting thought in my life!!!¨
-3. ¨No, no, no.... these two is not the most interesting. NOW is the most interesting¨
+3."No, no, no.... these two are not the most interesting. NOW is the most interesting"
 4. ....... and so on until infinity
 
 ![Shepard_Tones_spectrum_linear_scale](https://user-images.githubusercontent.com/7573215/233840358-6e453cb9-545d-4a61-b64c-ba4c280c66f3.png)
