@@ -105,7 +105,8 @@ Alternatives to do in the universe:
 5. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use up people and hop from one group of people to another"
 6. Demolish country borders <sub>(Neil deGrasse Tyson: ... bc from aliens point of view, they dont make sense)<sub>
 7. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals for food - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
-8. To find if the science infinite/will we ever get bored? 
+8. To find if the science infinite/will we ever get bored?
+9. Solve problem that Elon Musk have pointed out "old people are hard to change their mind. That's why people should die" (use solution of Eliezer Yudkowsky from "three worlds collide" : "people more than 40 years old should not participate in elections" ) 
   
 ----------
   
