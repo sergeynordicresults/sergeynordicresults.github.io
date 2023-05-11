@@ -1,10 +1,10 @@
-Watch movie, look at objects, e.g. "shoe", i take a book with "words i have already learned" (this is kind of my anki, but i see all words at the same time), i write in my language "ботинок", 
+I Watch movie, I look at objects, e.g. "shoe", I take a book with "words I have already learned" (this is kind of my anki program, but i see all words at the same time, I see my progress), I write in my native language "ботинок", 
 
-Then in other list of paper i train this word in chinese, or writing hieroglyphs on the window with a finger. 
+Then, I 'train this word in chinese'/'write hieroglyphs' in different list of paper or on a window with a finger.
 
-So, translate what you see, "he is waking up", "he is brushing teeth", etc.
+I translate what you see, e.g. "he is waking up", "he is brushing teeth", etc.
 
-Anki doesnt help, its a waste of time, bc brain should feel the pain, you should fear you will forget a word, bc it is stored only in the brain. 
+Anki doesnt help, its a waste of time, bc brain should feel the pain, you should fear you will forget a word, bc it is stored only in the brain.
 _____
 
 [For Chinese i have made a dictionary of what image every hieroglyph means](https://srghma-chinese2.github.io)
@@ -12,17 +12,25 @@ ______
 
 Walking gives you energy, don't learn in bed
 
-When wake up, don't lie in bed, go see the Sun first thing at the morning
+E.g. When you wake up, don't lie in bed, go see the Sun first thing at the morning
 
 ______
 
-Small circles VS big circles, art of learning book: trying to learn and write hieroglyphs and learn their pronunciations may be an error (big circle), I should have started from small circle first - make 30 min tomato cycle and concentrate only on sounds of names of objects I see in a film
+Small circles VS big circles, "art of learning" book: trying to 'learn to write hieroglyphs' and 'learn to pronounce hieroglyphs' at the same time may be an error (trying to do big circles right away, trying to run before learning to walk)
+
+Maybe I should have started from small circle first - make 30 min tomato cycle and concentrate only on sounds of names of objects I see in a film
+
 ______
 
-Language transfer is best app (it is using method of Aristotle, method of asking questions) 
+'Language transfer' Android app is best app (it is using method of Aristotle, method of asking questions) 
 
-Michael Tomas too
+'Michael Tomas lecture recordings' too
 
-I hope in future we will have an AI-teacher that can feed you words continually, be an Anki (re-ask), tell words etymology context and mnemonics (eg "so, how to translate the word 'shoe' in russian (language of rapists) ? Don't remember? Its similar to boat! Yes, 'ботинок', in 5 minutes i will reask you, then in 10, then in 20") 
+I hope, in future we will have an AI-teacher that can: 
+- feed you words
+- be an Anki (re-ask after gradually increasing time)
+- tell words etymology context and mnemonics
+
+E.g.: So, how to translate the word 'shoe' in russian (language of rapists)? Don't remember? It's similar to your native language word 'boat'! Remember? Right, 'ботинок'! Ok, in 5 minutes i will re-ask you, then in 10 minutes , then in 20 minutes
 
 
