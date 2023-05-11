@@ -23,6 +23,6 @@ Language transfer is best app (it is using method of Aristotle, method of asking
 
 Michael Tomas too
 
-
+I hope in future we will have an AI-teacher that can feed you words continually, be an Anki (re-ask), tell words etymology context and mnemonics (eg "so, how to translate the word 'shoe' in russian (language of rapists) ? Don't remember? Its similar to boat! Yes, ботинок") 
 
 
