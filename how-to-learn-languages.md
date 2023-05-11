@@ -7,7 +7,7 @@ So, translate what you see, "he is waking up", "he is brushing teeth", etc.
 Anki doesnt help, its a waste of time, bc brain should feel the pain, you should fear you will forget a word, bc it is stored only in the brain. 
 _____
 
-For Chinese i have made a dictionary of what image every hieroglyph means
+[For Chinese i have made a dictionary of what image every hieroglyph means](https://srghma-chinese2.github.io)
 ______
 
 Walking gives you energy, don't learn in bed
