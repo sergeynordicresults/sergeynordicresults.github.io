@@ -38,23 +38,24 @@ SUMMARY:
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
-The game of life universe is Turing complete. It means self conscious beings can appear there too. Do you think their prays work? Do you think there is a god that can help them? Do you think there is a god that will kill the bad two dimencional Chinghiz Khan that tortures 2D people and still has lot of money? You think they have the afterlife after death? 
+Eliezer Yudkowsky "Growth stories": The "game of life" universe is Turing complete. It means self conscious beings can appear there too. Do you think the prays of these 2D humans work? Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money? You think they have the afterlife after death? 
 
 
 
 -------------
 
+
 <sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR taro cards OR horoscopes OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>But it doesn't make me to want to kill people. Even putin and ted bundy. There exist harder, but more optimal solutions:</sub>
+<sub>So, yes, i behave as if living beings, me too, are machines. But it doesn't make me want to kill people. Even putin and ted bundy. There exist harder, but more optimal solutions:</sub>
 
 <sub>    1. neurofeedback</sub>
 
-<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)</sub>
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/), this book has lot of love to humanity</sub>
 
-<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing by hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM)
+<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing on hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM)
 </sub>
 
 
