@@ -2,13 +2,20 @@
 
 ⚠️ **Dont try it until 25 !!! (until Your brain connections are crystalized)!! With or without additives, marijuana impairs Your brain** ⚠️
 
-In Ukraine, bc marijuana is not legalized, it is actually sold out with chemicals (<sup>by some people that should be in jail for this. like poroshenko, bc "fish rots from the head", this guy clearly wasnt trying to improve society</sup>), that cause damage to the brain. And then, stupid children (like me and my friends) buy it. And then think *"WOW, why I am less smart as I was?"*
+<details><summary>Marijuana in Ukraine</summary>
+  
+In Ukraine, bc marijuana is not legalized, it is actually sold out with chemicals (<sup>by some people that should be in jail for this</sup>), that cause damage to the brain. And then, stupid children like me buy it, cause damage, and then think *"WOW, why I am less smart as I was?"*
+  
 
 *LEARN FROM MY MISTAKES!!!*
+  
+</details>
 
---------
+<details><summary>How marijuana works</summary>
 
-Now You think: "what will happen if I will try?"
+  
+
+Question: what will happen if I will try?
 
 Answer: nothing interesting
 
@@ -16,18 +23,24 @@ You will sink into the kind of ["Shephard tone"](https://en.m.wikipedia.org/wiki
 
 But this "Shephard tone" is for the thoughts. It will make You think:
 
-1. "Wow, this thought I had right now is the most interesting thought/notice I had in my life¨
-2. "Oh, no, the tought I just had is NOT the most interesting. NOW is the most interesting thought in my life!!!¨
+1. "Wow, this thought I had right now is the most interesting thought/notice I had in my life"
+2. "Oh, no, the tought I just had is NOT the most interesting. NOW is the most interesting thought in my life!!!"
 3."No, no, no.... these two are not the most interesting. NOW is the most interesting"
-4. ....... and so on until infinity
+4. ....... and so on, until infinity
 
 ![Shepard_Tones_spectrum_linear_scale](https://user-images.githubusercontent.com/7573215/233840358-6e453cb9-545d-4a61-b64c-ba4c280c66f3.png)
 
 Summary: dont try it, nothing interesting, just makes **"You can be mesmerized by our universe infinitively"** feature of our universe more visible by making you more stupid
 
-## But
+  
 
-one interesting thought i indeed had:
+</details>
+
+
+
+
+
+But one interesting thought i indeed had:
 
 1. it's it possible to suffer indefinitely in our universe? (now, we know that the universe will end, check [my post about universe](https://srghma.github.io/universe)!!, so ♾️ not possible?).
 1. to create a brain, put it to the machine of suffering, send it to the space with near light velocity, so that no good human could catch it and disable suffering
@@ -67,28 +80,28 @@ So, I was torturing the grown up people, but I couldnt torture children. Instead
 
 Realizations:
 
-1. I understood, that even though I can do horrible stuff, there is some ¨safety lock¨/¨circuit breaker¨/fuse that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos, without a theme you will not write a poem. *Stephen Hocking*: it seems like this universe should be non-ideal in order for a stuff to exist)
-2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I should go to doctor
+1. I understood, that even though I can do horrible stuff, there is some "safety lock/circuit breaker/fuse" that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos. without a theme you will not write a poem. *Stephen Hocking*: it seems like this universe is non-ideal in order for a stuff to exist)
+2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) or a child raper or had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I should go to doctor to rewire myself
 3. I understood, that maybe it doesn't make much sence to desire the power too much, bc
   - we will anyway live in abundunce (if we will not destroy ourselves by wars)
   - even Genghis Khan, though we had everything, wasnt happy
-  - human civilization can survive ONLY IF will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that COULD peacefully colonize a galaxy, is not the kind of civilization that WOULD colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
+  - human civilization can survive ONLY IF it will become less aggressive [(Neil Degrass Tyson: the desire to breed and colonize the galaxy is self-destructing for the civilization. "It may be that the very kind of civilization that COULD peacefully colonize a galaxy, is not the kind of civilization that WOULD colonize the galaxy at all")](https://www.youtube.com/watch?v=cDut-A2GtLA)
 
 
 Then, when i woke up, (like a cloud of a bomb, and i was in center) universe appeared again around me, i was lying and thought:
 
-> ok, probably now the meaning of my life is to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light can escape, like from the black hole") 
+> ok, probably now the meaning of my life is just to wait for technological singularity (the moment in time, in future, after which the technology will start to advance so fast, that it will not be possible to predict the next advancement, "no light can escape, like from the black hole") 
 
 # P. S. Why am I telling all this
 
-B. c. IF 
+B.c. IF 
 
 1. Ramez Naam "The Nexus Trilogy" <sub>(in future humans will merge all brains with Elon Musk's Neuralink-like technology, will be able to show videos with past, enter each-other's bodies)</sub> 
 2. AND Erwin Schrodinger "My view of the world" <sub> ("in truth, there is only one mind")</sub> 
 3. AND Sean Carroll <sub>("universe and we will not exist forever.")</sub>
 4. AND Michio Kaku <sub>("do whatever you want, you will anyway someday have 1. The device that makes the food from the air 2. Medicine to live until the end of universe")</sub> 
 
-THEN there is no need:
+are right THEN there is no need:
 
 
 1. to lie 
@@ -96,18 +109,18 @@ THEN there is no need:
 3. to cheat 
 4. to do horrible stuff to advance on the ladder
 
-Alternatives to do in the universe:
+# Alternatives to do in the universe:
 
 1. Cure death. Live until the end of universe. <sub>(Eliezer Yudkowsky: Harry Potter and the methods of rationality)</sub>
-2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(Jordan Peterson) (bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something?)</sub>
-3. Meet everyone, one by one, and say "Yes, this is a life too". Visit wedding of 1000th grandchild. Visit Proxima Centauri <sub>(Eliezer Yudkowsky)</sub>
+2. Construct the "garden of Eden to shelter from the chaos outside" <sub>(Jordan Peterson) (bc there will always be chaos and problems. Stephen Hawking “One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist.....Without imperfection, neither you nor I would exist”. There will always be possibility to improve something? If new devise solves more problems then creates, then we accept it)</sub>
+3. Meet everyone, one by one, and say "Yes, this is a life too". Visit wedding of 1000th grandchild on Proxima Centauri<sub>(Eliezer Yudkowsky)</sub>
 4. Relax, this is just a game <sub>(Eliezer Yudkowsky)</sub>
 5. Demolish prisons that dont fix the problems. Use neurofeedback to cure "inability to empathize". Use phylosophy (?) to cure "alcohol-like desire to use up people and hop from one group of people to another"
 6. Demolish country borders <sub>(Neil deGrasse Tyson: ... bc from aliens point of view, they dont make sense)<sub>
-7. Consume energy from the sun <sub>(Alexei Arestovich: when we will stop killing animals for food - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
-8. To find if the science infinite/will we ever get bored?
-9. Solve problem that Elon Musk have pointed out "old people are hard to change their mind. That's why people should die" (use solution of Eliezer Yudkowsky from "three worlds collide" : "people more than 40 years old should not participate in elections" )
-10. Solve the graal of all problems: how to increase people's iq, so that we become on par with AI and it will not be able to kill us
+7. Consume energy from the sun <sub>(Alexey Arestovich: when we will stop killing animals for food - this will be the turning point)</sub> <sub>(Neil deGrasse Tyson: cucumber is a baby of a plant, You are committing infanticide 😂)</sub>
+8. To find if the science is infinite. will we ever get bored?
+9. Solve problem that Elon Musk have pointed out "old people are hard to change their mind. New people should replace old. That's why people should die" (use solution of Eliezer Yudkowsky from "three worlds collide" : "people more than 40 years old should not participate in elections"?)
+10. Solve the graal of all problems: how to increase people's iq, so that we become equally intelligent, compared to AI and it will not be able to kill us
   
 ----------
   
