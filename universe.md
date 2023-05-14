@@ -38,14 +38,14 @@ SUMMARY:
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
-Eliezer Yudkowsky "Growth stories": The "game of life" universe is Turing complete. It means self conscious beings can appear there too. Do you think the prays of these 2D humans work? Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money? You think they have the afterlife after death? 
+Eliezer Yudkowsky "Growth stories": The "game of life" universe is Turing complete. It means self conscious beings can appear there too. Do you think the prayings of these 2D humans work? Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money? Do You think they have an afterlife after death?
 
 
 
 -------------
 
 
-<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR taro cards OR horoscopes OR other magic. (read "God as illusion" by Richard Dawkins)</sub>
+<sub>I don't believe in power of prayers OR that it's possible to "charge water by positive thoughts" OR taro cards OR horoscopes OR other magic. (read "God as illusion" by Richard Dawkins, they were tested and they don't work)</sub>
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
