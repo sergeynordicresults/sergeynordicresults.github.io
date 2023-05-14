@@ -126,7 +126,7 @@ are right THEN there is no need:
 
 Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays on "killing people and ripping their hearts out".
 
-I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ucraine I am fighting because noone wants to live in russian dicratorship)
+I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ukraine I am fighting because noone wants to live in russian dicratorship)
 
 "The difference between dialects and languages is only in a presence of army"
   
