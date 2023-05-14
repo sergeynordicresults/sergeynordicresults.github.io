@@ -22,7 +22,7 @@ Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
 3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(the natural "paperclip turning robot"? then why we dont see them around us?)</sup>
-4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but stopped to evolve, and others are stronger, but with a death switch inside to continue evolution. soon we will remove this switch)</sup>
+4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>
 
 THIS IS NOT similar to "from nothing a plane was created", because:
 1. we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot"
