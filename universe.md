@@ -16,13 +16,13 @@ We cannot prove that god doesn't exist, BUT
 
 SUMMARY: god is an "extra variable" to a "function" that works fine without this "extra variable". (about this - below 👇²)
 
-<pre translate=yes>
+## We know HOW life was "created"
 
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID NOT have the "self-replicate" property (they didn't make copies of themselves), but our ancestor-molecules DID
-4. some molecules were unstable and died, but our ancestor "self-replicating molecule-robot" DIDN'T and evolved into us.
+3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(the natural "paperclip turning robot"? then why we dont see them around us?)</sup>
+4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but stopped to evolve, and others are stronger, but with a death switch inside to continue evolution. soon we will remove this switch)</sup>
 
 THIS IS NOT similar to "from nothing a plane was created", because:
 1. we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot"
@@ -32,7 +32,7 @@ SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
 2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
 3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
-</pre>
+
 
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
 
