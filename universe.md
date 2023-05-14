@@ -330,6 +330,10 @@ Outcome:
 
 > "Art of learning": if music doesn't allow you to learn, don't close a window, try to use it
 
+> "Artificial Intelligence: A Modern Approach" book: we want to create AI. how smart can it in principle can be? can we create it so it is able to predict everything that is happening in universe? even such small probability events like "a safety-deposit box being accidentally thrown down on AI agent from a plane" to prevent his death? no, we cannot "create it so it is able to predict everything that is happening in universe". And humans are too limited like this AI. (rational, but not omnipotent?)
+
+> Eliezer Yudkowsky: There exists an upper threshold on how smart a being can be. The brain cannot be infinitely dense and big, because after some threshold it will convert itself to a black hole.
+
 --------
 
 I am a citizen of a universe, not a country. 
