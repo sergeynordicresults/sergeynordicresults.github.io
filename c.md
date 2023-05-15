@@ -46,6 +46,26 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 
 .... 
 
+# how to stop wars
+
+Ukraine
+
+So, in 2014, fucking russians said "we give high probability, that if people in Krimea and Donetsk and Lugansk will vote right now for "TO WHICH COUNTRY THEY WANT TO BELONG TO", we think they will choose russia. That's why, without doing this voting, but only because we have such hunch, we will go and fucking liberate this people. Liberate them from their property (stealing buisness from Krimea people), and make the Donetsk and Lugansk a battlefield, so that when ukranians will attack our army, while we are hiding in the buildings, we will say they attack civilians"
+
+Truth be said, I (srghma) give probabilities:
+- in 2014: Krimea - 40 russia/60 Ukraine, Donetsk and Lugansk - 30 russia/70 Ukraine
+- after a war, after Bucha, after rapes: Krimea - 5 russia/95 Ukraine, Donetsk and Lugansk - 5 russia/95 Ukraine
+
+China tortures Uygur and Tubet people
+
+IRA Catalonia wants to devide from Spain
+
+Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
+
+Cons:
+1. Ukraine, back in 2014 - there is probability that Ukraine would lose territories. But I it is anyway better than wars
+2. China. I know, you are not bad people, you just fear that you will lose territories. OK, yes, I think Tibet and Uygurs will vote for divide, yes, China will become smaller. But does really matter? Will it matter in a world without borders? In a world where we don't work anymore? In a world where all what have left to us is to help each other, until the recipient is fed up with help, just like in Masyana cartoon
+
 # What have happened in Tiananmen square
 
 "One bad chinese guy wanted to make young chinese students to make a revolution, so that Spain, America, Russia and other countries (7 countries in total) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed"
