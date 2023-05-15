@@ -10,7 +10,9 @@ Thank you to all countries that helped Ukraine
 
 4. [Review on "Ukraine on fire" film](https://srghma.github.io/ukraine-on-fire)!
 
+<!--
 5. [China](https://srghma.github.io/china) (preventing future war with Taiwan and America) 
+-->
 
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
 
