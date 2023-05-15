@@ -42,9 +42,15 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 </td></tr>
 </table>
 
-# Who ware Stalin, Lenin and Mao
+# Who were Stalin, Lenin and Mao
 
-# What have happened in Tiananmen
+.... 
+
+# What have happened in Tiananmen square
+
+"One bad chinese guy wanted to make young chinese students to make a revolution, so that Spain, America, Russia and other countries (7 countries in total) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed"
+
+.... Waiting approval
 
 <img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="100px">
 
