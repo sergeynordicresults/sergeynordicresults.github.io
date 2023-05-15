@@ -64,7 +64,7 @@ Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO"
 
 Cons:
 1. Ukraine, back in 2014 - there is probability that Ukraine would lose territories. But I it is anyway better than wars
-2. China. I know, you are not bad people, you just fear that you will lose territories. OK, yes, I think Tibet and Uygurs will vote for divide, yes, China will become smaller. But does really matter? Will it matter in a world without borders? In a world where we don't work anymore? In a world where all what have left to us is to help each other, until the recipient is fed up with help, just like in Masyana cartoon
+2. China. I know, you are not bad people, you just fear that you will lose territories. OK, yes, I think Tibet and Uygurs will vote for divide, yes, China will become smaller. But does really matter? Will it matter in a world without borders? In a world where we don't work anymore? In a world where all what have left to us is to help each other, until the recipient is fed up with help, just like in Masyana cartoon https://m.youtube.com/watch?v=uoU6kE9oSu4
 
 # What have happened in Tiananmen square
 
