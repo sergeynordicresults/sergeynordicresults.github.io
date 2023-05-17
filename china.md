@@ -71,7 +71,7 @@ History from "GULAG archipelago" by Solzhenitsin:
 He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks/middle class people / people with private property / people with business / people with arable fields" 
 
 From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) :
-- But "kulaks" **IS** these 20% of people that create 80% of resources!!!! They know how to make bread!!!!
+- But "kulaks" **IS** these 20% of people that create 80% of resources ⚠️ ⚠️ They know how to make bread ⚠️ ⚠️
 - By killing and enslaving "kulaks" he started the great hunger
 - Then he said "on god, hunger comes to Moskow, my own people will make a revolution and kill me. Ah, there are ukranians, these people are always a problem, always want the independence. I will lie to them, take their wheat harvest, and they will die"
   
