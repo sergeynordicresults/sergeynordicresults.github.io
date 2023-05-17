@@ -29,8 +29,9 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   
   1. Why, when I watch cctv news and You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
-  2. Why You torture [uyghurs](https://www.bbc.com/russian/features-53671502) and tibetian people?
+  2. Why You torture uyghurs and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   3. Why You want to start a war with Taiwan and America?
+  4. Why China gives North Korea money to support this kim-shit dictotorship and GULAGs? Why not stop supporting kim-asshole, so that people of North Korea would finally liberate themselves?
   
   Chinese people say:
   1. "If my country will start a war with Taiwan - ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
@@ -61,20 +62,22 @@ Truth be said, I (srghma) give probabilities:
 
 These problems:
 1. russia went to "liberate" ukraninans
-2. Basque Country wants to be devided from Spain <sub>(ETA terrorists attacks killed lot of people, now suppressed for good)</sub>
-3. China tortures Uygur and Tibt people <sub>(not because they are bad people, but because they fear to lose territories and become vulnerable)</sub>
+2. Basque Country wanted to be devided from Spain <sub>(ETA terrorists attacks killed lot of people, now suppressed for good)</sub>
+3. China tortures Uygur and Tibet people, wants to start a war with Taiwan <sub>(not because they are bad people, but because they fear to lose territories and become vulnerable)</sub>
 
-IRA 
+HOW TO SOLVE: create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
 
-Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
+WHAT IS STOPPING US FROM MAKING THIS: first, we should make the "information, about all people open for all countries".
 
-Cons:
-1. Ukraine, back in 2014 - there is probability that Ukraine would lose territories. But I it is anyway better than wars
+By this I mean: every time the new human beign is being born on this planet - make information `<name, address>` available for every human being. This will allow us to make votings.
+
+HOW THIS WILL WORK:
+1. For Ukraine, back in 2014, before russian invasion - there is probability that Ukraine would lose territories. But I it is anyway better than wars
 2. China. I know, you are not bad people, you just fear that you will lose territories. OK, yes, I think Tibet and Uygurs will vote for divide, yes, China will become smaller. But does really matter? Will it matter in a world without borders? In a world where we don't work anymore? In a world where all what have left to us is to help each other, until the recipient is fed up with help, just like in Masyana cartoon https://m.youtube.com/watch?v=uoU6kE9oSu4
 
 # What have happened in Tiananmen square
 
-"One bad chinese guy wanted to make young chinese students to make a revolution, so that Spain, America, Russia and other countries (7 countries in total) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed"
+One chinese guy have told me - "One bad chinese guy (TODO: what is his name?) was inducing young chinese students to make a revolution, so that Spain, America, Russia and other countries (7 countries in total) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed"
 
 .... Waiting approval
 
