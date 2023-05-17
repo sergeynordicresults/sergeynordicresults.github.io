@@ -53,7 +53,7 @@ Eliezer Yudkowsky "Growth stories": The "game of life" universe is Turing comple
 
 <sub>    1. neurofeedback</sub>
 
-<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/), this book has lot of love to humanity</sub>
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense, e.g. borders, racism) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/), this book has lot of love to humanity</sub>
 
 <sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing on hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM)
 </sub>
