@@ -46,19 +46,25 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 
 .... 
 
-# how to stop wars
+# How to stop wars
 
-Ukraine
+<details><summary>What have happened in Ukraine</summary>
 
-So, in 2014, fucking russians said "we give high probability, that if people in Krimea and Donetsk and Lugansk will vote right now for "TO WHICH COUNTRY THEY WANT TO BELONG TO", we think they will choose russia. That's why, without doing this voting, but only because we have such hunch, we will go and fucking liberate this people. Liberate them from their property (stealing buisness from Krimea people), and make the Donetsk and Lugansk a battlefield, so that when ukranians will attack our army, while we are hiding in the buildings, we will say they attack civilians"
+  In 2014, russians said "we give high probability, that IF people in Krimea and Donetsk and Lugansk will vote right now for "TO WHICH COUNTRY THEY WANT TO BELONG TO" THEN (we think) they will choose russia. That's why, without doing this voting, but only because we have such hunch, we will go and fucking liberate this people. Liberate them from their property (stealing business from Krimea people), and make the Donetsk and Lugansk a battlefield, to distract ukranians from Krimea. And, when ukranians will attack our army, while we are hiding in the buildings in Donetsk, we will say they attack civilians"
 
 Truth be said, I (srghma) give probabilities:
 - in 2014: Krimea - 40 russia/60 Ukraine, Donetsk and Lugansk - 30 russia/70 Ukraine
 - after a war, after Bucha, after rapes: Krimea - 5 russia/95 Ukraine, Donetsk and Lugansk - 5 russia/95 Ukraine
+</details>
 
-China tortures Uygur and Tubet people
 
-IRA Catalonia wants to devide from Spain
+
+These problems:
+1. russia went to "liberate" ukraninans
+2. Basque Country wants to be devided from Spain <sub>(ETA terrorists attacks killed lot of people, now suppressed for good)</sub>
+3. China tortures Uygur and Tibt people <sub>(not because they are bad people, but because they fear to lose territories and become vulnerable)</sub>
+
+IRA 
 
 Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
 
