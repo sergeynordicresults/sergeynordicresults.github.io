@@ -222,8 +222,7 @@ create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG T
 > 
 > 1. Lets use the current borders of oblasts/provinces/regions of Donetsk and Lugansk and Krimea
 > 2. we can make 1 vote that will decide everything 
-> 
-> OR we can repeat the voting process untils results will not gravitate to one side with least 65% of votes (for example)
+> OR we can repeat the voting process untils results will not gravitate to one side with at least 65% of votes (for example)
 >
 > **IF** people will choose Russia **THEN** ok, this is a desire of people, what can we do?
 > 
