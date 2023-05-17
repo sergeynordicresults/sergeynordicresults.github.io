@@ -9,5 +9,6 @@ plugins:
 
 # Jekyll Default Configuration
 # https://jekyllrb.com/docs/configuration/default/
-kramdown:
-  auto_ids: true
+markdown: gfm
+# kramdown:
+#   auto_ids: true
