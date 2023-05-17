@@ -5,19 +5,19 @@
 Do You remember Nanjing?
 1. Surgical operations of unit 731 on living people
   
-<img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="70%">
+<img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px">
   
 2. Iced hands being put to the boiling water
   
-<img alt="hands" src="https://github.com/srghma/srghma.github.io/assets/7573215/803a3acc-b8b9-4703-8315-4b50df5e46fd" width="70%">
+<img alt="hands" src="https://github.com/srghma/srghma.github.io/assets/7573215/803a3acc-b8b9-4703-8315-4b50df5e46fd" width="300px">
   
 3. The arrow inside of a woman
   
-<img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="70%">
+<img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="300px">
   
 4. The baby on the spear
   
-<img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="70%">
+<img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="300px">
 
 </td><td>
 
@@ -31,7 +31,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   
-  <img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="200px">
+  <img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="300px">
 
   3. Why You want to start a war with Taiwan and America?
   4. Why China gives North Korea money to support this Kim Jong Un dictatorship and GULAGs? You dont belive people there are being tortured? Why not stop supporting kim-asshole, so that people of North Korea finally liberate themselves?
@@ -77,7 +77,7 @@ From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/wa
   
 This time is called [Holodomor](https://en.wikipedia.org/wiki/Holodomor). People were dying by villages, mothers were eating their babies, corpses of people have been sold on the meat counters.
 
-<img alt="ukraine" src="https://github.com/srghma/srghma.github.io/assets/7573215/36ba4913-0459-4328-b1cd-03748fdf968e" width="100px">
+<img alt="ukraine" src="https://github.com/srghma/srghma.github.io/assets/7573215/36ba4913-0459-4328-b1cd-03748fdf968e" width="300px">
 
 Till this day, the bread is sacred for ukrainians. My grandmother Lyba was always telling me "don't leave bread crumbs, eat them, the bread is sacred"
   
@@ -108,13 +108,32 @@ But now Xi JinPing repeats putin
 
 <table>
 <tr><td>Putin likes his country being closed and under restrictions</td><td>Xi JinPing likes ...</td></tr>
-<tr><td>Putin tells that his country is chosen by Gods, to fight agains gay people , to preserve traditions
+<tr><td>
+  Putin tells that his country is chosen by Gods, to fight agains gay people , to preserve traditions
+  
   
   Actually, the war is because [one 12-years old boy was twerking on gay parad in Brasil](https://vk.com/wall-37652433_90022) and trans-people (russian people saying "we will not allow americans to do this with our children")
   
- <img alt="Boy-twerking" src="https://github.com/srghma/srghma.github.io/assets/7573215/c30840e1-19e9-4e69-bc6c-6a7896603e3f" width="100px">
+  
+ <img alt="Boy-twerking" src="https://github.com/srghma/srghma.github.io/assets/7573215/c30840e1-19e9-4e69-bc6c-6a7896603e3f" width="400px">
 
-  </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+  Arestovich: all problems are because of "disciplinary societies":
+  
+  - "believing that people require control outside, because there are more evil inside of people, than good"
+  
+  > For example:
+  > - Muslims dont allow other men to touch the hand of their wifes, because they fear wife will cheat on them afterwards (and what? we soon will be able to read thoughts)
+  > - Singapore is ["Disneyland with the Death Penalty"](https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty)
+  > - I myself think that in order to prevent people to break public stuff we need cameras
+  
+  VERSUS
+  
+  - "believing people have more good inside, than evil" 
+  
+  > For example:
+  > - countries where you can cross the double line, when there are no other cars, and police will not tell you anything
+  
+  </td><td>...</td></tr>
   
  <tr><td>Putin kills people
    
@@ -126,7 +145,8 @@ But now Xi JinPing repeats putin
    </td><td>
    
    Once in Madrid I saw a old guy with a poster with photos of his son in hotel, he was saying that his son was killed by assassins from "chinese communist party". One chinese guy told me that this is a lie.
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+   
+   </td></tr>
 
 </table>
 
@@ -205,6 +225,8 @@ create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG T
 >
 > Eliezer Yudkowsky: [better all humans will get the small pain of one dust speck hurting the eye, THAN one human will be tortured for 50 years.](https://www.lesswrong.com/posts/3wYTFWY3LKQCnAptN/torture-vs-dust-specks)
 > 
+> ---------------------
+> 
 > What would I vote for? I didnt like ukranian language that time (language of village people? stupid me, beautiful language, not a language of rapists), but I would vote pro-ukraine
 > 
 > What would I do **IF** russia would win AND Donetsk (my home place) would become part of russia? I would:
@@ -212,14 +234,14 @@ create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG T
 >   2. I would go on streets, I am fine living in Ukraine.
 >   3. BUT IF this doesnt change anything AND economic situation is fine THEN I would stop.
 >   
->   P.S. 
+> P.S. 
 >   
 >   1. This doesnt mean that I want the ukranian culture to die-out.
 >   2. [I do wish bad cultures to die out](https://github.com/srghma/srghma.github.io/blob/main/psilocybin.md#preservation-of-cultures-or-languages), e.g. aztec cultures with religious sacrifices, but Ukranian culture is not bad. 
 >   3. I dont think this WOULD cause the ukranian culture to die-out. 
 
 
-4. China
+2. China
 
   - Uygurs
    
