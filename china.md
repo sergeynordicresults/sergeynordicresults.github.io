@@ -51,20 +51,86 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 <table>
 <tr><td>
 
-  <sub>Note,history is like a meat on the counter of a salesman, a historian, and you can buy whatever version of history you like, because history cannot be proved by experiments
+  <sub>Nevzorov: history is like a meat on the counter, and historian is a salesman, and you can buy whatever version of history you like, just like a meat. Because history cannot be proved by experiments. Even if you have records - there is still some probability that they are fake.</sub>
     
-History from "GULAG archipelago" by Solzhenitsin ) :
-First, there was a Lenin, who hated russian people, he thought "there is no way i can build a new county while village people are alive, because they are all religious, believe in superstitions and prophecies, alcoholics". So, he started 
+History from "GULAG archipelago" by Solzhenitsin:
+
+1. First, there was a Lenin
+  
+  He thought 
+  
+  > "there is no way I can build a new county while village people are alive, because they are all religious, believe in superstitions and prophecies, alcoholics and dont want to work".
+
+ 
+  > From "Gulag" book: `И хотя В.И.Ленин в конце 1917 года для установления "строго революционного порядка" требовал "беспощадно подавлять попытки анархии со стороны пьяниц, хулиганов, контр-революционеров и других лиц", Ленин, собр.соч.,5 изд., т.35, стр.68.`
+
+  So, he started killing them and making them slaves (forcing to work is not a slavery? how you will get a new Einstein when everyone are working?)
+  
+2. Then, there was a Stalin 
+  
+He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks/middle class people / people with private property / people with business / people with arable fields" 
+
+From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) :
+- But "kulaks" **IS** these 20% of people that create 80% of resources!!!! They know how to make bread!!!!
+- By killing and enslaving "kulaks" he started the great hunger
+- Then he said "on god, hunger comes to Moskow, my own people will make a revolution and kill me. Ah, there are ukranians, these people are always a problem, always want the independence. I will lie to them, take their wheat harvest, and they will die"
+  
+This time is called [Holodomor](https://en.wikipedia.org/wiki/Holodomor). People were dying by villages, mothers were eating their babies, corpses of people have been sold on the meat counters.
 
 <img alt="ukraine" src="https://github.com/srghma/srghma.github.io/assets/7573215/36ba4913-0459-4328-b1cd-03748fdf968e" width="100px">
+
+Till this day, the bread is sacred for ukrainians. My grandmother Lyba was always telling me "don't leave bread crumbs, eat them, the bread is sacred"
+  
+  P.S.
+  1. Also, stalin was stealing a gold from people. Police was torturing people until they give gold, pulling their gold teeths
+  2. Maybe, [stalin raped 13 years old](https://twitter.com/HLKodo/status/1457366109238153218?lang=en)
+  
 
   
 </td><td>
 
+Didn't Mao Zedong do the same with China? 
+  
+Though he had this example:
+  - Stalin tries to "remove kulaks" 
+  - AND HE SEES that this have caused a famine in USSR in 1932 (because Stalin have fucking killed people that knew how to make bread)
+  - BUT he anyway decides to do this same "kulaks killing"
+  
+Result is [Great Chinese Famine in 1959](https://en.m.wikipedia.org/wiki/Great_Chinese_Famine)
 
+(not even mentioning other killings)
   
 </td></tr>
 </table>
+
+
+But now Xi JinPing repeats putin
+
+<table>
+<tr><td>Putin likes his country being closed and under restrictions</td><td>Xi JinPing likes ...</td></tr>
+<tr><td>Putin tells that his country is chosen by Gods, to fight agains gay people , to preserve traditions
+  
+  Actually, the war is because [one 12-years old boy was twerking on gay parad in Brasil](https://vk.com/wall-37652433_90022) and trans-people (russian people saying "we will not allow americans to do this with our children")
+  
+ <img alt="Boy-twerking" src="https://github.com/srghma/srghma.github.io/assets/7573215/c30840e1-19e9-4e69-bc6c-6a7896603e3f" width="100px">
+
+  </td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+  
+ <tr><td>Putin kills people
+   
+   1. [He was smiling when Kursk submarine has drown](https://twitter.com/visegrad24/status/1514512371653525505?lang=en)
+   2. He was [blowing houses of his own people in september 1999](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings), to justify the start and not stop the ["Second Chechen War" (7 August 1999)](https://en.wikipedia.org/wiki/Second_Chechen_War)  (film [Недоверие Андрей Некрасов](https://youtu.be/JyNDrjThpyk), book ["Blowing Up Russia"](https://en.wikipedia.org/wiki/Blowing_Up_Russia))
+   3. [Nord-Ost](https://www.youtube.com/watch?v=1NWjNliNki4) and ["Beslan school siege"](https://en.wikipedia.org/wiki/Beslan_school_siege) - He decided to sacrefice people, just not to give ability for terrorists to speak with people, because they wanted to stop a war
+   3. He started a war with Ukraine to distract people of russia from problems inside of country and possible revolution after [Navalny "I called my killer and he confessed"](https://www.youtube.com/watch?v=ibqiet6Bg38) and [his video "Putin's palace. History of world's largest bribe"](https://www.youtube.com/watch?v=ipAnwilMncI)
+   
+   </td><td>
+   
+   Once in Madrid I saw a old guy with a poster with photos of his son in hotel, he was saying that his son was killed by assassins from "chinese communist party". One chinese guy told me that this is a lie.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+
+</table>
+
+
 
 # How to stop wars
 
@@ -131,7 +197,7 @@ create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG T
 > 
 > 1. We hope you will improve these territories. 
 > 3. We will try to keep in mind that borders dont really matter from cosmological perspective
-> 2. We should be happy, because we just prevented the wars and tortures. 
+> 2. We should be happy, because we just prevented the wars and tortures. (do You want solve these problems with wars OR voting?)
 > 
 > We should be happy, because 
 > - ITS BETTER we (all ukranians) will be feeling the mental pain for loosing a territory (because our country, the result of all our work and sacrifices, has not been enough to convince people to stay with us)
