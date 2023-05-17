@@ -131,9 +131,20 @@ But now Xi JinPing repeats putin
   - "believing people have more good inside, than evil" 
   
   > For example:
-  > - countries where you can cross the double line, when there are no other cars, and police will not tell you anything
+  > - Countries where you can cross the double line, when there are no other cars, and police will not tell you anything
+  > - Libertarians motto - every human have two hands and only one mouth. We all produce more than consume.
   
-  </td><td>...</td></tr>
+  </td><td>
+  I fear, if/when China economy will start to go down 
+  
+  > because its a law of "Ray Dalio cycles": 
+  > 1. country with "expensive labor force" (e.g. USA, world-leader 1) export buisness to country with "cheap labor force" (e.g. China, not world-leader) 
+  > 2. then "cheap labor force" becomes "expensive" (China becomes world-leader) 
+  > 3. now country (China) have to export it's buisness to other country too (e.g. some Africa country), this new country becomes "world-leader"
+  
+  I fear when this will happen, Xi, to preserve his position, will play the same card as putin: "Ah, its not my fault, I was doing everything without mistakes, I was the most optimal version of a leader, its all fault of chinese-people-haters, lets kill them"
+  
+  ...</td></tr>
   
  <tr><td>Putin kills people
    
@@ -146,6 +157,7 @@ But now Xi JinPing repeats putin
    
    Once in Madrid I saw a old guy with a poster with photos of his son in hotel, he was saying that his son was killed by assassins from "chinese communist party". One chinese guy told me that this is a lie.
    
+ 
    </td></tr>
 
 </table>
