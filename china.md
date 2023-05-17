@@ -29,9 +29,12 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   
   1. Why, when I watch cctv news and You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
-  2. Why You torture uyghurs and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
+  2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
+  
+  <img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="200px">
+
   3. Why You want to start a war with Taiwan and America?
-  4. Why China gives North Korea money to support this kim-shit dictotorship and GULAGs? Why not stop supporting kim-asshole, so that people of North Korea would finally liberate themselves?
+  4. Why China gives North Korea money to support this Kim Jong Un dictatorship and GULAGs? You dont belive people there are being tortured? Why not stop supporting kim-asshole, so that people of North Korea finally liberate themselves?
   
   Chinese people say:
   1. "If my country will start a war with Taiwan - ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
@@ -45,13 +48,33 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 
 # Who were Stalin, Lenin and Mao
 
-.... 
+<table>
+<tr><td>
+
+  <sub>Note,history is like a meat on the counter of a salesman, a historian, and you can buy whatever version of history you like, because history cannot be proved by experiments
+    
+History from "GULAG archipelago" by Solzhenitsin ) :
+First, there was a Lenin, who hated russian people, he thought "there is no way i can build a new county while village people are alive, because they are all religious, believe in superstitions and prophecies, alcoholics". So, he started 
+
+<img alt="ukraine" src="https://github.com/srghma/srghma.github.io/assets/7573215/36ba4913-0459-4328-b1cd-03748fdf968e" width="100px">
+
+  
+</td><td>
+
+
+  
+</td></tr>
+</table>
 
 # How to stop wars
 
 <details><summary>What have happened in Ukraine</summary>
 
-  In 2014, russians said "we give high probability, that IF people in Krimea and Donetsk and Lugansk will vote right now for "TO WHICH COUNTRY THEY WANT TO BELONG TO" THEN (we think) they will choose russia. That's why, without doing this voting, but only because we have such hunch, we will go and fucking liberate this people. Liberate them from their property (stealing business from Krimea people), and make the Donetsk and Lugansk a battlefield, to distract ukranians from Krimea. And, when ukranians will attack our army, while we are hiding in the buildings in Donetsk, we will say they attack civilians"
+In 2014, russians said:
+- we give high probability, that IF people in Krimea and Donetsk and Lugansk will vote right now for "TO WHICH COUNTRY THEY WANT TO BELONG TO" THEN (we think) they will choose russia.
+- That's why, without doing this voting, but only because we have such hunch, we will go and fucking liberate ukranians. 
+- Liberate them from their property (stealing business from Krimea people)
+- Make the Donetsk and Lugansk a battlefield, to distract ukranians from Krimea. And then, when ukranians will attack our army, while we are hiding in the buildings in Donetsk, we will say that they attack their own civilians (which is true, bad people exist in all armies AND perfect weapon doesnt exist, but who have started all this?)
 
 Truth be said, I (srghma) give probabilities:
 - in 2014: Krimea - 50 russia/50 Ukraine, Donetsk and Lugansk - 30 russia/70 Ukraine
@@ -60,23 +83,41 @@ Truth be said, I (srghma) give probabilities:
 
 
 
-These problems:
+#### These problems:
+
 1. russia went to "liberate" ukraninans
 2. Basque Country wanted to be devided from Spain <sub>([ETA terrorists attacks](https://en.wikipedia.org/wiki/List_of_ETA_attacks) killed lot of people, now suppressed for good)</sub>
 3. China tortures Uygur and Tibet people, wants to start a war with Taiwan <sub>(not because they are bad people, but because they fear to lose territories and become vulnerable)</sub>
 
-HOW TO SOLVE: create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
+can be solved
 
-WHAT IS STOPPING US FROM MAKING THIS: first, we should make the "information, about all people open for all countries".
+#### HOW TO SOLVE
+create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG TO" 
 
-By this I mean: every time the new human beign is being born on this planet - make information `<name, address>` available for every human being. This will allow us to make votings.
+#### WHAT IS STOPPING US FROM MAKING THIS
 
-HOW THIS WILL WORK:
+1. to make votes in China, right now
+
+> nothing
+
+2. to make votes in Ukraine, back in 2014
+
+> Question is: How to make the voting process **SO TRUSTWORTHY**, so that even such shitty people, like putin (people that dont want to accept results), had no other choise, except of **ACCEPT IT**
+> 
+> (I think) what stops us is: 
+> 1. we should make the "information, about all people of all countries" **PUBLIC/OPEN-SOURCE/INTERPLANETARY**
+> 
+>   By this I mean: every time the new human beign is being born on this planet - make information pair `<name, address>` published on blockchain and available for every human being.
+>   
+> 2. accept this voting process by big countries as a way to resolve problems
+
+
+#### HOW THIS WILL WORK
 
 1. For Ukraine, back in 2014, before russian told "we give hight probability that people will choose us", before occupation
 
-Ukranians would tell: 
-
+> Ukranians would tell: 
+> 
 > ok, putin-shit, you think we will choose you? ok, we are willing to sacrifice the probability that people of Krimea and Donetsk and Lugansk will choose to live under your dictatorship.
 > 
 > Lets do the voting:
@@ -86,52 +127,79 @@ Ukranians would tell:
 > 
 > OR we can repeat the voting process untils results will not gravitate to one side with least 65% of votes (for example)
 >
-> IF people will choose Russia THEN ok, this is a desire of people, what can we do?
+> **IF** people will choose Russia **THEN** ok, this is a desire of people, what can we do?
 > 
 > 1. We hope you will improve these territories. 
 > 3. We will try to keep in mind that borders dont really matter from cosmological perspective
 > 2. We should be happy, because we just prevented the wars and tortures. 
 > 
-> We ARE HAPPY, because 
-> - ITS BETTER we, all ukranians, will be feeling the mental pain for loosing a territory (because our country, the result of all our work and sacrifices, has not been enough to convince people to stay with us)
-> - THAN SOMEONE, even 1 person, will be tortured 
+> We should be happy, because 
+> - ITS BETTER we (all ukranians) will be feeling the mental pain for loosing a territory (because our country, the result of all our work and sacrifices, has not been enough to convince people to stay with us)
+> - THAN someone, even 1 person, will be tortured 
 >
 > Eliezer Yudkowsky: [better all humans will get the small pain of one dust speck hurting the eye, THAN one human will be tortured for 50 years.](https://www.lesswrong.com/posts/3wYTFWY3LKQCnAptN/torture-vs-dust-specks)
 > 
-> What would I vote in this exact situation, if russia would win and Donetsk (my home place) would become part of russia - would go on st
+> What would I vote for? I didnt like ukranian language that time (language of village people? stupid me, beautiful language, not a language of rapists), but I would vote pro-ukraine
+> 
+> What would I do **IF** russia would win AND Donetsk (my home place) would become part of russia? I would:
+>   1. say "wow, now everything is being decided by old people, who want to return to the Soviet Union times?". 
+>   2. I would go on streets, I am fine living in Ukraine.
+>   3. BUT IF this doesnt change anything AND economic situation is fine THEN I would stop.
+>   
+>   P.S. 
+>   
+>   1. This doesnt mean that I want the ukranian culture to die-out.
+>   2. [I do wish bad cultures to die out](https://github.com/srghma/srghma.github.io/blob/main/psilocybin.md#preservation-of-cultures-or-languages), e.g. aztec cultures with religious sacrifices, but Ukranian culture is not bad. 
+>   3. I dont think this WOULD cause the ukranian culture to die-out. 
 
 
 4. China
 
-1. Uygurs - give them to vote "Do You want to create your own country?"
+  - Uygurs
+   
+>  - give them to vote "Do You want to create your own country?"
+>
+>   Maybe they will vote "yes", maybe "no". 
+>   - Does it matter?
+>   - Arent reasons above convincing? (borders dont make sense from cosmological perspective, preventing tortures) 
+>   - I think it would be even better for chinese culture to leave only people that are united with some goal. 
+>   - Of course if these goals are:
+>     - lets be building the open-source technologies, lets share all our technologies with everyone, because they share everything with us
+>     - lets make all humans be greatful to us, because we were first to unite, we were first to create **DEVISE THAT MAKES FOOD FROM AIR**
+>     - yes, we are united by race and history, but we are not racists, we accept everyone
+>     - in the end we want to liberate people from the work. Leave nothing to do, except of study this universe and help each other <sub>(just like in [Masyana cartoon](https://m.youtube.com/watch?v=uoU6kE9oSu4), until recipient will say "oh, god, I am so bored with you, you are helping me too much")</sub>
+>   - The goal should not be "lets force everyone to be under our rule" OR "lets rush with technologies and make AI self-conscious"
 
-> P.S. I think they will vote "yes"
+  - Tibet 
+  
+> - give them to vote "Do You want to return Tibet a status of separate contry?"
+>   I think they will vote "yes". Because, based on ["Seven Years in Tibet" film](https://en.wikipedia.org/wiki/Seven_Years_in_Tibet_(1997_film)), Tibet is not a China.
 
-2. Tibet - give them to vote "Do You want to return Tibet a status of separate contry?"
+  - Taiwan
 
-> P.S. I think they will vote "yes"
+> - give them to vote "Do You want to join China (also change the political structure from democracy to communism)"
+>   I asked a Taiwan guy: what probabilities you give for people in Taiwan to join China?
+>   He replied: 30% want Taiwan to stay as it is, 20% want it to join China, 50% have not decided. But many actors and singers (people whose profession is not thinking) are pro-chinese, because of money and commerce
+> 
+>   **IF** I (srghma) would live in Taiwan **THEN** I would not join **BECAUSE** I like the internet to be free.
 
-4. 
-I know, you are not bad people, you just fear that you will lose territories. OK, yes, I think Tibet and Uygurs will vote for divide, yes, China will become smaller. But does really matter? Will it matter in a world without borders? In a world where we don't work anymore? In a world where all what have left to us is to help each other, until the recipient is fed up with help, just like in Masyana cartoon https://m.youtube.com/watch?v=uoU6kE9oSu4
 
 # What have happened in Tiananmen square
 
 One chinese guy have told me:
 
-> One bad chinese guy (TODO: what is his name?) was inducing young chinese students to make a revolution, so that [Japan, America, Russia and other countries (all countries were there, even Spain and ukranian cossacks)](https://en.wikipedia.org/wiki/Battle_of_Peking_(1900)) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed
+> One bad chinese guy (TODO: what is his name?) was persuading young chinese students to make a revolution, so that [Japan, America, Russia and other countries (all countries were there, even Spain and ukranian cossacks)](https://en.wikipedia.org/wiki/Battle_of_Peking_(1900)) could enter the China, and cause the destruction, as they once have already done. So, yes, some students have died, but it was needed
 
 My reply (right now):
 
 > Maybe this is true. Depends on "Would other countries attack?"
 >
-> I, personally, wouldnt kill students. I dont like all this "GULAG / dictator" shit. 
+> I, personally, wouldnt kill students. I dont like all these post-USSR dictatorships, GULAGs, lot of laws <sub>(by the way, Arestovich said "I want to leave only the most basic laws")</sub>, army as religion. 
 > 
 > I would allow other countries to attack. This would be their perdition. I am sure they would lose. These attacker-countires would be remembered in the history as shitty countries.
 > 
 > Example: 
 > 1. russia. Did Ukraine attack russia? No, Ukraine have waited. Its russia attacked us under the pretext of "they would attack us first". This shit is not supported by their own people.
-> 2. usa attack on Vietnam
+> 2. USA attack on Vietnam. I dont like USA because of this.
 
-<img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="100px">
 
-<img alt="ukraine" src="https://github.com/srghma/srghma.github.io/assets/7573215/36ba4913-0459-4328-b1cd-03748fdf968e" width="100px">
