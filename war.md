@@ -248,7 +248,15 @@ BUT
  2. Even if they will choose Russia - I don't care, I'm a citizen of world first, then - Ukraine
 </pre></details></blockquote>
 
-> "People in Donetsk are killed by Ukrainian military"
+<blockquote><details><summary>"People in Donetsk are killed by Ukrainian military"</summary><pre translate=yes>
+
+1. yes, bombed, but who started? who opened the gates of war?
+2. russians faked news https://www.youtube.com/watch?v=M8Z7GGZpkAs
+
+
+ 
+</pre></details></blockquote>
+
 
 > "atrocities are done by ukrainian military, because our RUSSIAN soldiers dont use helmets from 2d world war"
 
