@@ -25,3 +25,22 @@ So, answer on question *"who have given the policemen an order to attack people?
 
 
 P.S. Poroshenko is an agent of moskow too, check [Bigus info](https://www.youtube.com/watch?v=VZJG_RKktBQ) , he was sending ukranian money to russian soldiers in DNR (donetsk people's republic)
+
+----------
+
+# Preservation of cultures or languages
+
+Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays on "killing people and ripping their hearts out".
+
+I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ukraine I am fighting because noone wants to live in russian dicratorship)
+
+"The difference between dialects and languages is only in a presence of army"
+  
+
+I don't care about Ukrainian culture or Russian culture, the main question is who started the war.
+
+We should not use "culture problem" in the arguments, it's too subjective, some people want to preserve it, others don't. 
+  
+But the "amount of happiness in 1 square meter / amount of optimizations" can be measured, this is more scientific argument.
+  
+
