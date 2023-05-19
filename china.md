@@ -20,22 +20,6 @@ ____
 <details><summary>3. The arrow inside of a woman</summary><img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="300px"></details>
 <details><summary>4. The baby on the spear</summary><img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="300px"></details>
 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
 </td><td>
 
 Your Japan back then it's now our Russia
@@ -87,7 +71,7 @@ History from "GULAG archipelago" by Solzhenitsin:
   
 He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks/middle class people / people with private property / people with business / people with arable fields" 
 
-From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) (80% of books are written by 20% of authors, 80% of money have 20% of people):
+From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) <sub>(80% of books are written by 20% of authors, 80% of money have 20% of people)</sub>:
 - But "kulaks" **IS** these 20% of people that create 80% of resources ⚠️ ⚠️ They know how to make bread ⚠️ ⚠️
 - By killing and enslaving "kulaks" he started the great hunger
 - Then he said "on god, hunger comes to Moskow, my own people will make a revolution and kill me. Ah, there are ukranians, these people are always a problem, always want the independence. I will lie to them, take their wheat harvest, and they will die"
