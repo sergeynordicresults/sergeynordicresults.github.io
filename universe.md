@@ -38,7 +38,12 @@ SUMMARY:
 
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
-Eliezer Yudkowsky "Growth stories": The "game of life" universe is Turing complete. It means self conscious beings can appear there too. Do you think the prayings of these 2D humans work? Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money? Do You think they have an afterlife after death?
+Eliezer Yudkowsky "Growth stories": 
+- The "game of life" universe is Turing complete. It means self conscious beings can appear there too.
+- Do you think the prayings of these 2D humans work?
+- Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money?
+- Do You think they have an afterlife after death?
+- Do You think they can reach the Budda enlightment? Budda was a lier, charlatan!
 
 
 
