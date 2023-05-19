@@ -28,7 +28,8 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 
   Just like old german woman were saying "No, this is all fake", when they saw a pile of skulls of dead jew people near the cremation furnaces 
   
-  1. Why, when I watch cctv news and You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
+  1. Why, when I watch cctv news - You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
+  1. Why, when I watch cctv news - I hear "well, You know how USA is using other countries" <sub>(implying Ukraine, as if Ukraine is fighting for money, not for survival)</sub>
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   
