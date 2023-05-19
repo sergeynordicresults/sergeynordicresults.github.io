@@ -50,10 +50,11 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 
 # Who were Stalin, Lenin and Mao
 
+  <sub>Nevzorov: history is like a meat on the counter, and historian is a salesman, and you can buy whatever version of history you like, just like a meat. Because history cannot be proved by experiments. Even if you have records - there is still some probability that they are fake.</sub>
+
 <table>
 <tr><td>
 
-  <sub>Nevzorov: history is like a meat on the counter, and historian is a salesman, and you can buy whatever version of history you like, just like a meat. Because history cannot be proved by experiments. Even if you have records - there is still some probability that they are fake.</sub>
     
 History from "GULAG archipelago" by Solzhenitsin:
 
@@ -119,6 +120,13 @@ But now Xi JinPing repeats putin
   
  <img alt="Boy-twerking" src="https://github.com/srghma/srghma.github.io/assets/7573215/c30840e1-19e9-4e69-bc6c-6a7896603e3f" width="400px">
 
+  Come on, guys:
+  1. on one hand - yes, doing trans-operations on people before 21 years (for example) is a crippling.
+  2. But after 21 year - who cares? You cannot sleep, knowing that two grown up man fuck each other in the ass? Because these two gay people CANNOT LIVE WITHOUT THEIR LOVE! They cannot import their creativity into society! (but You - can live with this knowledge)
+  3. Even if being non-binary is a mental ilness - its not like the pedofilia (mental illness, people that have it should want to be reprogrammed, I think)
+  
+  ______
+  
   Arestovich: all problems are because of "disciplinary societies":
   
   - "believing that people require control outside, because there are more evil inside of people, than good"
