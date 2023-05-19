@@ -1,6 +1,11 @@
-<sub>DISCLAIMER: watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
-  
+<sub>DISCLAIMER:</sub>
+
+<sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
+
 <sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) is sufficient to understand the nature of humans</sub>
+
+<sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
+
 ____
 
 <table>
@@ -48,10 +53,10 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   3. Why You want to start a war with Taiwan and America?
   4. Why China gives North Korea money to support this Kim Jong Un dictatorship and GULAGs? You dont belive people there are being tortured? Why not stop supporting kim-asshole, so that people of North Korea finally liberate themselves?
   
-  Chinese people say:
-  1. "If my country will start a war with Taiwan - ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
-  1. "Everything will change, when China will take over the world, noone will say ['I want to feed chinese babies to aligators'](https://worldstarhiphop.com/videos/wshhaEUJeT3M8808M0wi/horrible-charleston-white-says-chinese-women-and-babies-deserved-to-be-rped-and-used-as-alligator-bait)" <sub>(I feel Your pain, my friend, Im with You, Im angry with him too, this is just for the fullness of information)</sub>
-  1. "Ukranians should just surrender" (yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy)
+  Chinese people (my frientds) say to me:
+  1. "If my country will start a war with Taiwan - its ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
+  1. "Everything will change, when China will take over the world, noone will say ['I want to feed chinese babies to aligators'](https://worldstarhiphop.com/videos/wshhaEUJeT3M8808M0wi/horrible-charleston-white-says-chinese-women-and-babies-deserved-to-be-rped-and-used-as-alligator-bait)" <sub>(I feel Your pain, my friend, Im with You, Im angry with this american guy too, this is just for the fullness of information)</sub>
+  1. "Ukranians should just surrender" (yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy?)
   2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"
   1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but through the video calls?)</sub>
   
@@ -154,9 +159,11 @@ But now Xi JinPing repeats putin
   > 2. then "cheap labor force" becomes "expensive" (China becomes world-leader-2) 
   > 3. now country (China) have to export it's buisness to other country too (e.g. some Africa country), this new country becomes "world-leader-3"
   
-  I fear when this will happen, Xi, to preserve his position, will play the same card as putin: "Ah, its not my fault, I was doing everything without mistakes, I was the most optimal version of a leader, its all fault of chinese-people-haters, lets kill them"
+  I fear when this will happen, Xi, to preserve his position, will play the same card as putin:
   
-  ...</td></tr>
+  > Ah, its not my fault, I was doing everything without mistakes (closed internet is such a 'great' thing), I was the most optimal version of a president, its all fault of chinese-people-haters, lets kill them"
+
+  </td></tr>
   
  <tr><td>Putin kills people
    
