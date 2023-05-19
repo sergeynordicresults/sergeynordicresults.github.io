@@ -14,7 +14,6 @@ Film gives a feeling that putin and yanukovich are good guys.
 
 And makes easy to believe that war in Ukraine 2022 was created by America https://twitter.com/srghma/status/1641343143575445506?s=20
 
-----
 
 # But they don't tell about
 
@@ -28,7 +27,6 @@ So, answer on question *"who have given the policemen an order to attack people?
 
 P.S. Poroshenko is an agent of moskow too, check [Bigus info](https://www.youtube.com/watch?v=VZJG_RKktBQ) , he was sending ukranian money to russian soldiers in DNR (donetsk people's republic)
 
-----------
 
 # Preservation of cultures or languages
 
