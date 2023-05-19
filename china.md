@@ -1,7 +1,14 @@
 
 <table>
 <tr><td>
+  
+  
+<sub>NOTE: watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
+  
+<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) is sufficient to understand the nature of humans</sub>
 
+  _____
+  
 [Nanjing rape](https://en.wikipedia.org/wiki/Nanjing_Massacre):
   
 <details><summary>1. Surgical operations of <a href="https://en.wikipedia.org/wiki/Unit_731">unit 731</a> on living people (film <a href="https://en.wikipedia.org/wiki/Men_Behind_the_Sun">"Men Behind the Sun"</a>)</summary><img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px"></details>
