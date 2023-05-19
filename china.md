@@ -83,7 +83,7 @@ This time is called [Holodomor](https://en.wikipedia.org/wiki/Holodomor). People
 Till this day, the bread is sacred for ukrainians. My grandmother Lyba was always telling me "don't leave bread crumbs, eat them, the bread is sacred"
   
   P.S.
-  1. Also, stalin was stealing a gold from people. Police was torturing people until they give gold, pulling their gold teeths
+  1. Also, stalin was stealing a gold from people. Police was torturing people until they tell where they hide the gold, pulling their gold teeths out of the mouth
   2. Maybe, [stalin raped 13 years old](https://twitter.com/HLKodo/status/1457366109238153218?lang=en)
   
 
