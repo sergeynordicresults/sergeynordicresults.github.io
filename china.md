@@ -56,9 +56,9 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   Chinese people (my frientds) say to me:
   1. "If my country will start a war with Taiwan - its ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
   1. "Everything will change, when China will take over the world, noone will say ['I want to feed chinese babies to aligators'](https://worldstarhiphop.com/videos/wshhaEUJeT3M8808M0wi/horrible-charleston-white-says-chinese-women-and-babies-deserved-to-be-rped-and-used-as-alligator-bait)" <sub>(I feel Your pain, my friend, Im with You, Im angry with this american guy too, this is just for the fullness of information)</sub>
-  1. "Ukranians should just surrender" (yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy?)
-  2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"
-  1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but through the video calls?)</sub>
+  1. "Ukranians should just surrender" <sub>(yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy?)</sub>
+  2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"  <sub>(our president in 2014 was a dictator)</sub>
+  1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but only through the video calls?)</sub>
   
 </td></tr>
 </table>
@@ -87,7 +87,7 @@ History from "GULAG archipelago" by Solzhenitsin:
   
 He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks/middle class people / people with private property / people with business / people with arable fields" 
 
-From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) :
+From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) (80% of books are written by 20% of authors, 80% of money have 20% of people):
 - But "kulaks" **IS** these 20% of people that create 80% of resources ⚠️ ⚠️ They know how to make bread ⚠️ ⚠️
 - By killing and enslaving "kulaks" he started the great hunger
 - Then he said "on god, hunger comes to Moskow, my own people will make a revolution and kill me. Ah, there are ukranians, these people are always a problem, always want the independence. I will lie to them, take their wheat harvest, and they will die"
