@@ -43,7 +43,7 @@ Eliezer Yudkowsky "Growth stories":
 - Do you think the prayings of these 2D humans work?
 - Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money?
 - Do You think they have an afterlife after death?
-- Do You think they can reach the Budda enlightment? Budda was a lier, charlatan!
+- Do You think they can reach the Buddha enlightment? Enlightment doesnt exist! Buddha was a lier, charlatan!
 
 
 
