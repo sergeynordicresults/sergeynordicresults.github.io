@@ -43,4 +43,4 @@ We should not use "culture problem" in the arguments, it's too subjective, some 
   
 But the "amount of happiness in 1 square meter / amount of optimizations" can be measured, this is more scientific argument.
   
-
+Ukranian language was dying, country is in charge for it's language. So: at home You can speak any language, default language to use at schools and with clients at shops - language of a country
