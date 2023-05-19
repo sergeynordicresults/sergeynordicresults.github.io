@@ -2,7 +2,7 @@ Thank you to all countries that helped Ukraine
 
 # Posts
 
-1. 🔴 About this universe 🔴 : [**English**](https://srghma.github.io/universe) (other languages: [Chinese](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp), [Spanish](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp), [Russian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp), [Ukranian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp))
+1. [**🔴 About this universe 🔴**](https://srghma.github.io/universe) (translate to other languages: [Chinese](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp), [Spanish](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp), [Russian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp), [Ukranian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp))
 
 2. [My marijuana 👎 and psylocybin 🤏 stories](https://srghma.github.io/psilocybin)
 
@@ -10,9 +10,7 @@ Thank you to all countries that helped Ukraine
 
 4. [Review on "Ukraine on fire" film](https://srghma.github.io/ukraine-on-fire)!
 
-<!--
 5. [China](https://srghma.github.io/china) (preventing future war with Taiwan and America) 
--->
 
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
 
