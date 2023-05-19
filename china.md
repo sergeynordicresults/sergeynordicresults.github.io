@@ -125,7 +125,9 @@ But now Xi JinPing repeats putin
   2. But after 21 year - who cares? You cannot sleep, knowing that two grown up man fuck each other in the ass? Because these two gay people CANNOT LIVE WITHOUT THEIR LOVE! They cannot import their creativity into society! (but You - can live with this knowledge)
   3. Even if being non-binary is a mental ilness - its not like the pedofilia (mental illness, people that have it should want to be reprogrammed, I think)
   
-  Gay people should have a right to marry (with all legal stuff), because "How they will grow up, without being able to impose additional constraints on each other? Constraints are also liberties"
+  Gay people should have a right to marry (with all legal stuff), because "How they will grow up, without being able to impose additional constraints on each other? Constraints are ground for growing new liberties"
+  
+  Gay people should have a right to adopt children. What do You fear? That they will spoil children? IF I was a gay THEN I dont think I would spoil a child. 
   
   ______
   
