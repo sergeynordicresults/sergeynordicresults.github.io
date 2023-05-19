@@ -10,7 +10,7 @@ _____
 [For Chinese i have made a dictionary of what image every hieroglyph means](https://srghma-chinese2.github.io)
 ______
 
-Walking gives you energy, don't learn in bed
+Walking gives you energy and activates brain (subconsciously assigns new words to locuses? Automatic Memory palace?) , don't learn in bed or stitting or staying, only moving
 
 E.g. When you wake up, don't lie in bed, go see the Sun first thing at the morning
 
