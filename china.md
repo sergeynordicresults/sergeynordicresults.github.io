@@ -2,9 +2,9 @@
 <table>
 <tr><td>
 
-Nanjing rape:
+[Nanjing rape](https://en.wikipedia.org/wiki/Nanjing_Massacre):
   
-<details><summary>1. Surgical operations of unit 731 on living people</summary><img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px"></details>
+<details><summary>1. Surgical operations of <a href="https://en.wikipedia.org/wiki/Unit_731">unit 731</a> on living people</summary><img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px"></details>
 <details><summary>2. Iced hands being put to the boiling water</summary><img alt="hands" src="https://github.com/srghma/srghma.github.io/assets/7573215/803a3acc-b8b9-4703-8315-4b50df5e46fd" width="300px"></details>
 <details><summary>3. The arrow inside of a woman</summary><img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="300px"></details>
 <details><summary>4. The baby on the spear</summary><img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="300px"></details>
