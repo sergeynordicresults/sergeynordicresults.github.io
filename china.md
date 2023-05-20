@@ -115,19 +115,19 @@ But now Xi JinPing repeats putin
   Putin tells that his country is chosen by Gods, to fight agains gay people , to preserve traditions
   
   
-  Actually, the war is because [one 12-years old boy was twerking on gay parad in Brasil](https://vk.com/wall-37652433_90022) and trans-people (russian people saying "we will not allow americans to do this with our children")
+  Yes, they want a war because [one 12-years old boy was twerking on gay parad in Brasil](https://vk.com/wall-37652433_90022) and trans-people (russian people saying "we will not allow americans to do this with our children")
   
   
  <img alt="Boy-twerking" src="https://github.com/srghma/srghma.github.io/assets/7573215/c30840e1-19e9-4e69-bc6c-6a7896603e3f" width="400px">
 
   Come on, guys:
   1. on one hand - yes, doing trans-operations on people before 21 years (for example) is a crippling.
-  2. But after 21 year - who cares? You cannot sleep, knowing that two grown up man fuck each other in the ass? Because these two gay people CANNOT LIVE WITHOUT THEIR LOVE! They cannot import their creativity into society! (but You - can live with this knowledge)
+  2. But after 21 year - who cares? You cannot sleep, knowing that two grown up man fuck each other in the ass? You can! You can live with this knowledge! But these two gay people CANNOT LIVE WITHOUT THEIR LOVE! They cannot import their creativity into society! They dont feel freedom. For You to allow this - is nothing, for these two guys - everything
   3. Even if being non-binary is a mental ilness - its not like the pedofilia (mental illness, people that have it should want to be reprogrammed, I think)
   
-  Gay people should have a right to marry (with all legal stuff), because "How they will grow up, without being able to impose additional constraints on each other? Constraints are ground for growing new liberties"
+  Gay people should have a right to marry (with all legal stuff), because "How they will grow up as people, without being able to impose additional constraints on each other? Constraints are also a ground for growing new liberties" (just like in functional programming - function that accepts everything, identify function, should not do anything with its argument)
   
-  Gay people should have a right to adopt children. What do You fear? That they will spoil children? IF I was a gay THEN I dont think I would spoil a child. 
+  Gay people should have a right to adopt children. What do You fear? That they will spoil children? IF I was a gay and I had money THEN I dont think I would spoil an adopted child.
   
   ______
   
