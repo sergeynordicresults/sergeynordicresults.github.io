@@ -30,6 +30,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   
   1. Why, when I watch cctv news - You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
   1. Why, when I watch cctv news - I hear "well, You know how USA is using other countries" <sub>(implying Ukraine, as if Ukraine is fighting for money, not for survival)</sub>
+  2. Propaganda against private property https://www.youtube.com/watch?v=qOo_MwH4-6U
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   
@@ -42,7 +43,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   1. "If my country will start a war with Taiwan - its ok. **I want to see taiwan people dead**, they are all spies of America, just want to steal our technology"
   1. "Everything will change, when China will take over the world, noone will say ['I want to feed chinese babies to aligators'](https://worldstarhiphop.com/videos/wshhaEUJeT3M8808M0wi/horrible-charleston-white-says-chinese-women-and-babies-deserved-to-be-rped-and-used-as-alligator-bait)" <sub>(I feel Your pain, my friend, Im with You, Im angry with this american guy too, this is just for the fullness of information)</sub>
   1. "Ukranians should just surrender" <sub>(yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy?)</sub>
-  2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"  <sub>(our president in 2014 was a dictator)</sub>
+  2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"  <sub>(right now China doesnt want to be with America, should America attack China? our president in 2014 was a dictator and agent of putin, they together were robbing ukranians, its not "america lured Ukrine to join NATO", its ukranian people, despite everything, want to be as far as possible from russian dictatorship)</sub>
   1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but only through the video calls?)</sub>
   
 </td></tr>
