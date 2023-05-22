@@ -2,9 +2,7 @@
 
 <sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
 
-<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and Philip Zimbardo "The psychology of evil" 
-
-https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil is important to understand the nature of humans</sub>
+<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and [Philip Zimbardo "The psychology of evil"](https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil) is important to understand the nature of humans (this is my contrargument to "oh, come on, noone is being tortured")</sub>
 
 <sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
 
@@ -291,7 +289,7 @@ create the Blockchain voting app to vote "TO WHICH COUNTRY THEY WANT TO BELONG T
   - Tibet 
   
 > - give them to vote "Do You want to return Tibet a status of separate contry?"
->   I think they will vote "yes". Because, based on ["Seven Years in Tibet" film](https://en.wikipedia.org/wiki/Seven_Years_in_Tibet_(1997_film)), Tibet is not a China.
+>   I think they will vote "yes". Because, based on ["Seven Years in Tibet" film](https://en.wikipedia.org/wiki/Seven_Years_in_Tibet_(1997_film)), native people of Tibet want their country to be separate (saying "Tibet is not a China" is bad, only native people can decide this).
 
   - Taiwan
 
