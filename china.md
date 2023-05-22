@@ -2,7 +2,7 @@
 
 <sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
 
-<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) is sufficient to understand the nature of humans</sub>
+<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) is important to understand the nature of humans</sub>
 
 <sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
 
