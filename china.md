@@ -2,9 +2,9 @@
 
 <sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
 
-<sub>2. Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and [Philip Zimbardo "The psychology of evil"](https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil) is important to understand the nature of humans (this is my contrargument to "oh, come on, noone is being tortured")</sub>
 
-<sub>3. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
+
+<sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
 
 ____
 
@@ -33,6 +33,8 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   2. Propaganda against private property https://www.youtube.com/watch?v=qOo_MwH4-6U
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
+  
+  <sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and [Philip Zimbardo "The psychology of evil"](https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil) is important to understand the nature of humans (this is my contrargument to "oh, come on, noone is being tortured")</sub>
   
   <img alt="map" src="https://github.com/srghma/srghma.github.io/assets/7573215/de1a6a3e-bf4d-4709-901a-2d803ed03f57" width="300px">
 
