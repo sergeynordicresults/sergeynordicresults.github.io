@@ -2,7 +2,9 @@
 
 <sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
 
-<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil is important to understand the nature of humans</sub>
+<sub>Knowing about ["Milgram experiment"](https://en.wikipedia.org/wiki/Milgram_experiment) and Philip Zimbardo "The psychology of evil" 
+
+https://www.ted.com/talks/philip_zimbardo_the_psychology_of_evil is important to understand the nature of humans</sub>
 
 <sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
 
