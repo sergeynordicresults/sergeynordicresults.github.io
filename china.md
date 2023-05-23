@@ -30,7 +30,9 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   
   1. Why, when I watch cctv news - You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
   1. Why, when I watch cctv news - I hear "well, You know how USA is using other countries" <sub>(implying Ukraine, as if Ukraine is fighting for money, not for survival)</sub>
-  2. Propaganda against private property https://www.youtube.com/watch?v=qOo_MwH4-6U
+  2. "Ukranians dont want to fight on a war". And story ends with propaganda against private property https://www.youtube.com/watch?v=qOo_MwH4-6U
+  
+  My father told me: poroshenco (president before Zelensky, was stealing ukranian money, was sending ukranian money to rissian occupants in Donetsk, somehow still not in jail) nationalized the PrivatBank, made it a property of government (expropriated without paying, took it from Kolomoysky, to make it his own), and privatbank started to become worse and worse. Of course it will be, because there is noone in charge. Then, Kolomoysky have won the international court, and now ukranian government have to pay him for illegal expropriation. Naval: individuals can admit that they are wrong, groups cannot. Government property is a cesspool, where bad organisms are developed.
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   
@@ -49,7 +51,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but only through the video calls?)
  
 </sub>
-  2. "if there would be only one political party in America - there would be no shootings"
+  2. "if there would be only one political party in America - there would be no mass shootings" <sub>(but maybe there are mass shootings, because guns are easily accessible? Actually, I really dont know how easy to buy a gun in America compared to Ukraine for example. I am mentioning it here, just to think about this problem in future. One professor told this: "in poor countries , eg Africa, the death sentence reduces number of kills, because bad people dont fear anything otherwise". But in developed countries it in contrary increases, because having death sentence legalized in country sends the wrong message to citizens? breaks fabric of reality? in northern countries prisons are more like hostels, not carcels, even people who have killed before, are allowed to go wherever they want, government teaches them, and this really helps. Also possible to apply neurofeedback and psychodelics. Maybe its the same with guns: for poor countries its good, for developed - bad.)</sub>
   
 </td></tr>
 </table>
