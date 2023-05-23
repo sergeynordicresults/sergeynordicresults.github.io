@@ -46,7 +46,10 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   1. "Everything will change, when China will take over the world, noone will say ['I want to feed chinese babies to aligators'](https://worldstarhiphop.com/videos/wshhaEUJeT3M8808M0wi/horrible-charleston-white-says-chinese-women-and-babies-deserved-to-be-rped-and-used-as-alligator-bait)" <sub>(I feel Your pain, my friend, Im with You, Im angry with this american guy too, this is just for the fullness of information)</sub>
   1. "Ukranians should just surrender" <sub>(yes, while russians torture us. If russians would kill president of Ukraine and would win this war - would You be happy?)</sub>
   2. "This was is a fault of ukranians, nothing would happen if You didnt want to be closer to Europe"  <sub>(right now China doesnt want to be with America, should America attack China? our president in 2014 was a dictator and agent of putin, they together were robbing ukranians, its not "america lured Ukraine to join NATO", its ukranian people, despite everything, want to be as far as possible from russian dictatorship)</sub>
-  1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but only through the video calls?)</sub>
+  1. "We are with ukraine, but You know, this war is a fault of America" <sub>(yes, of course, ["america played with a russian bear"](https://t.me/nevzorovtv/8137)? or maybe its all because of covid - putin and president of usa were not speaking in real life, but only through the video calls?)
+ 
+</sub>
+  2. "if there would be only one political party in America - there would be no shootings"
   
 </td></tr>
 </table>
