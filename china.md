@@ -4,7 +4,7 @@
 
 
 
-<sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
+<sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true.</sub>
 
 <sub>3. Its not separatism. How can proposal "lets solve problems by votings, not by wars" be separatistic? Just a peek to a more optimised universe. Yes, maybe a universe with a bigger number of small countries, maybe a universe where Donetsk decided to be part of Russia, Tibet is not part of China, Barcelona is not part of Spain, but this is a desire of people, its for good, what can you do if "this is a desire of people"? Also it will incentivize countries to look for problems inside, become even stronger, if they find out that some people dont want to be a part of that country</sub>
 ____
