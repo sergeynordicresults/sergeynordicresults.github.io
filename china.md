@@ -6,6 +6,7 @@
 
 <sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true</sub>
 
+<sub>3. Its not separatism. How can proposal "lets solve problems by votings, not by wars" be separatistic? Just a peek to a more optimised universe. Yes, maybe a universe with a bigger number of small countries, maybe a universe where Donetsk decided to be part of Russia, Tibet is not part of China, Barcelona is not part of Spain, but this is a desire of people, its for good, what can you do if "this is a desire of people"? Also it will incentivize countries to look for problems inside, become even stronger, if they find out that some people dont want to be a part of that country</sub>
 ____
 
 <table>
@@ -32,7 +33,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
   1. Why, when I watch cctv news - I hear "well, You know how USA is using other countries" <sub>(implying Ukraine, as if Ukraine is fighting for money, not for survival)</sub>
   2. "Ukranians dont want to fight on a war". And story ends with propaganda against private property https://www.youtube.com/watch?v=qOo_MwH4-6U
   
-  My father told me: poroshenco (president before Zelensky, was stealing ukranian money, was sending ukranian money to rissian occupants in Donetsk, somehow still not in jail) nationalized the PrivatBank, made it a property of government (expropriated without paying, took it from Kolomoysky, to make it his own), and privatbank started to become worse and worse. Of course it will be, because there is noone in charge. Then, Kolomoysky have won the international court, and now ukranian government have to pay him for illegal expropriation. Naval: individuals can admit that they are wrong, groups cannot. Government property is a cesspool, where bad organisms are developed.
+  <sub>My father told me: poroshenco (president before Zelensky, was stealing ukranian money, was sending ukranian money to rissian occupants in Donetsk, somehow still not in jail) nationalized the PrivatBank, made it a property of government (expropriated without paying, took it from Kolomoysky, to make it later his own property or steal money I think), and privatbank started to become worse and worse. Of course it will be, because there is noone in charge. Then, Kolomoysky have won the international court, and now ukranian government have to pay him for illegal expropriation. Naval: individuals can admit that they are wrong, groups cannot. Government property is a cesspool where bad organisms are developed.</sub>
   2. Why you dont show what is happening in Ukraine [1](https://t.me/nevzorovtv/8577), [2 (first days of war. there were soldiers in homes? really?)](https://www.facebook.com/hope4ukraine/videos/this-is-never-seen-before-video-pov-from-russian-tank-in-mariupol-shooting-at-re/727612701949066/)
   2. Why You torture [uyghurs](https://youtu.be/PjzvVbfPze0?t=700) and tibetian people? ([tortures](https://www.bbc.com/russian/features-53671502), [special passports based on race](https://youtu.be/s5osMrbfnbc?t=623), [closed](https://www.travelchinacheaper.com/wp-content/uploads/China-Map-Travel-Restrictions.jpg) [territories](https://www.travelchinacheaper.com/which-parts-of-china-require-a-permit-to-travel) to prevent knowledge spreading to kill native people and then recolonize territories?)
   
