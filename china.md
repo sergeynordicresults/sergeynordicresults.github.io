@@ -168,6 +168,9 @@ But now Xi JinPing repeats putin
   I fear when this will happen, Xi, to preserve his position, will play the same card as putin:
   
   > Ah, its not my fault, I was doing everything without mistakes (closed internet is such a 'great' thing), I was the most optimal version of a president, its all fault of chinese-people-haters, lets kill them"
+  
+  ![Super-Power-Status-1024x528](https://github.com/srghma/srghma.github.io/assets/7573215/381ebd04-2631-4c19-8a4e-63c2d1875efd)
+
 
   </td></tr>
   
