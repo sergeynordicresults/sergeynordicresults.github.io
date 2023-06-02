@@ -23,7 +23,7 @@ SUMMARY: god is an "extra variable" to a "function" that works fine without this
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip turning robot". Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air?)</sup>
+3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip turning robot". Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" eat "newly created robots"?)</sup>
 4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>
 
 THIS IS NOT similar to "from nothing a plane was created", because:
@@ -32,7 +32,7 @@ THIS IS NOT similar to "from nothing a plane was created", because:
 
 SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
-2. Just like in a "Game of life" automata: you generate random field, give rules, and self-replicating structures appear
+2. Just like in a "Game of Life" automata: you generate random field, give rules, and self-replicating structures appear
 3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
 
 
@@ -41,11 +41,12 @@ SUMMARY:
 <img src="https://user-images.githubusercontent.com/7573215/234642024-21383504-f47e-44c1-b8b8-5d8c9ed15684.jpg" width="200" alt="rules"/>
 
 Eliezer Yudkowsky "Growth stories": 
-- The "game of life" universe is Turing complete. It means self conscious beings can appear there too.
+- The "Game of Life" universe is Turing complete. It means self conscious beings can appear there too.
 - Do you think the prayings of these 2D humans work?
 - Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money?
 - Do You think they have an afterlife after death?
-- Do You think they can reach the Buddha enlightment? Enlightment doesnt exist! Buddha was a lier, charlatan!
+- Do You think they can reach the Buddha enlightment? Enlightment doesnt exist! Buddha was a liar, charlatan!
+- If 2D father wants to explain something to a 2D child, but 2D child doesnt understand - Do You think being angry will help for understanding? Or maybe the prompt/input should be modified (just like we modify prompt for AI bots. There is no point for being angry at computer.)
 
 
 
@@ -340,6 +341,8 @@ Outcome:
 > "Artificial Intelligence: A Modern Approach" book: we want to create AI. how smart, in principle, can it be? can we create it, so it is able to predict everything that is happening in universe? even such small probability events like "a safety-deposit box being accidentally thrown down on AI agent from a plane" to prevent his death? no, we cannot "create it, so it is able to predict everything that is happening in universe". And humans are limited like this AI too. (rational, but not omnipotent?)
 
 > Eliezer Yudkowsky: There exists an upper threshold on how smart a being can be. The brain cannot be infinitely dense and big, because after some threshold it will convert itself to a black hole.
+
+> [Richard Dawkins: There once existed a single individual female who was the most recent ancestor shared by you and a baboon. That one individual female had two individual children, one of whom is your ancestor, the other is the baboon’s ancestor](https://richarddawkins.substack.com/p/science-is-the-poetry-of-reality).
 
 --------
 
