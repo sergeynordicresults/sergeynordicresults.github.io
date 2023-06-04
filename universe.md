@@ -12,9 +12,9 @@ I am an atheist by this definition.
 
 We cannot prove that god doesn't exist, BUT
 
-1. We can prove that souls don't exist (about this - below 👇¹).
+1. We can prove that souls don't exist (about this - below 👇¹). <sub>ok, I refuted only "souls are immutable", but not "souls are something that leaves after death" (this is refutable by "Occam razor")</sub>
 2. We know HOW life was "created"
-3. We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - "We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."
+3. We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - <sub>"We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."</sub>
 
 SUMMARY: god is an "extra variable" to a "function" that works fine without this "extra variable". (about this - below 👇²)
 
@@ -46,7 +46,7 @@ Eliezer Yudkowsky "Growth stories":
 - Do you think there is a god that will kill the bad 2D Chinghiz Khan that tortures 2D people and still has lot of money?
 - Do You think they have an afterlife after death?
 - Do You think they can reach the Buddha enlightment? Enlightment doesnt exist! Buddha was a liar, charlatan!
-- If 2D father wants to explain something to a 2D child, but 2D child doesnt understand - Do You think being angry will help for understanding? Or maybe the prompt/input should be modified (just like we modify prompt for AI bots. There is no point for being angry at computer.)
+- If 2D father wants to explain something to a 2D child, but 2D child doesnt understand - Do You think being angry will help for understanding? Or maybe this is a problem of prompt/input, that should be modified (just like we modify prompt for AI bots. There is no point for being angry at computer.)
 
 
 
@@ -57,13 +57,13 @@ Eliezer Yudkowsky "Growth stories":
 
 <sub>All religions were created by humans, and contain not only immutable truth, but also stupid thoughts inspired by old times</sub>
 
-<sub>So, yes, i behave as if living beings, me too, are machines. But it doesn't make me want to kill people. Even putin and ted bundy. There exist harder, but more optimal solutions:</sub>
+<sub>So, yes, I behave as if living beings, me too, are machines. But it doesn't make me want to kill people. Even putin and ted bundy. There exist harder, but more optimal solutions:</sub>
 
 <sub>    1. neurofeedback</sub>
 
-<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense, e.g. borders, racism) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/), this book has lot of love to humanity</sub>
+<sub>    2. fix their stupidity by teaching them what will (probably) happen with our universe (below. because from cosmological perspective lot of our problems dont make sense, e.g. borders, racism) and giving them to read ["Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/), (this book has lot of love to humanity)</sub>
 
-<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing on hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because [money and wealth are infinite, by helping you I help us all](https://youtu.be/1-TZqOsVCNM)
+<sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing on hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because ["money and wealth are infinite", "by helping you I help us all"](https://youtu.be/1-TZqOsVCNM)
 </sub>
 
 
