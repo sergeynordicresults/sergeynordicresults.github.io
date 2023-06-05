@@ -51,7 +51,7 @@ SUMMARY: god is an "extra variable" to a "function" that works fine without this
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip turning robot". Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" eat "newly created robots"?)</sup>
+3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip turning robot". Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" (e.g. viruses, or bacterias, robots with a shell) eat "newly created robots" (without a shell, unstable)?)</sup>
 4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>
 
 THIS IS NOT similar to "from nothing a plane was created", because:
@@ -334,6 +334,8 @@ THUS
 3. atoms are cold (e.g. 0 kelvin, no movement) - only one position of atoms could give such picture
 
 </pre>
+
+![universes](https://imageio.forbes.com/blogs-images/startswithabang/files/2020/05/0414img12.jpg?format=jpg&width=960)
 
 <pre translate=yes>
 https://youtube.com/watch?v=_eC14GonZnU
