@@ -8,6 +8,8 @@ From "God as illusion" by Richard Dawkins:
 
 > "The atheist is the one that gives 99% probability that god doesn't exist". 
 
+<sub>Because its not possible to prove this 100%. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). Because our universe allows for people to create the "alternative explanations that refute something" all the time for anything. For example: A "earth is flat", B "go to cosmos" , A "ok, I am in cosmos, earth is round, but it doesnt prove that earth is not flat, its just the image", B "ok, try to go round the earth and see how it changes", A "i go round, the image is being changed as if earth is a ball, but it still does not prove that earth is not flat, it is just an illusion, someone changes the image for me when i rotate over the earth" .... an so on indefinitely</sub>
+
 I am an atheist by this definition.
 
 We cannot prove that god doesn't exist, BUT
