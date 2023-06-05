@@ -12,20 +12,35 @@ From "God as illusion" by Richard Dawkins:
 
 
     
-1. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). Because our universe allows for people to create the "alternative supernatural explanations that refute something" all the time for anything. For example: A "earth is flat", B "go to cosmos" , A "ok, I am in cosmos, earth is round, but it doesnt prove that earth is not flat, its just the image", B "ok, try to go round the earth and see how it changes", A "i go round, the image is being changed as if earth is a ball, but it still does not prove that earth is not flat, it is just an illusion, someone changes the image for me when i rotate over the earth" .... an so on indefinitely
+1. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). 
+    
+Because our universe allows for people to create the "alternative supernatural explanations that refute something" for anything. 
+    
+For example: 
+  - A "earth is flat"
+  - B "go to cosmos" 
+  - A "ok, I am in cosmos, I see circle 🟢, but it doesnt prove that earth is 3d sphere, maybe its flat circle"
+  - B "try to go round the earth and see how it changes"
+  - A "i go round, the image is being changed AS IF earth is a sphere. But it still does not prove that earth is not flat, maybe it is an illusion, maybe someone changes the image for me when i rotate over the earth" 
+  - .... an so on indefinitely
 
+ 2. Neil deGrass Tyson "Bear in the cave"
+    
+    This is how science works - we will never be sure that universe is made from atoms, and not candies
+
+<sub>You and a friend are hiking deep into the woods and find a cave. You want to go in and explore the cave, but your friend thinks there could be a bear inside. Given what you already know about the area – such as the lack of nearby water and food a bear would need to survive, a lack of visible tracks or trampled vegetation, and information from nearby park rangers about bear locations – you consider the danger to be near zero. Your friend is not convinced and says there’s no way to prove there are no bears without going in. So, you take out a solar panel to power your cell phone and stream video of the cave’s entrance to your home computer for later review. For the rest of the week you review the footage and see no bears. You show the evidence to your friend, but they are still not convinced… maybe the bear is hibernating, or maybe the cave is part of a larger cave system and bears don’t have to use the entrance you found. You admit that is possible and proceed to research bear hibernation and get maps of the known cave systems in the woods. You find detailed drawings of the caves and they are well documented. No other pathways connect to that cave. By now you have weeks of video footage with not a single bear. You continue to review footage over the span of an entire year. At this point, you have proven the non-existence of a bear in the cave beyond reasonable doubt. However, your friend argues that without going into the cave yourself, you can never say for certain. The friend’s claim cannot be supported without the bear having supernatural abilities to never feed, never be seen, and never leaves tracks.</sub>
+    
 </details>
 
  </sub>
 
-Neil deGrass Tyson "Bear in the cave"
-You and a friend are hiking deep into the woods and find a cave. You want to go in and explore the cave, but your friend thinks there could be a bear inside. Given what you already know about the area – such as the lack of nearby water and food a bear would need to survive, a lack of visible tracks or trampled vegetation, and information from nearby park rangers about bear locations – you consider the danger to be near zero. Your friend is not convinced and says there’s no way to prove there are no bears without going in. So, you take out a solar panel to power your cell phone and stream video of the cave’s entrance to your home computer for later review. For the rest of the week you review the footage and see no bears. You show the evidence to your friend, but they are still not convinced… maybe the bear is hibernating, or maybe the cave is part of a larger cave system and bears don’t have to use the entrance you found. You admit that is possible and proceed to research bear hibernation and get maps of the known cave systems in the woods. You find detailed drawings of the caves and they are well documented. No other pathways connect to that cave. By now you have weeks of video footage with not a single bear. You continue to review footage over the span of an entire year. At this point, you have proven the non-existence of a bear in the cave beyond reasonable doubt. However, your friend argues that without going into the cave yourself, you can never say for certain. The friend’s claim cannot be supported without the bear having supernatural abilities to never feed, never be seen, and never leaves tracks.
+ 
 
 I am an atheist by this definition.
 
 We cannot prove that god doesn't exist, BUT
 
-1. We can prove that souls don't exist (about this - below 👇¹). <sub>ok, I refuted only "souls are immutable", but not "souls are something that leaves after death" (this is refutable by "Occam razor")</sub>
+1. We can prove that souls don't exist (about this - below 👇¹).
 2. We know HOW life was "created"
 3. We don't know why our universe was created, maybe it was created by God, but there is an "Anthropic principle"/"observation selection effect" - <sub>"We see that our universe have 'these properties', because only in a universe with 'these properties' could an observer, a human being, appear."</sub>
 
@@ -79,6 +94,7 @@ Eliezer Yudkowsky "Growth stories":
 <sub>    3. Tell them that zero-sum games are not the only possible games to play (e.g. the game of "climing on hierarchy ladder" is bad zero-sum game, "sport with only one winner" is good zero-sum game, "wealth/lets create new devises/lets fix death" is a good non-zero-sum game because ["money and wealth are infinite", "by helping you I help us all"](https://youtu.be/1-TZqOsVCNM)
 </sub>
 
+-------
 
 ## 👉¹ Why souls don't exist:
 
@@ -177,6 +193,28 @@ THUS (!!!!): IF you do "atom-per-atom cloning" (i.e. one does NOT destroy "origi
 
 NO, souls don't exist (!!!)
 
+
+
+#### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
+
+Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there are TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
+
+#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DO EXIST
+
+A guy was a good man, but then his head was injured (a brick fall on his head.) and he became angry, evil, started to kill. 
+
+SOUL?
+
+God dropped a brick on his head! God, you are an asshole! This man was good, just like you wanted, but now he has to go to hell. Dont blame it on devil, because you created this universe and devil and rules.
+
+
+
+
+## Summary - souls existence is very low probability 
+
+
+So, I refuted "souls are immutable" and "souls are indivisible", but not "soul is something that leaves after death" (this is refutable by "Occam razor")
+
 "Occam's razor" principle - from two explanations of same incident one should prefer the explanation that have less "moving parts"/variables.
 
 👉² Soul is an additional variable `c` to a function `f(a, b, c) { ...body of function, the code, but you dont know what it is... }` that works fine without additional variable `c` (with `a` and `b` variables only) - it means the variable `c` is not used in a body of a function!
@@ -188,35 +226,38 @@ NO, souls don't exist (!!!)
 By "works fine" I mean IT SEEMS LIKE function <code>f</code> doesn't use the variable <code>c</code>.
 
 <pre translate=yes>
+
 IF I change `a` argument         THEN `returned_value` will be changed
+
 IF I change `b` argument         THEN `returned_value` will be changed
+
 IF I change `c` argument         THEN `returned_value` will NOT be changed, the `c` makes no effect on `returned_value`
 
 IF I change `a` and `b` argument THEN `returned_value` will be changed
+
 IF I change `a` and `c` argument THEN `returned_value` is same as if I changed only `a`
+
 IF I change `b` and `c` argument THEN `returned_value` is same as if I changed only `b`
 
 IF I change `a` and `b` and `c` argument THEN `returned_value` is same as if I changed only `a` and `b`
 
 RESULT OF TEST: (IT SEEMS LIKE) function `f` doesn't use the variable `c`
+
 </pre>
 
 example function with such property in javascript:
 
 <pre>
+
 function f(a, b, c) {
+
     return a + b
+
 }
+
 </pre>
+
 </details>
-
-#### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
-
-Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there are TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
-
-#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DO EXIST
-
-A guy was a good man, then his head was injured and he became evil. SOUL?
 
 ## What will happen after death?
 
