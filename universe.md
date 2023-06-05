@@ -6,10 +6,17 @@
 
 From "God as illusion" by Richard Dawkins:
 
-> "The atheist is the one that gives 99% probability that god doesn't exist". 
+> "The atheist is the one that gives 99% probability that god doesn't exist". (Because its not possible to prove God exists or doesnt 100%)
+
+<details><summary>Details</summary>
 
 
-<sub>Because its not possible to prove this 100%. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). Because our universe allows for people to create the "alternative explanations that refute something" all the time for anything. For example: A "earth is flat", B "go to cosmos" , A "ok, I am in cosmos, earth is round, but it doesnt prove that earth is not flat, its just the image", B "ok, try to go round the earth and see how it changes", A "i go round, the image is being changed as if earth is a ball, but it still does not prove that earth is not flat, it is just an illusion, someone changes the image for me when i rotate over the earth" .... an so on indefinitely</sub>
+    
+1. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). Because our universe allows for people to create the "alternative supernatural explanations that refute something" all the time for anything. For example: A "earth is flat", B "go to cosmos" , A "ok, I am in cosmos, earth is round, but it doesnt prove that earth is not flat, its just the image", B "ok, try to go round the earth and see how it changes", A "i go round, the image is being changed as if earth is a ball, but it still does not prove that earth is not flat, it is just an illusion, someone changes the image for me when i rotate over the earth" .... an so on indefinitely
+
+</details>
+
+ </sub>
 
 Neil deGrass Tyson "Bear in the cave"
 You and a friend are hiking deep into the woods and find a cave. You want to go in and explore the cave, but your friend thinks there could be a bear inside. Given what you already know about the area – such as the lack of nearby water and food a bear would need to survive, a lack of visible tracks or trampled vegetation, and information from nearby park rangers about bear locations – you consider the danger to be near zero. Your friend is not convinced and says there’s no way to prove there are no bears without going in. So, you take out a solar panel to power your cell phone and stream video of the cave’s entrance to your home computer for later review. For the rest of the week you review the footage and see no bears. You show the evidence to your friend, but they are still not convinced… maybe the bear is hibernating, or maybe the cave is part of a larger cave system and bears don’t have to use the entrance you found. You admit that is possible and proceed to research bear hibernation and get maps of the known cave systems in the woods. You find detailed drawings of the caves and they are well documented. No other pathways connect to that cave. By now you have weeks of video footage with not a single bear. You continue to review footage over the span of an entire year. At this point, you have proven the non-existence of a bear in the cave beyond reasonable doubt. However, your friend argues that without going into the cave yourself, you can never say for certain. The friend’s claim cannot be supported without the bear having supernatural abilities to never feed, never be seen, and never leaves tracks.
