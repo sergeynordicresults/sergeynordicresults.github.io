@@ -77,11 +77,11 @@ History from "GULAG archipelago" by Solzhenitsin:
  
   > From "Gulag" book: `И хотя В.И.Ленин в конце 1917 года для установления "строго революционного порядка" требовал "беспощадно подавлять попытки анархии со стороны пьяниц, хулиганов, контр-революционеров и других лиц", Ленин, собр.соч.,5 изд., т.35, стр.68.`
 
-  So, he started killing them and making them slaves (forcing to work is not a slavery? how you will get a new Einstein when everyone are working?)
+  So, he started killing them and making them slaves (forcing to work is not a slavery? how you will get a new Einstein when everyone are working? you may respond "well, how you will for example electrify the country or do something else great without people being unite? these deaths were necessary". I will respond "no it's not, the great leaps in our quality of life are done more thanks to inventors and Einsteins, not the shit like Stalin, Xi Jin Ping, putin and others. you definitely can build new houses without killing people")
   
 2. Then, there was a Stalin 
   
-He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks/middle class people / people with private property / people with business / people with arable fields" 
+He continued this new tradition of making people a slaves and stealing their money, but also started a hunt for "kulaks / middle class people / people with private property / people with business / people with arable fields" 
 
 From ["Jordan Peterson - Pareto Distributions" video](https://www.youtube.com/watch?v=TcEWRykSgwE) <sub>(80% of books are written by 20% of authors, 80% of money have 20% of people)</sub>:
 - But "kulaks" **IS** these 20% of people that create 80% of resources ⚠️ ⚠️ They know how to make bread ⚠️ ⚠️
@@ -96,7 +96,9 @@ Till this day, the bread is sacred for ukrainians. My grandmother Lyba was alway
   
   P.S.
   1. Also, stalin was stealing a gold from people. Police was torturing people until they tell where they hide the gold, pulling their gold teeths out of the mouth
-  2. Maybe, [stalin raped 13 years old](https://twitter.com/HLKodo/status/1457366109238153218?lang=en)
+  2. Before his death he wanted to start 3d world war.
+  3. Before 2 world war he was friends with Hitler. Stalin = Hitler.
+  4. Maybe, [Stalin raped 13 years old girl](https://twitter.com/HLKodo/status/1457366109238153218?lang=en)
   
 
   
