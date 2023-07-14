@@ -1,3 +1,13 @@
+
+1. humans will create device that makes food out of air (2100)
+2. humans will defeat death using medicine (2050)
+
+Conclusion - it does not matter which country is the strongest, it only matters how soon we will have this device
+
+war slows progress + putin started the war first = putin - bastard, die
+
+_______
+
 <sub>DISCLAIMER:</sub>
 
 <sub>1. watching horror movies causes harm for a psyche and warps the fabric of reality</sub>
@@ -7,7 +17,10 @@
 <sub>2. I dont want to disgrace any people, I could be born in other country, but what is true - is true.</sub>
 
 <sub>3. Its not separatism. How can proposal "lets solve problems by votings, not by wars" be separatistic? Just a peek to a more optimised universe. Yes, maybe a universe with a bigger number of small countries, maybe a universe where Donetsk decided to be part of Russia, Tibet is not part of China, Barcelona is not part of Spain, but this is a desire of people, its for good, what can you do if "this is a desire of people"? Also it will incentivize countries to look for problems inside, become even stronger, if they find out that some people dont want to be a part of that country</sub>
+
 ____
+
+
 
 <table>
 <tr><td>
@@ -16,14 +29,32 @@ ____
 
 [Nanjing rape](https://en.wikipedia.org/wiki/Nanjing_Massacre):
   
-<details><summary>1. Surgical operations of <a href="https://en.wikipedia.org/wiki/Unit_731">unit 731</a> on living people (film <a href="https://en.wikipedia.org/wiki/Men_Behind_the_Sun">"Men Behind the Sun"</a>)</summary><img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px"></details>
-<details><summary>2. Iced hands being put to the boiling water</summary><img alt="hands" src="https://github.com/srghma/srghma.github.io/assets/7573215/803a3acc-b8b9-4703-8315-4b50df5e46fd" width="300px"></details>
-<details><summary>3. The arrow inside of a woman</summary><img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="300px"></details>
-<details><summary>4. The baby on the spear</summary><img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="300px"></details>
+1. Surgical operations of <a href="https://en.wikipedia.org/wiki/Unit_731">unit 731</a> on living people (film <a href="https://en.wikipedia.org/wiki/Men_Behind_the_Sun">"Men Behind the Sun"</a>)
+
+<img alt="operations" src="https://github.com/srghma/srghma.github.io/assets/7573215/9974f6ff-585b-40f7-83e8-47de1a125cbf" width="300px">
+
+3. Iced hands being put to the boiling water
+
+<img alt="hands" src="https://github.com/srghma/srghma.github.io/assets/7573215/803a3acc-b8b9-4703-8315-4b50df5e46fd" width="300px">
+
+4. The arrow inside of a woman
+<img alt="woman" src="https://github.com/srghma/srghma.github.io/assets/7573215/9a4ca81b-f292-4ea3-b40d-2719e767f2f7" width="300px">
+
+5. The baby on the spear
+
+<img alt="baby" src="https://github.com/srghma/srghma.github.io/assets/7573215/5974a1fd-3b19-4a3d-900c-6fbe22aed773" width="300px">
 
 </td><td>
 
 Your Japan back then it's now our Russia
+
+**CHINA HELPS RUSSIA = HELP JAPAN DURING NANJING RAPE**
+
+Russians have tortured my friend
+
+Putin will not stop, next are Estonia, Kazakhstan (check their [news](https://arbat.media/vaznoe-v-kazaxstane/kazaxstan-eto-iskusstvennoe-gosudarstvo-cto-eshhe-napisal-dmitrii-medvedev-v-udalennom-soobshhenii-3608) )
+
+
 
 Just like japanese people now saying and teaching in schools that Nanjing didn't happen [1](https://qr.ae/pyhdva) [2](https://www.reddit.com/r/JordanPeterson/comments/6fau39/comment/dkkr1ub/?context=3), Russians say that Bucha didn't happen [1](https://www.youtube.com/watch?v=3XNlSg9CUlc)
 
