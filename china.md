@@ -58,6 +58,10 @@ Putin will not stop, next are Estonia, Kazakhstan (check their [news](https://ar
 
 Just like japanese people now saying and teaching in schools that Nanjing didn't happen [1](https://qr.ae/pyhdva) [2](https://www.reddit.com/r/JordanPeterson/comments/6fau39/comment/dkkr1ub/?context=3), Russians say that Bucha didn't happen [1](https://www.youtube.com/watch?v=3XNlSg9CUlc)
 
+![Screenshot_20230715-163205_Kiwi Browser](https://github.com/srghma/srghma.github.io/assets/7573215/9ea74b47-275a-4a05-b46b-42d96d79e862)
+![Screenshot_20230715-163237_Kiwi Browser](https://github.com/srghma/srghma.github.io/assets/7573215/db479fef-3d71-4a6a-85fc-9130cd562fba)
+
+
   Just like old german woman were saying "No, this is all fake", when they saw a pile of skulls of dead jew people near the cremation furnaces 
   
   1. Why, when I watch cctv news - You show lavrov saying “This war which was launched against us…”, Why [You dont show the laugh?](https://www.youtube.com/watch?v=NGizGLceM-I)
