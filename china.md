@@ -132,7 +132,7 @@ Till this day, the bread is sacred for ukrainians. My grandmother Lyba was alway
   P.S.
   1. Also, stalin was stealing a gold from people. Police was torturing people until they tell where they hide the gold, pulling their gold teeths out of the mouth. (Gulag book)
   2. Before his death he wanted to start 3d world war, that why was killed or at least not given the medical help. (Jordan Peterson)
-  3. Before second world war he was friends with Hitler. Stalin = Hitler.
+  3. Before second world war he was friends with Hitler. Stalin = Hitler. They had parades together and wanted to rule the world https://en.m.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk
   4. Maybe, [Stalin raped 13 years old girl](https://twitter.com/HLKodo/status/1457366109238153218?lang=en)
   
 
