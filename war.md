@@ -105,7 +105,24 @@ https://www.youtube.com/watch?v=nxsRHJW0ors
 # !!!What to do with a war!!!
 
 For people inside of Russia:
-- [Solzhenitsyn - "The Gulag Archipelago" - WE SHOULD have killed police with an axe THEN Stalin's machine would stop](https://twitter.com/srghma/status/1498244965780045828) - get an axe
+- Solzhenitsyn - "The Gulag Archipelago" - "WE SHOULD have killed police with an axe THEN Stalin's machine would stop" - get an axe
+
+<pre translate=yes>
+
+Солженицын писал
+
+Если бы во времена массовых п о с а д о к, например в Ленинграде, когда сажали четверть города, люди бы не сидели по своим норкам, млея от ужаса при каждом хлопке парадной двери шагах на улице,- а поняли бы, что терять им уже дальше нечего, и в своих передних бодро бы делали засады по несколько человек с топорами, молотками, кочергами, с чем придется? Ведь заранее известно, что эти ночные картузы не с добрыми намерениями идут - так не ошибешься, хрястнув по душегубцу. Или тот воронок с одиноким шофером, оставшийся на улице - угнать его либо скаты проколоть.Органы быстро бы не досчитались сотрудников и подвижного состава, и несмотря на всю жажду Сталина остановилась бы проклятая машина! Если бы... Если бы... Не хватало нам свободолюбия.
+
+-----------
+
+... What would things have been like if every Security operative, when he went out at night to make an arrest, had been uncertain whether he would return alive and had to say good-bye to his family? Or if, during periods of mass arrests, as for example in Leningrad, when they arrested a quarter of the entire city, people had not simply sat there in their lairs, paling with terror at every bang of the downstairs door and at every step on the staircase, but had understood they had nothing left to lose and had boldly set up in the downstairs hall an ambush of half a dozen people with axes, hammers, pokers, or whatever else was at hand? After all, you knew ahead of time that those bluecaps were out at night for no good purpose. And you could be sure ahead of time that you'd be cracking the skull of a cutthroat. Or what about the Black Maria sitting out there on the street with one lonely chauffeur—what if it had been driven off or its tires spiked? The Organs would very quickly have suffered a shortage of officers and transport and, notwithstanding all of Stalin's thirst, the cursed machine would have ground to a halt!
+
+_____________
+
+
+
+</pre>
+
 - put recruiting stations on fire (`видео "Я не пойду убивать братьев": в России парень сжег военкомат, чтобы не ехать на войну в Украину`)
 - put politician properties on fire
 - kill with putin (he's a psychopath as Ted Bundy, maybe in future we will be able to cure him, but for now - ***you know what to do***)
