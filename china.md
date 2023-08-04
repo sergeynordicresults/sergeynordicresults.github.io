@@ -6,6 +6,13 @@ Conclusion - it does not matter which country is the strongest, it only matters 
 
 war slows progress + putin started the war first = putin - bastard, die
 
+Therefore: help putin == help japanese people during NanJing and unit 731 experiments on humans
+Therefore: Xi Jinping is an idiot
+
+I was in China: China has big houses and in Guangzhou all motorcycles are electric (the air is more clean than in Bangkok, therefore king of Thailand is idiot and dictator). But maybe China could be even better use the historical chance (all countries have moved their fabrics to China). Maybe Xi Jinping is bad planner. because "allow YouTube => you will have access to biggest ideas in the universe => better science"
+
+all films of china are about "we should be secretive and prepare for future war with usa, bc before we were not prepared and 8 countries have raped us => we want to restore pride (frase from one Chinese film about plane pilots)". Think about this: Europe was so developed bc Europe has rivers (information flow was faster), africa is underdeveloped bc africa didnt have rivers, maybe africa should too start a war with everyone to "restore pride"
+
 _______
 
 <sub>DISCLAIMER:</sub>
