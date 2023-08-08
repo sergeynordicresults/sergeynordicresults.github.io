@@ -4,14 +4,13 @@
 
 Conclusion - it does not matter which country is the strongest, it only matters how soon we will have this device
 
-war slows progress + putin started the war first = putin - bastard, die
+war slows progress + putin started the war first = putin is bastard
 
-Therefore: help putin == help japanese people during NanJing and unit 731 experiments on humans
-Therefore: Xi Jinping is an idiot
+China helps putin (trades with rissia while all other countries sanctioned russia to FORCE russian people to make a revolution) after Bucha massacre == help japanese killers after NanJing and 'Unit 731 experiments on humans'.
 
-I was in China: China has big houses and in Guangzhou all motorcycles are electric (the air is more clean than in Bangkok, therefore king of Thailand is idiot and dictator). But maybe China could be even better use the historical chance (all countries have moved their fabrics to China). Maybe Xi Jinping is bad planner. because "allow YouTube => you will have access to biggest ideas in the universe => better science"
+History is cyclical.
 
-all films of china are about "we should be secretive and prepare for future war with usa, bc before we were not prepared and 8 countries have raped us => we want to restore pride (frase from one Chinese film about plane pilots)". Think about this: Europe was so developed bc Europe has rivers (information flow was faster), africa is underdeveloped bc africa didnt have rivers, maybe africa should too start a war with everyone to "restore pride"
+Therefore: Xi Jinping is an idiot.
 
 _______
 
@@ -389,4 +388,12 @@ My reply (right now):
 > In Peru in 2023 lot of old people were shot dead by police, controlled by 12 drug lords, because they were on rally, because 12 drug lords are ruling Peru now, and they have put a president, which was chosen by the people, to the prison. Aren't these drug lords also a reason why they killing the Amazon forest to find the gold?
 
 
+# Update after I visited China
 
+Truth be said. I was in China and didnt find proofs that Chinese government is overtly insufficient (not counting closed internet, therefore worsened science, therefore stealing future) (therefore - corrupt). Maybe I would find proofs if I knew chinese language better. 
+
+Good stuff: China has big houses and in Guangzhou all motorcycles are electric (the air is more clean than in Bangkok, therefore king of Thailand is an idiot and dictator). 
+
+But maybe China could be even better use the historical chance (Ray Dalio, all countries have moved their fabrics to China). Maybe Xi Jinping is bad planner because "allow YouTube => you will have access to biggest ideas in the universe => better science"
+
+Bad stuff: some films of China are about "we should be secretive and prepare for future war with usa, bc before we were not prepared and 8 countries have raped us => we want to restore pride (frase from one Chinese film about plane pilots)". Think about this: Europe was so developed bc Europe has rivers (information flow was faster), africa is underdeveloped bc africa didnt have rivers, maybe africa should too start a war with everyone to "restore pride"
