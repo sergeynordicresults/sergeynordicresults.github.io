@@ -55,12 +55,14 @@ Thank you to all countries that helped Ukraine
 
 <table><tr><td>
 
+
 Арестович cказав (в одному відео) що йому пофіг якщо хтось викладе приватні відео в інтернет
 
 1. можливо, вони коштують так багато бо цей ризик вже вбудований в ціну
 2. менше грошей дістанеться виродкам з росії
 
 Завантажено з https://s1.sliwbl.com/, https://datafan.club/
+<hr>
 
 Я проголосую за Арестовича ("Я зроблю з України Сінгапур але із мінімальною кількістю законів") якщо Зеленський не буде брати участь в наступних президенських виборах (дати можливість закінчити "Держава в смартфоні"? може він нарешті посадить Порошенко до вязниці?)
 
@@ -77,12 +79,14 @@ Thank you to all countries that helped Ukraine
    
 </td><td>
 
+
 Arestovych said (in one video) that he doesn't care if someone posts private videos on the Internet
 
 1. maybe they cost so much because this risk is already built into the price
 2. less money will go to the bastards from Russia
 
 Downloaded from https://s1.sliwbl.com/, https://datafan.club/
+<hr>
 
 I will vote for Arestovych ("I will make Singapore out of Ukraine, but with a minimum number of laws") if Zelensky does not run in the next presidential election (to give him the opportunity to finish the "State in a Smartphone"? maybe he will finally put Poroshenko in jail?)
 
