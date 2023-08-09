@@ -53,18 +53,52 @@ Thank you to all countries that helped Ukraine
 
 1. public folder - Arestovich https://mega.nz/folder/tllCgZ4D#FQbEy_jjFOfOC-YrHhWE5Q (also the "Священная рана" of Arestovich is on rutracker.org)
 
-> Арестович казав що йому пофіг якщо хтось викладати, зате менше грошей дістанеться виродкам з росії
-> 
-> Завантажено з https://s1.sliwbl.com/, https://datafan.club/
-> 
-> Я проголосую за Арестовича ("Я зроблю з України Сінгапур але із мінімальною кількістю законів"), але Арестович у лекції "Священна рана" сказав: "Чому бог дозволяє дівчинці померти від раку? тому що дівчинка хоче страждань, щоб перейти на новий 'рівень розвитку людини' в наступному житті". Так можна аргументувати будь-яку підлість, сказати що 'вороги хотіли болю'. Не кажучи про те що Ціль життя - зменшення болю, розвиток науки, подолати смерть, з'єднати мізки усіх людей в одну живу істоту за допомоги neurolink як у книзі nexus, припинити вбивати тварин, робити їжу з повітря та ніколи не працювати, а просто насолоджуватись всесвітом (спорт, футбол, единоборства та прослуховування музики не приближують нас до цього)
->
-> Які зміни я хочу в Україні:
-> 1. голосування за лідера країни через мобільний додаток, голосування яке неможливо підробити, усі дані зберігаються у блокчейн.
-> 2. Condorcet голосування засноване на рейтингу.
-> 3. парламентська система замість президентської (лідера можна вибрати в будь-який час ЗАМІСТЬ 1 раз на 4 роки, книга "inadequate equilibria").
-> 4. безкоштовний нейрофідбек для всіх ув'язнених у в'язниці, щоб відновити їхній мозок. Тюрма повинна бути схожою на безкоштовний готель, як у Фінляндії. Безкоштовна роздача героїну як у Португалії, машина з лікарями та психологами їздить по місту та колить героїн бажаючим. Легалізація наркотиків?, але заборона продажу зброї (у нерозвинутих країнах легалізація зброї зменшує кількість правопорушень, у розвинутих - збільшує?)
-> 5. жителі міста можуть залишати пропозиції мерам міста і стежити за виконанням завдань через мобільний додаток схожий на trello.
+<blockquote><table><tr>
+
+Арестович cказав (в одному відео) що йому пофіг якщо хтось викладе приватні відео в інтернет
+
+1. можливо, вони коштують так багато бо цей ризик вже вбудований в ціну
+2. менше грошей дістанеться виродкам з росії
+
+Завантажено з https://s1.sliwbl.com/, https://datafan.club/
+
+Я проголосую за Арестовича ("Я зроблю з України Сінгапур але із мінімальною кількістю законів") якщо Зеленський не буде брати участь в наступних президенських виборах (дати можливість закінчити "Держава в смартфоні"? може він нарешті посадить Порошенко до вязниці?)
+
+Але, Арестович у лекції "Священна рана" сказав: "Чому бог дозволяє маленьким дівчинкам померати від раку? тому що дівчинка хоче страждань, щоб перейти на новий 'рівень розвитку людини' в наступному житті". Таким чином можна аргументувати будь-яку підлість, сказати що 'вороги хотіли болю'.
+
+Не кажучи про те, що Ціль життя - зменшення болю, розвиток науки, подолати смерть, з'єднати мізки усіх людей в одну живу істоту використовуючи технологію Neurolink (як у книзі Nexus), припинити вбивати тварин, робити їжу з повітря, ніколи не працювати, а просто насолоджуватись всесвітом (спорт, футбол, единоборства та прослуховування музики не приближують нас до цього)
+
+Які зміни я хочу в Україні:
+1. голосування за лідера країни через мобільний додаток, голосування, яке неможливо підробити, тому що усі дані зберігаються у блокчейн.
+2. Condorcet голосування засноване на рейтингу.
+3. парламентська система замість президентської (лідера можна вибрати в будь-який час ЗАМІСТЬ 1 раз на 4 роки; ідея з книги "inadequate equilibria").
+4. безкоштовний нейрофідбек для всіх ув'язнених, щоб відновити їхній мозок. Тюрма повинна бути схожою на безкоштовний готель, як у Фінляндії. Безкоштовна роздача героїну як у Португалії, машина з лікарями та психологами їздить по місту та колить героїн бажаючим. Легалізація наркотиків (?), але заборона продажу зброї (у нерозвинутих країнах легалізація зброї зменшує кількість правопорушень, у розвинутих - збільшує?)
+5. жителі міста можуть залишати пропозиції мерам міста і стежити за виконанням завдань через мобільний додаток схожий на trello.
+   
+</tr><tr>
+
+Arestovych said (in one video) that he doesn't care if someone posts private videos on the Internet
+
+1. maybe they cost so much because this risk is already built into the price
+2. less money will go to the bastards from Russia
+
+Downloaded from https://s1.sliwbl.com/, https://datafan.club/
+
+I will vote for Arestovych ("I will make Singapore out of Ukraine, but with a minimum number of laws") if Zelensky does not run in the next presidential election (to give him the opportunity to finish the "State in a Smartphone"? maybe he will finally put Poroshenko in jail?)
+
+But, Arestovych in his lecture "The Sacred Wound" said: "Why does God allow little girls to die of cancer? Because the girl wants to suffer in order to move to a new 'level of human development' in the next life." This way you can justify any meanness, say that 'enemies wanted pain'.
+
+Not to mention the fact that the purpose of life is to reduce pain, develop science, overcome death, connect the brains of all people into one living being using Neurolink technology (as in the book Nexus), stop killing animals, make food out of thin air, never work, and just enjoy the universe (sports, football, martial arts, and listening to music do not bring us closer to this).
+
+What changes do I want to see in Ukraine?
+1. voting for the leader of the country through a mobile application, voting that cannot be faked because all data is stored in the blockchain.
+2. Condorcet voting based on the rating.
+3. a parliamentary system instead of a presidential system (the leader can be elected at any time INSTEAD of once every 4 years; an idea from the book "inadequate equilibrium").
+4. free neurofeedback for all prisoners to restore their brains. Prison should be like a free hotel, like in Finland. Free distribution of heroin like in Portugal, a car with doctors and psychologists driving around the city and giving heroin to those who want it. Legalization of drugs (?), but a ban on the sale of weapons (in undeveloped countries, the legalization of weapons reduces the number of offenses, in developed countries - increases?)
+5. city residents can leave suggestions to city mayors and monitor the implementation of tasks through a mobile application similar to Trello.
+   
+</tr></table></blockquote>
+
 
 
 2. public folder - languages https://mega.nz/folder/Nh1TgKTB#d6oo1sTLSah-zwXcz-gCvg
