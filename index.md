@@ -53,7 +53,7 @@ Thank you to all countries that helped Ukraine
 
 1. public folder - Arestovich https://mega.nz/folder/tllCgZ4D#FQbEy_jjFOfOC-YrHhWE5Q (also the "Священная рана" of Arestovich is on rutracker.org)
 
-<blockquote><table><tr>
+<table><tr><td>
 
 Арестович cказав (в одному відео) що йому пофіг якщо хтось викладе приватні відео в інтернет
 
@@ -75,7 +75,7 @@ Thank you to all countries that helped Ukraine
 4. безкоштовний нейрофідбек для всіх ув'язнених, щоб відновити їхній мозок. Тюрма повинна бути схожою на безкоштовний готель, як у Фінляндії. Безкоштовна роздача героїну як у Португалії, машина з лікарями та психологами їздить по місту та колить героїн бажаючим. Легалізація наркотиків (?), але заборона продажу зброї (у нерозвинутих країнах легалізація зброї зменшує кількість правопорушень, у розвинутих - збільшує?)
 5. жителі міста можуть залишати пропозиції мерам міста і стежити за виконанням завдань через мобільний додаток схожий на trello.
    
-</tr><tr>
+</td><td>
 
 Arestovych said (in one video) that he doesn't care if someone posts private videos on the Internet
 
@@ -97,7 +97,7 @@ What changes do I want to see in Ukraine?
 4. free neurofeedback for all prisoners to restore their brains. Prison should be like a free hotel, like in Finland. Free distribution of heroin like in Portugal, a car with doctors and psychologists driving around the city and giving heroin to those who want it. Legalization of drugs (?), but a ban on the sale of weapons (in undeveloped countries, the legalization of weapons reduces the number of offenses, in developed countries - increases?)
 5. city residents can leave suggestions to city mayors and monitor the implementation of tasks through a mobile application similar to Trello.
    
-</tr></table></blockquote>
+</td></tr></table>
 
 
 
