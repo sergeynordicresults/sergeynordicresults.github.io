@@ -390,10 +390,65 @@ My reply (right now):
 
 # Update after I visited China
 
-Truth be said. I was in China and didnt find proofs that Chinese government is overtly insufficient (not counting closed internet, therefore worsened science, therefore stealing future) (therefore - corrupt). Maybe I would find proofs if I knew chinese language better. 
+Things I have seen in China, Guangzhou:
+1. all motorcicles are electric, cars are gasoline, but new (no black exhaust smoke from cars), air quality is better than in Bangkok
+2. lot of big houses
+3. crowds of (senior and young) people gather in parks every evening to fitness-dance (something that would be good to have in every country) - https://en.m.wikipedia.org/wiki/Square_dancing_(China)
+4. One russian guy: Chinese people respond to Europe and America "Why You dont like that we have a dictatorship now? You too had dictatorship at time of ecomonic growth"
+5. One chinese guy: I hate my government. They take half of salary. Lenin preached that "kill parents is fine", in past we were abandoning our parents. Sometimes, if someone has a heart attack and falls on ground - noone will even stop to help.
+6. Other chinese guy (artist) have shown me his very good anti-government text and said: Maybe China right now suffers even more than Ukraine. I dont like chinese goverment, because they dont allow us to speak freely about what happened in TianAnMen square. Also, I dont like that we have a God of Money and on holidays we congratulate each other literally saying "I wish You to have lot of money", instead of "I wish You health and happiness"
+7. Yuan has a picture of Mao, but he have killed more chinese people than anyone (it was not only earthquake, but also evil and stupid politics, check above)
+
+![download](https://github.com/srghma/srghma.github.io/assets/7573215/278bf56d-2899-4083-a997-67054a237a82)
+
+7. MOST INTERESTING! film "Born to fly" (2023) is a propaganda film
+
+![BdB3Db_4f](https://github.com/srghma/srghma.github.io/assets/7573215/f47bde22-624d-48a4-a8f6-bf8104ca8c8e)
+
+
+<blockquote>
+Plot:
+
+1. Main character has old plane, that why he was defeated my USA pilot that uses stealth plane (dont care about name of plane - they all are weapons of killing people)
+2. but at the end chinese people came up with better planes, now USA pilots are defeated
+
+Important parts:
+1. in movie USA pilots constantly envade China borders, tease "good" chinese pilots (which never happened in reality)
+
+More than that - USA pilots use lethal weapons against chinese pilots, but chinese pilots are "good" - they never kill even a fly
+(OF COURSE, "china have never attacked any country", YEEES, except of Tibet)
+
+2. Main chinese engineer that creates planes: my job is very hard, because we cannot cooperate with engeneers from USA, we should come up with everything OURSELVES
+
+3. Team leader: we should prepare for future war between China and America.
+
+4. Team leader: we should "restore our national pride". Before, 8 countries have attacked us, we were unprepared, I am sure they will attack again.
+
+Question from me: Europe was fast in technological development because Europe has lot of rivers - information flow was faster. Africa - no rivers. SHOULD Africa "restore its national pride" TOO???? Start a war against Europe and America?
+
+Summary:
+1. very similar to russian films (Брат) that porapagandize "we are the most civilized, we protect others, this is our territory, all others are enermies" but then occupy countries without asking native people using voting "do you want to be part of our country?"
+2. seems like "restoring national pride" is very important for Chinese people
+
+P.S. 
+1. people of Tibet dont want to be part of China, China is an occupant, robber
+2. Uyguyrs - dont want
+3. Taiwan - dont want (30% young people - dont want, 20% old people - want, 50% - dont care)
+4. Laos and Cambodia (one Thailand guy told that China want to take these countries to have more access to ocean) - dont want
+
+</blockquote>
+
+Thailand, Bangkok:
+1. All cars and motorcicles are gasoline, black exhaust smoke
+2. King puts people in prison, but has 40 "wifes"
+3. Credit cards work only in 7-11 shops, for travellers its not possible to buy food from locals, owner of 7-11 is an oligarch, I wonder if owner and king have agreement intentionally to steal money from ordinary people or king just doesnt care.
+
+Summary:
+
+I didnt find proofs that Chinese government is overtly insufficient, therefore - corrupt (not counting closed internet, therefore worsened science, therefore stealing future). Maybe I would find proofs if I knew chinese language better. 
 
 Good stuff: China has big houses and in Guangzhou all motorcycles are electric (the air is more clean than in Bangkok, therefore king of Thailand is an idiot and dictator). 
 
-But maybe China could be even better use the historical chance (Ray Dalio, all countries have moved their fabrics to China). Maybe Xi Jinping is bad planner because "allow YouTube => you will have access to biggest ideas in the universe => better science"
+But maybe China could be even better use the historical chance (Ray Dalio, all countries have moved their fabrics to China).
 
-Bad stuff: some films of China are about "we should be secretive and prepare for future war with usa, bc before we were not prepared and 8 countries have raped us => we want to restore pride (frase from one Chinese film about plane pilots)". Think about this: Europe was so developed bc Europe has rivers (information flow was faster), africa is underdeveloped bc africa didnt have rivers, maybe africa should too start a war with everyone to "restore pride"
+Maybe, Xi Jinping is bad planner because "allow YouTube => you will have access to biggest ideas in the universe => better science"
