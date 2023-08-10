@@ -15,7 +15,7 @@ Thank you to all countries that helped Ukraine
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
 
 
-![Why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/ef262f2a-08c6-4685-af02-c4d49ff28602)
+![Why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/3a199313-4288-40fc-9200-8cf54c927acc)
 
 ![ucraine - Page 5](https://user-images.githubusercontent.com/7573215/235322655-b7d788fe-83f6-4a1b-9f4a-6579b3a23966.jpg)
 
