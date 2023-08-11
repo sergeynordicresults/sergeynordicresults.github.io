@@ -65,7 +65,7 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 1. Сестра: Автобус, в котором она с ребенком пыталась перебраться в россию как беженец, по пути был расстрелян русскими. Все выжили.
 2. Мой друг в Херсоне: все гуманитарные конвои, которые Украина пыталась передать в оккупированный Херсон, были расстреляны или захвачены и съедены русскими. Вместо этого населению они раздают вонючие пропавшие каши и рассказывают как помогают наслению.
 3. Тетя: приехал русский мер с телевидением, покрасовался, мы спросили у него "а что делать с разрушенными домами", он сказал "берите кредит в русском банке" и уехал
-4. Иван 20 лет из Мариуполя, я разговаривал с ним когда мы были в одном лагере для беженцев в Мадриде: я был в Мариуполе, через час после войны друг прислал мне новость в телеграмме что началась война, я переслал эту новость своим друзьям. Потом город захватили русские, стали проверять мобильные телефоны, нашли эту новость (в которой не было ничего проукраинского), ударили меня прикладом в живот, допрашивали (не бандеровец ли я), посадили в яму "Что бы подумал"!!!! ЧТОБЫ ПОДУМАЛ!!! читатель, русские пидарасы настолько боятся что парень, обычный парень, пойдет воевать против них, что садят его в яму, высотой 3 метра и с решеткой, что бы он подумал!!!
+4. Иван 20 лет из Мариуполя, я разговаривал с ним когда мы были в одном лагере для беженцев в Мадриде: я был в Мариуполе, через час после войны друг прислал мне новость в телеграмме что началась война, я переслал эту новость своим друзьям. Потом город захватили русские, стали проверять мобильные телефоны, нашли эту новость (в которой не было ничего проукраинского), ударили меня прикладом в живот, допрашивали (не бандеровец ли я), посадили в яму "Что бы подумал"!!!! ЧТОБЫ ПОДУМАЛ!!! читатель, русские пидарасы настолько боятся что парень, обычный парень, пойдет воевать против них, садят его в яму, высотой 3 метра и с решеткой, что бы он подумал!!!
 5. Муж и жена, 50 лет, из Бучи: они рассердились и сказали просто "я не хочу вспоминать всего того что творили русские" (то есть люди, застрелянные в спину "что бы подумал" - это правда)
 
 Не может такого быть, скажешь ты.
@@ -85,7 +85,10 @@ https://pikabu.ru/story/kak_pobedit_putinskiy_berkut_ot_vozmozhno_budushchego_pr
 5. "МЫ ДУМАЕМ ЧТО ЛЮДИ ИЗ КРЫМА, ДОНЕЦКА, ЛУГАНСКА ХОТЯТ БЫТЬ ЧАСТЬЮ РОССИИ" ====> ВЫ ГОЛОСОВАЛИ??? ВЫ ПИДАРАСЫ, ВЫ НАЧАЛИ ЭТУ ВОЙНУ В 2014 ПРОСТО ПОТОМУ ЧТО ВАМ ТАК ПОКАЗАЛОСЬ!!! (больше информации про то как голосования должны проходить в более идеальной вселенной - в моей статье /china)
 5. ... другие причины ниже 👇
 
-Крым и Донецк должны вернуться Украине, будьте выше границ, признайте что совершили ошибку, какая разница что было в безумном СССР.
+Крым и Донецк должны вернуться Украине:
+1. все мои друзья из Крыма хотят быть частью Украины
+2. Зеленский построит там дороги и введет "государство в телефоне". Как улучшит Крым путин? Вы уже показали как вы распоряжаетесь Крымом (забрали бизнес крымчан)
+3. вы должны нам за убитых, признайте что совершили ошибку, какая разница что было в безумном СССР.
 </pre>
 
 [MY FRIEND IVAN DOCTOR ABOUT OCCUPIED KHERSON!!!](https://github.com/srghma/srghma.github.io/blob/main/friend-ivan-doctor-from-nova-kahovka-about-a-war.md)
@@ -118,8 +121,13 @@ For people inside of Russia:
 ... What would things have been like if every Security operative, when he went out at night to make an arrest, had been uncertain whether he would return alive and had to say good-bye to his family? Or if, during periods of mass arrests, as for example in Leningrad, when they arrested a quarter of the entire city, people had not simply sat there in their lairs, paling with terror at every bang of the downstairs door and at every step on the staircase, but had understood they had nothing left to lose and had boldly set up in the downstairs hall an ambush of half a dozen people with axes, hammers, pokers, or whatever else was at hand? After all, you knew ahead of time that those bluecaps were out at night for no good purpose. And you could be sure ahead of time that you'd be cracking the skull of a cutthroat. Or what about the Black Maria sitting out there on the street with one lonely chauffeur—what if it had been driven off or its tires spiked? The Organs would very quickly have suffered a shortage of officers and transport and, notwithstanding all of Stalin's thirst, the cursed machine would have ground to a halt!
 
 _____________
+古拉格群岛
 
+第一部-第一章　逮捕
 
+后来在劳改营中他便会痛切感到，如果每个行动人员夜里去执行逮捕时，不知道能不能活着回来，因而也和自己家属诀别的话，那情形会怎样呢？如果在大规模捕人入狱时期，比如在列宁格勒，当把全城四分之一的居民投入监狱的时候，人们不是坐在自己的洞穴里，听到每一次大门砰砰响声和楼梯上的脚步声就吓得发呆——而是明白了他们再也不会失去什么，于是精神抖擞地几人一组手中拿着斧头、锤子、火钩子，拿着顺手拿到的一切东西在自己的门道里设下埋伏，那又会怎样呢？既然早就知道，这些夜间便帽客来者不善——那就给杀人凶手迎头痛击，这决不会错。还有那辆停在街上只坐着一个司机的“乌鸦车”——赶走它，或者扎穿车轮n机关不会马上算出工作人员和车辆的缺额，这样一来，不管斯大林多么渴求，这个可诅咒的机器一定会停下来！
+
+如果……如果……对于后来发生的一切，我们简直是咎由自取。
 
 </pre>
 
@@ -174,7 +182,7 @@ Clash of thoughts create a truth.
 2. Вам можно нападать, а нам нельзя?
 3. Вам можно иметь атомное оружие, а нам нельзя? ("мир, где каждая страна имеет атомное оружие" - это кошмар, я согласен, но ведь (если европа нас не примет в нато) - вы же суки опять устроете у нас Бучу!)
 
-Украина предпринимала больше попыток, заморозить конфликт на Донбассе чем Россия
+Украина предпринимала больше попыток заморозить конфликт на Донбассе, чем Россия
 
 Я хочу, чтобы Украина вернула территории
 1. чтобы на телевидении показывали не только российское телевидение
@@ -223,7 +231,9 @@ I too cannot prove that Bucha happened, Its just more probable for me that this 
 <blockquote><details><summary>"You are brain-washed" / "Your governent was brain-washing you for 8 years to hate Russians"</summary><pre translate=yes>
 Show me how!
 
-Maybe you https://youtu.be/evkr6wG3BY0 ?
+Maybe you?
+
+УКРАЇНА В РОСІЙСЬКИХ ФІЛЬМАХ! Історія промивання мізків народу - https://youtu.be/evkr6wG3BY0
 
 У кого то из нас синдром утенка (мама это тот объект который я увидел сразу после рождения)
 </pre></details></blockquote>
@@ -232,12 +242,12 @@ Maybe you https://youtu.be/evkr6wG3BY0 ?
 <blockquote><details><summary>"почему вы не осуждали войну Луганск и Донецк когда была возможность, а теперь взбесились?"</summary><pre translate=yes>
 а потому что никто не знал что происходит
 
-1. почему люди были против Януковича
+1. почему мои сограждане были против Януковича? (оказалось он был диктатором)
 2. НАТО это хорошо или плохо?
-3. никто не знал что Порошенко продал Украину Путину за денюжки
+3. никто не знал что Порошенко продал Украину Путину за денюжки (bigus info, medvedchuk recordings)
 4. никто не знал где лучше - в России или Украине
-5. тоже верили что Путин хороший
-6. что "Оппозицiйна Партiя За Життя" с Медведчуком и Бойченко хорошие люди
+5. тоже верили что Путин хороший (не я, я никогда не верил в фразу "путин плохой для Украины, но для россии новые территории - это хорошо". Нихуя подобного. Войны, спорт и музыка не приближают нас к самому главному - технологической сингулярности, моменту, когда мы перестанем работать и умирать)
+6. что "Оппозицiйна Партiя За Життя" с Медведчуком и Бойченко хорошие люди (сказала одна женщина из Крыма)
 7. что Тимошенко хорошая
 
 теперь то по крайней мере Я думаю что знаю что где зло
@@ -267,7 +277,7 @@ Maybe you https://youtu.be/evkr6wG3BY0 ?
 <blockquote><details><summary>"People in Donetsk are killed by Ukrainian military"</summary><pre translate=yes>
 
 1. yes, bombed, but who started? who opened the gates of war?
-2. russians faked news https://www.youtube.com/watch?v=M8Z7GGZpkAs
+2. russians faked news "Кто бомбил Донбасс 8 лет?" https://www.youtube.com/watch?v=M8Z7GGZpkAs
 
 
  
@@ -298,7 +308,7 @@ then - revolution
 https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on russian, I write songs on ukrainian"
 
 
- My view: I'm from Rodynskoye Donetsk oblast
+ My view: I am from Rodynskoye Donetsk oblast
 
  Yes, Zelensky did give an order for sellers in shops to speak in ukrainian. Noone cared, everyone were speaking on russian still.
 
@@ -327,22 +337,10 @@ https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on ru
 
 
 <blockquote><details><summary>"All ukrainians are pro-Bandera" => nazis (think that all other nations should die)</summary><pre translate=yes>
-My view: I dont know anything about Bandera
-
-yes, there are monuments to Bandera in Lviv
-
-people from Lviv sneer (or smile, I dont understand) when you mention this monument, probably because its controversial figure
-
-WHY SOME UKRANIANS SAY "glory to Bandera"?
-- because he was pro-Ukraine? maybe they think that he was USING nazis to later betray them?
-
-I THINK things that Stalin did were equally bad to what Hitler did (Holodomor, GULag, right?), maybe Bandera was thinking the same?
-
-I WILL abstain from hailing "glory to Bandera" until I AT LEAST watch "Volhynia (film)" 2016
-
------
 
 https://youtu.be/PbAeMe3cttk?t=323
+
+"With Russian POWs | Police Lieutenant Colonel of SOBR | Astakhov Dmitrii | #LookForYourOwn"
 
 every country have some nasiz movements
 
@@ -358,6 +356,7 @@ https://youtu.be/ARaX2djZYFw?t=4256
 </pre></details></blockquote>
 
 <blockquote><details><summary>"Azov" military division is Nazis? Maybe</summary><pre translate=yes>
+    
 But Nevzorov tells that he have talked with them.
 
 "Maybe they were nazis - but now I don't care, now they save children"
@@ -389,9 +388,9 @@ of course Stalin didnt care - he killed XX% of ukrainians in Holodomor and then 
 <blockquote><details><summary>"Russia have won, Ukraine will not become a part of NATO anymore"</summary><pre translate=yes>
 Thanks to Russia
 
-We now have something better than NATO, 3 days instead of 60
+We now have something better than NATO, IF someone will attack us again THEN NATO will respond in 3 days instead of 60
 
-https://www.youtube.com/watch?v=_AHt79TlZ7k
+https://www.youtube.com/watch?v=_AHt79TlZ7sk
 
 Also we will become a EURO-country
 
@@ -419,9 +418,10 @@ https://youtu.be/aY-VBOYAaSI?t=587
 
 </pre></details></blockquote>
 
-> "IF putin was a bad guy THEN the damage would be even greater"
+> "IF putin was a bad guy THEN the damage have been even greater"
 
 <blockquote><details><summary>"Everything is bad in Russia NOT BECAUSE of putin, BUT because of other countries"</summary><pre translate=yes>
+    
 Nevzorov: putin had a LOT of time to make russia great
 
 Jordan Peterson: If You want to understand a MEANING of actions, You should see a RESULT. RESULT is a MEANING
@@ -437,11 +437,10 @@ Jordan Peterson: If You want to understand a MEANING of actions, You should see 
 A rule of poker game: it's better to exit game late, then not exist at all
 </pre></details></blockquote>
 
-<blockquote><details><summary>"I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre translate=yes>
+<blockquote><details><summary>One russian woman on one video "I don't want a revolution, because revolutions are bad. See what 2014 revolution in Ukraine brought. I will kill anyone who wants to start a revolution in Russia. Better to live under putin / wait until he dies."</summary><pre translate=yes>
 WHY WE DID live bad?
 
-I don't know WHY the revolution 2014 started.
-I heard people were agains Yanukovich. (RIGHT NOW - I am against him too, he is a thief from Donetsk)
+Yanukovich was a thief and dictator
 
 next president was Poroshenko (owner of (po) Roshen company) - he have sold Ukraine and his own people to Putin
 
@@ -464,7 +463,7 @@ What Zelensky promised to do:
 1. electronic voting for a president (just like in Estonia and better)
 2. put Poroshenko in prison
 
-What I wish he would do:
+What I wish he would do also:
 1. WHEN people in liberated Bucha tell "we need this and this" INSTEAD "I will talk with your mayor" BETTER "ok, we will make an application where all people could post proposals to what they need"
 
 </pre></details></blockquote>
@@ -480,6 +479,7 @@ BUT:
 
 
 <blockquote><details><summary>"What is the problem with this world at all? How it is possible that some guy can get such power and become dictator? What to do?"</summary><pre translate=yes>
+    
 there is a way to rotate politicians more often / throw off dictators BEFORE they do wrong:
 
 electronic voting on blockchain
