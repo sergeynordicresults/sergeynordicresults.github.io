@@ -8,6 +8,7 @@ From "God as illusion" by Richard Dawkins:
 
 > "The atheist is the one that gives 99% probability that god doesn't exist". (Because its not possible to prove God exists or doesnt 100%)
 
+<!--
 <details><summary>Details</summary>
 
 
@@ -32,7 +33,7 @@ For example:
     
 </details>
 
- </sub>
+-->
 
  
 
@@ -51,8 +52,9 @@ SUMMARY: god is an "extra variable" to a "function" that works fine without this
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip turning robot". Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" (e.g. viruses, or bacterias, robots with a shell) eat "newly created robots" (without a shell, unstable)? Because there is actually some threshold of "how complex environment can be for organisms to be able to live there"? Environment should not be too boring and not too complex. Environment with already existing organisms is too complex for fresh new organisms to survive)</sup>
-4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me <sup>(eg, this is only my thought, radiation particles fly with big speed, break some molecules, these molecules die, but not so much break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>
+3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip-making robot".)</sup> <!--Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" (e.g. viruses, or bacterias, robots with a shell) eat "newly created robots" (without a shell, unstable)? Because there is actually some threshold of "how complex environment can be for organisms to be able to live there"? Environment should not be too boring (for example, world without winter-spring cycles IS boring) and not too complex. Environment with already existing organisms is too complex for fresh new organisms to survive-->
+4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me
+<!-- <sup>(for example, radiation particles fly with big speed, break some molecules, these molecules die, but "not so much" break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>-->
 
 THIS IS NOT similar to "from nothing a plane was created", because:
 1. we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot"
@@ -62,6 +64,8 @@ SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
 2. Just like in a "Game of Life" automata: you generate random field, give rules, and self-replicating structures appear
 3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
+
+[Drew_Berry_Animations_of_unseeable_biolog.webm](https://github.com/srghma/srghma.github.io/assets/7573215/a04813dc-06ca-4a9e-aaca-69830ea13140)
 
 
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
@@ -294,7 +298,8 @@ This is the New universe, like a bubble amongst other bubbles (other expanding u
 
 ![autodraw 8_10_2022](https://user-images.githubusercontent.com/7573215/183978832-9bbf6d1b-8202-4e07-a302-4ddf565dd70e.png)
 
-![x](https://user-images.githubusercontent.com/7573215/183980214-4de65deb-07ba-4793-9770-caf8fc22be44.png)
+
+[![coffee and cream](https://user-images.githubusercontent.com/7573215/183980214-4de65deb-07ba-4793-9770-caf8fc22be44.png)](https://youtu.be/7BH6XCRZad8?t=665)
 
 
 ---------
@@ -399,6 +404,16 @@ Outcome:
 > Eliezer Yudkowsky: There exists an upper threshold on how smart a being can be. The brain cannot be infinitely dense and big, because after some threshold it will convert itself to a black hole.
 
 > [Richard Dawkins: There once existed a single individual female who was the most recent ancestor shared by you and a baboon. That one individual female had two individual children, one of whom is your ancestor, the other is the baboon’s ancestor](https://richarddawkins.substack.com/p/science-is-the-poetry-of-reality).
+
+> "grokking Deep Learning" by Andrew W. Trask:
+> 
+> <details><summary>Overfitting</summary> <img src="https://github.com/srghma/srghma.github.io/assets/7573215/769f7c25-91a6-42ba-bbb7-1eee543e8486"  alt="overfitting"/> </details>
+>
+> Thats why Elon Musk told "People should be dying, because old people dont want to change their minds!!! because if old people will live forever - humans will stagnate."
+> 
+> We should find solution to this problem, because I dont want old people to die ... Give everyone psychodelic mushrooms?
+
+
 
 --------
 
