@@ -395,7 +395,7 @@ Things I have seen in China, Guangzhou:
 2. lot of big houses
 3. crowds of (senior and young) people gather in parks every evening to fitness-dance (something that would be good to have in every country) - https://en.m.wikipedia.org/wiki/Square_dancing_(China)
 4. One russian guy: Chinese people respond to Europe and America "Why You dont like that we have a dictatorship now? You too had dictatorship at time of ecomonic growth"
-5. One chinese guy: I hate my government. They take half of salary. Lenin preached that "kill parents is fine", in past we were abandoning our parents. Sometimes, if someone has a heart attack and falls on ground - noone will even stop to help.
+5. One chinese guy: I hate my government. They take half of salary. Lenin preached that "kill parents is fine", in past we were abandoning our parents. Sometimes, if someone has a heart attack and falls on ground - noone will even stop to help. (and the reason for this are stupid laws of China? https://www.youtube.com/watch?v=In9LpM8-fEk )
 6. Other chinese guy (artist) have shown me his very good anti-government text and said: Maybe China right now suffers even more than Ukraine. I dont like chinese goverment, because they dont allow us to speak freely about what happened in TianAnMen square. Also, I dont like that we have a God of Money and on holidays we congratulate each other literally saying "I wish You to have lot of money", instead of "I wish You health and happiness"
 7. Yuan has a picture of Mao, but he have killed more chinese people than anyone (it was not only earthquake, but also evil and stupid politics, check above)
 
