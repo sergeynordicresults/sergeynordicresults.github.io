@@ -445,10 +445,10 @@ Thailand, Bangkok:
 
 Summary:
 
-I didnt find proofs that Chinese government is overtly insufficient, therefore - corrupt (not counting closed internet, therefore worsened science, therefore stealing future). Maybe I would find proofs if I knew chinese language better. 
+I didnt find proofs that Chinese government is overtly insufficient, therefore - corrupt (not counting closed internet, therefore worsened science, therefore stealing future). Maybe I would find proofs if I knew chinese language better (people do talk about corruption). 
 
 Good stuff: China has big houses and in Guangzhou all motorcycles are electric (the air is more clean than in Bangkok, therefore king of Thailand is an idiot and dictator). 
 
-But maybe China could be even better use the historical chance (Ray Dalio, all countries have moved their fabrics to China).
+But maybe China could be even better, use the historical chance even better (Ray Dalio, all countries have moved their fabrics to China) IF was more open and didn't desire war with everyone.
 
-Maybe, Xi Jinping is bad planner because "allow YouTube => you will have access to biggest ideas in the universe => better science"
+Maybe, Xi Jinping is a bad planner because "allow YouTube => you will have access to 'biggest ideas in the universe' => better science" and "allow critique government => more problems are solved"
