@@ -113,11 +113,15 @@ For people inside of Russia:
 <pre translate=yes>
 
 Солженицын писал
-
+Архипелаг ГУЛАГ
+    
 Если бы во времена массовых п о с а д о к, например в Ленинграде, когда сажали четверть города, люди бы не сидели по своим норкам, млея от ужаса при каждом хлопке парадной двери шагах на улице,- а поняли бы, что терять им уже дальше нечего, и в своих передних бодро бы делали засады по несколько человек с топорами, молотками, кочергами, с чем придется? Ведь заранее известно, что эти ночные картузы не с добрыми намерениями идут - так не ошибешься, хрястнув по душегубцу. Или тот воронок с одиноким шофером, оставшийся на улице - угнать его либо скаты проколоть.Органы быстро бы не досчитались сотрудников и подвижного состава, и несмотря на всю жажду Сталина остановилась бы проклятая машина! Если бы... Если бы... Не хватало нам свободолюбия.
 
 -----------
 
+The Gulag Archipelago
+Novel by Aleksandr Solzhenitsyn
+    
 ... What would things have been like if every Security operative, when he went out at night to make an arrest, had been uncertain whether he would return alive and had to say good-bye to his family? Or if, during periods of mass arrests, as for example in Leningrad, when they arrested a quarter of the entire city, people had not simply sat there in their lairs, paling with terror at every bang of the downstairs door and at every step on the staircase, but had understood they had nothing left to lose and had boldly set up in the downstairs hall an ambush of half a dozen people with axes, hammers, pokers, or whatever else was at hand? After all, you knew ahead of time that those bluecaps were out at night for no good purpose. And you could be sure ahead of time that you'd be cracking the skull of a cutthroat. Or what about the Black Maria sitting out there on the street with one lonely chauffeur—what if it had been driven off or its tires spiked? The Organs would very quickly have suffered a shortage of officers and transport and, notwithstanding all of Stalin's thirst, the cursed machine would have ground to a halt!
 
 _____________
