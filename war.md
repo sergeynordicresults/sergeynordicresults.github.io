@@ -27,7 +27,7 @@ Russia reaction - send mobile crematoriums.
 
 ---------------
 
-The hair of the women of Mariupol, who died under Russian bombardments, and other remains of houses, are now part of the foundation of new roads, to hide crimes of Russian occupants.
+The hair of the women of Mariupol, who died under Russian bombardments, and other remains of houses, are now part of the foundation of new roads, to cover up crimes of Russian occupants.
 
 They say they attacked us because they "knew something".
 
