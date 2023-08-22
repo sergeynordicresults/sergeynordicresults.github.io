@@ -17,7 +17,9 @@ Thank you to all countries that helped Ukraine
 
 
 ![Why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/3a199313-4288-40fc-9200-8cf54c927acc)
-![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/1b28a7f7-6b39-4e76-9265-6e8bb963e8ee)
+
+
+![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/a14c2f57-937f-42a4-ac08-baf81cc91129)
 
 ![ucraine - Page 5](https://user-images.githubusercontent.com/7573215/235322655-b7d788fe-83f6-4a1b-9f4a-6579b3a23966.jpg)
 
