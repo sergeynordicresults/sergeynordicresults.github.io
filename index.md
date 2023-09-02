@@ -16,10 +16,13 @@ Thank you to all countries that helped Ukraine
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
 
 
-![Why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/3a199313-4288-40fc-9200-8cf54c927acc)
+
+![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/c2634c11-f4ed-4c4c-b25d-56f380bee9bd)
+
 <br>
 
-![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/a14c2f57-937f-42a4-ac08-baf81cc91129)
+![why kill putin2](https://github.com/srghma/srghma.github.io/assets/7573215/95f37ce2-81be-4516-9af4-597d37c6a3a0)
+
 <br>
 ![ucraine - Page 5](https://user-images.githubusercontent.com/7573215/235322655-b7d788fe-83f6-4a1b-9f4a-6579b3a23966.jpg)
 <br>
