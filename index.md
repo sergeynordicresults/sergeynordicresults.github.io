@@ -1,4 +1,4 @@
-
+<!--
 Thank you to all countries that helped Ukraine 
 
 # Posts
@@ -35,7 +35,7 @@ Thank you to all countries that helped Ukraine
 <br>
 ![ucraine - Page 4 (1)](https://user-images.githubusercontent.com/7573215/235322654-0ab64720-2e10-46c4-9a97-a098b9a9a9c4.jpg)
 
-
+-->
 ## Resume
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
@@ -64,6 +64,7 @@ Thank you to all countries that helped Ukraine
   - repo [github.com/srghma-chinese2/srghma-chinese2.github.io](https://github.com/srghma-chinese2/srghma-chinese2.github.io)
   - telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
 
+<!--
 ### Pirated data
 
 1. public folder - Arestovich https://mega.nz/folder/tllCgZ4D#FQbEy_jjFOfOC-YrHhWE5Q (also the "Священная рана" of Arestovich is on rutracker.org)
@@ -122,3 +123,4 @@ What changes do I want to see in Ukraine?
 
 2. public folder - languages https://mega.nz/folder/Nh1TgKTB#d6oo1sTLSah-zwXcz-gCvg
 3. public folder - music https://mega.nz/folder/J5NngKaB#gbDpCvrmX_U8roGLhSJmVg
+-->
