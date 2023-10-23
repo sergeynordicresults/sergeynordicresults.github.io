@@ -5,7 +5,7 @@ Thank you to all countries that helped Ukraine
 
 1. [**🔴 About this universe 🔴**](https://srghma.github.io/universe) (translate to other languages: [Chinese](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp), [Spanish](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp), [Russian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en&_x_tr_pto=wapp), [Ukranian](https://srghma-github-io.translate.goog/universe?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en&_x_tr_pto=wapp))
 
-<!--
+
 2. [My marijuana 👎 and psylocybin 🤏 stories](https://srghma.github.io/psilocybin)
 
 3. [About the war](https://srghma.github.io/war) (tried to get all reasons why were are attacked, but I don't regard this post as good anymore)
@@ -65,11 +65,11 @@ Thank you to all countries that helped Ukraine
   - repo [github.com/srghma-chinese2/srghma-chinese2.github.io](https://github.com/srghma-chinese2/srghma-chinese2.github.io)
   - telegram group [https://t.me/srghmachinese](https://t.me/srghmachinese) (No, I still don't know chinese)
 
-<!--
+
 ### Pirated data
 
 1. public folder - Arestovich https://mega.nz/folder/tllCgZ4D#FQbEy_jjFOfOC-YrHhWE5Q (also the "Священная рана" of Arestovich is on rutracker.org)
-
+<!--
 <table><tr><td>
 
 
@@ -120,9 +120,9 @@ What changes do I want to see in Ukraine?
    
 </td></tr></table>
 
-
+-->
 
 2. public folder - languages https://mega.nz/folder/Nh1TgKTB#d6oo1sTLSah-zwXcz-gCvg
 3. public folder - music https://mega.nz/folder/J5NngKaB#gbDpCvrmX_U8roGLhSJmVg
 
--->
+
