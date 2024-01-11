@@ -63,10 +63,20 @@ THIS IS NOT similar to "from nothing a plane was created", because:
 SUMMARY:
 1. We are descendants of "Self-replicating molecules-robots" that "have been created & created now & will be created until the end of universe" RANDOMLY BUT INEVITABLY
 2. Just like in a "Game of Life" automata: you generate random field, give rules, and self-replicating structures appear
-3. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
 
-[Drew_Berry_Animations_of_unseeable_biolog.webm](https://github.com/srghma/srghma.github.io/assets/7573215/a04813dc-06ca-4a9e-aaca-69830ea13140)
+You can try it here https://copy.sh/life/ or here https://john-conways-game-of-life.netlify.app/ - randomize the field and click on "play" You will see that life is created randomly (btw, there is no algorithm, that predicts if "life will live indefinitely or will stop". To predict - You should run the universe. Classical computers cannot predict, but quantum computers can. "For them, short, long and indefinitely long proofs are equal" (David Deustch))
 
+4. (From book "Selfish Gene" by Richard Dawkins) The "death" property is required for "self-replicating molecule-robots" BECAUSE it allows evolution ==> So, basically, humans became so smart, that are now able to (temporally) escape the death/"natural way of things"
+
+-----------
+
+https://www.youtube.com/watch?v=WFCvkkDSfIU&ab_channel=TED
+
+![Animations of unseeable biology | Drew Berry | TED](https://github.com/srghma/srghma.github.io/assets/7573215/8a4c5315-cf48-4388-b8a1-3c3cfc782ae5)
+
+[Animations of unseeable biology | Drew Berry | TED (excerpt)](https://github.com/srghma/srghma.github.io/assets/7573215/a04813dc-06ca-4a9e-aaca-69830ea13140)
+
+-----------
 
 ![unnamed](https://user-images.githubusercontent.com/7573215/234642011-df810bb9-224d-4dde-a8a9-79cb1b859476.gif)
 
