@@ -41,10 +41,14 @@ Thank you to all countries that helped Ukraine
 
 - [resume.io](https://resume.io/r/gIIVYqKmf)
 - [github.com/srghma](https://github.com/srghma)
+
+## My websites
+
 - [github.com/srghma/srghma.github.io](https://github.com/srghma/srghma.github.io)
 - [linkedin.com/in/srghma](https://www.linkedin.com/in/srghma/)
 - [twitter.com/srghma](https://twitter.com/srghma)
-- [instagram.com/srghma](https://instagram.com/srghma)
+- [instagram.com/srghma](https://instagram.com/srghma) (I post here)
+- [vk.com/srghma](https://vk.com/srghma) (and here too)
 - [couchsurfing.com/people/srghma](https://www.couchsurfing.com/people/srghma)
 - [youtube](https://m.youtube.com/channel/UCeXBynq0xehRgm5ECkr9p2A)
 - [srghma@gmail.com](mailto:srghma@gmail.com)
