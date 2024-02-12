@@ -23,9 +23,9 @@ You will sink into the kind of ["Shephard tone"](https://en.m.wikipedia.org/wiki
 
 But this "Shephard tone" is for the thoughts. It will make You think:
 
-1. "Wow, this thought I had right now is the most interesting thought/notice I had in my life"
-2. "Oh, no, the tought I just had is NOT the most interesting. NOW is the most interesting thought in my life!!!"
-3."No, no, no.... these two are not the most interesting. NOW is the most interesting"
+1. "Wow, this thought I have right now is the most interesting thought/idea I had in my life"
+2. "Oh, no, the thought I had before is NOT the most interesting. NOW is the most interesting thought in my life!!!"
+3. "No, no, no.... these two are not the most interesting. NOW is the most interesting"
 4. ....... and so on, until infinity
 
 ![Shepard_Tones_spectrum_linear_scale](https://user-images.githubusercontent.com/7573215/233840358-6e453cb9-545d-4a61-b64c-ba4c280c66f3.png)
@@ -40,11 +40,11 @@ Summary: dont try it, nothing interesting, just makes **"You can be mesmerized b
 
 
 
-But one interesting thought i indeed had:
+But one interesting thought I indeed had:
 
-1. it's it possible to suffer indefinitely in our universe? (now, we know that the universe will end, check [my post about universe](https://srghma.github.io/universe)!!, so ♾️ not possible?).
+1. is it possible to suffer indefinitely in our universe? (now, we know that the universe will end, check [my post about universe](https://srghma.github.io/universe)!!, so ♾️ not possible?).
 1. to create a brain, put it to the machine of suffering, send it to the space with near light velocity, so that no good human could catch it and disable suffering
-1. what is the maximum of the suffering? `Suffering Force` = `Suffering Time` <sub>(till the end of universe?)</sub> * `Suffering Power` <sub>(neutral networks become accustomed to pain OR it's possible to make it novel all the time?)</sub>
+1. what is the maximum of the suffering? `Suffering Force` = `Suffering Time` <sub>(until the end of the universe?)</sub> * `Suffering Power` <sub>(neutral networks become accustomed to pain OR is it possible to make pain feel novel all the time?)</sub>
 
 # psylocybin
 
@@ -63,7 +63,7 @@ And then, in the subconsiousness, unknown to me:
 
   - **IF** some person has such desires **THEN** what should he do?
   - Should he go to the doctor?
-  - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction?) ? (this desire clearly warps the fabric of reality / breaks fabric of interhuman relations)
+  - Should he rewire his brain to stop wanting this (maybe it's like an alcohol addiction? sociopaths tell this is how they feel when the see weak person, that can be "used" https://m.youtube.com/watch?v=bdPMUX8_8Ms ) ? (this desire clearly warps the fabric of reality / breaks fabric of interhuman relations)
   - Should humans follow their natural wiring at all? <sub>(the whole plot of Doctor House, who the whole series cannot decide what is better: to be a psychopath and have everything OR follow natural wiring and be good. Suffering in both cases， bc Chingiz khan had everything and wasnt happy)</sub>
 
 ### Story:
@@ -80,7 +80,7 @@ So, I was torturing the grown up people, but I couldnt torture children. Instead
 
 Realizations:
 
-1. I understood, that even though I can do horrible stuff, there is some "safety lock/circuit breaker/fuse" that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos. without a theme you will not write a poem. *Stephen Hocking*: it seems like this universe is non-ideal in order for a stuff to exist)
+1. I understood, that even though I can do horrible stuff, there is some "safety lock/circuit breaker/fuse" that doesnt allow me to hurt children. (*Jordan Peterson*: too much order - tyranny, too little - chaos. without a theme you will not write a poem. *Stephen Hawking*: it seems like this universe is non-ideal in order for a stuff to exist)
 2. I understood, that **IF** I was a psychopath [(desire to use people, similar to desire for alcohol)](https://www.youtube.com/watch?v=bdPMUX8_8Ms) OR a child raper OR had some other pathology [(created by insufficient amount of blood in brain)](https://www.youtube.com/watch?v=esPRsT-lmw8) **THEN** I should go to doctor to rewire myself
 3. I understood, that maybe it doesn't make much sence to desire the power too much, bc
   - we will anyway live in abundunce (if we will not destroy ourselves by wars)
@@ -99,13 +99,13 @@ B.c. IF
 1. Ramez Naam "The Nexus Trilogy" <sub>(in future humans will merge all brains with Elon Musk's Neuralink-like technology, will be able to show videos with past, enter each-other's bodies)</sub> 
 2. AND Erwin Schrodinger "My view of the world" <sub> ("in truth, there is only one mind")</sub> 
 3. AND Sean Carroll <sub>("universe and we will not exist forever.")</sub>
-4. AND Michio Kaku <sub>("do whatever you want, you will anyway someday have 1. The device that makes the food from the air 2. Medicine to live until the end of universe")</sub> 
+4. AND Michio Kaku <sub>("one day humans will invent 1. The device that makes the food from the air 2. Medicine to live until the end of universe")</sub> 
 
 are right THEN there is no need:
 
 
 1. to lie 
-2. to hide information 
+2. to hide information (we can read minds https://m.youtube.com/watch?v=nsjDnYxJ0bo , since human mind is classical computer, but how about mind implemented in quantum computer? is it really true that it is not possible to have secrets in this universe?)
 3. to cheat 
 4. to do horrible stuff to advance on the ladder
 
