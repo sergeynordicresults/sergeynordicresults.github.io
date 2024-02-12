@@ -4,7 +4,7 @@
 
 <details><summary>Marijuana in Ukraine</summary>
   
-In Ukraine, bc marijuana is not legalized, it is actually sold out with chemicals (<sup>bosses should be in jail, previous mayor of Pokrovsk city is a drug lord, ask people his name, probably he even put on fire a car of other guy who wants to be a mayor</sup>), that cause damage to the brain. And then, stupid children like me buy it, cause damage, and then think *"WOW, i think I am less smart than I was"*
+In Ukraine, because marijuana is not legalized, it is actually sold out with chemicals (<sup>bosses should be in jail, previous mayor of Pokrovsk city is a drug lord</sup>), that cause damage to the brain. And then, stupid children like me buy it, cause damage, and then think *"WOW, i think I am less smart than I was"*
   
 
 *LEARN FROM MY MISTAKES!!!*
