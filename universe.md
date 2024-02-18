@@ -207,13 +207,11 @@ THUS (!!!!): IF you do "atom-per-atom cloning" (i.e. one does NOT destroy "origi
 
 NO, souls don't exist (!!!)
 
+#### `3.` ([from "Harry Potter and methods of rationality" by Eliezer Yudkowsky](https://hpmor.com/)) souls don't exist, because brain injuries exist and remove ability to speak
 
+> I shouldn’t have believed it even for all of thirty seconds! Because if people had souls there wouldn’t be any such thing as brain damage, if your soul could go on speaking after your whole brain was gone, how could damage to the left cerebral hemisphere take away your ability to talk?
 
-#### `3.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
-
-Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there are TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
-
-#### `4.` (from "Harry Potter and methods of rationality" by Eliezer Yudkowsky) souls don't exist because brain injuries DO EXIST
+#### `4.` (mine) souls don't exist, because brain injuries exist and make people evil
 
 A guy was a good man, but then his head was injured (a brick fall on his head.) and he became angry, evil, started to kill. 
 
@@ -221,6 +219,9 @@ SOUL?
 
 God dropped a brick on his head! God, you are an asshole! This man was good, just like you wanted, but now he has to go to hell. Dont blame it on devil, because you created this universe and devil and rules.
 
+#### `5.` (Sam Harris proof) https://en.wikipedia.org/wiki/Alien_hand_syndrome
+
+Souls don't exist because one can divide the connection between two hemispheres (a little, just like this is done to treat epilepsy), and now human body will act as if there are TWO humans live in ONE body (e.g. one hand is putting closes on, while the other puts them off)
 
 
 
