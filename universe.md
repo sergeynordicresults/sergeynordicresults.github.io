@@ -1,4 +1,3 @@
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgX_vBApYt6eucjQmiTRRb_BLyJu-wvdE2ubzTA6L5tj1Bqr0fu8Rn9f8s_x3EVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Interesting things I have found
