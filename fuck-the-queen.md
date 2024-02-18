@@ -7,7 +7,7 @@
 
 -->
 
-majority of chairs:
+Point 2 - "majority of chairs" explained:
 
 1. to prevent vetocracy (like in USA) - there are lot of proposals to change country, but none of them are implemented, because of bad "proportional representation" algorithm (described in "beginning of infinity" book, parties, that noone cares about, that get 0.5 of chair, algorithm converts 0.5 to 1, which is good, buuuuut.... why not make number of chairs equal to number of people that live in usa? quadratic voting? condorcet rating-based voting?)
 
