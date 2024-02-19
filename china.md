@@ -8,7 +8,7 @@ war slows progress + putin started the war first = putin is bastard
 
 China helps putin (trades with rissia while all other countries sanctioned russia to FORCE russian people to make a revolution) after Bucha massacre == help japanese killers after NanJing and 'Unit 731 experiments on humans'.
 
-History is cyclical.
+Hey, China, history is cyclical, You know? What You do to us (Ukrainians), will return to You! (Just kidding, history is not cyclical, this is same as telling "induction is true scientific method", but no, induction is not true (David Deutsch). History depends on creation of new knowledge. And no one can predict the content of new knowledge)
 
 Therefore: Xi Jinping is an idiot.
 
