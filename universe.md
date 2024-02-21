@@ -10,10 +10,7 @@ From "God as illusion" by Richard Dawkins:
 
 > "The atheist is the one that gives 99% probability that god doesn't exist". (Because its not possible to prove God exists or doesnt 100%)
 
-<!--
 <details><summary>Details</summary>
-
-
     
 1. Because its similar to ["Dragon lives in my garage, but You cannot see it because its invisible"](https://www.skeptical-science.com/critical-thinkers/dragon-garage-carl-sagan/). 
     
@@ -29,13 +26,9 @@ For example:
 
  2. Neil deGrass Tyson "Bear in the cave"
     
-    This is how science works - we will never be sure that universe is made from atoms, and not candies
-
 <sub>You and a friend are hiking deep into the woods and find a cave. You want to go in and explore the cave, but your friend thinks there could be a bear inside. Given what you already know about the area – such as the lack of nearby water and food a bear would need to survive, a lack of visible tracks or trampled vegetation, and information from nearby park rangers about bear locations – you consider the danger to be near zero. Your friend is not convinced and says there’s no way to prove there are no bears without going in. So, you take out a solar panel to power your cell phone and stream video of the cave’s entrance to your home computer for later review. For the rest of the week you review the footage and see no bears. You show the evidence to your friend, but they are still not convinced… maybe the bear is hibernating, or maybe the cave is part of a larger cave system and bears don’t have to use the entrance you found. You admit that is possible and proceed to research bear hibernation and get maps of the known cave systems in the woods. You find detailed drawings of the caves and they are well documented. No other pathways connect to that cave. By now you have weeks of video footage with not a single bear. You continue to review footage over the span of an entire year. At this point, you have proven the non-existence of a bear in the cave beyond reasonable doubt. However, your friend argues that without going into the cave yourself, you can never say for certain. The friend’s claim cannot be supported without the bear having supernatural abilities to never feed, never be seen, and never leaves tracks.</sub>
     
 </details>
-
--->
 
  
 
@@ -54,9 +47,21 @@ SUMMARY: god is an "extra variable" to a "function" that works fine without this
 Life appeared like this:
 1. in the "infinite" (?) universe appeared "infinite" (?) number of atoms
 2. atoms started to connect together into molecules with random properties
-3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip-making robot".)</sup> <!--Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" (e.g. viruses, or bacterias, robots with a shell) eat "newly created robots" (without a shell, unstable)? Because there is actually some threshold of "how complex environment can be for organisms to be able to live there"? Environment should not be too boring (for example, world without winter-spring cycles IS boring) and not too complex. Environment with already existing organisms is too complex for fresh new organisms to survive-->
+3. some molecules DID have the "self-replication" property (they made copies of themselves), these are our ancestor-molecules <sup>(The natural "paperclip-making robot".)</sup>
+
+<details><summary><sup>Details</sup></summary>
+    
+Why we dont see them around us? Because they are more probable to appear in water near heat source, and not in air? Because "already existing robots" (e.g. viruses, or bacterias, robots with a shell) eat "newly created robots" (without a shell, unstable)? Because there is actually some threshold of "how complex environment can be for organisms to be able to live there"? Environment should not be too boring (for example, world without winter-spring cycles IS boring) and not too complex. Environment with already existing organisms is too complex for fresh new organisms to survive
+    
+</details>
+
 4. our ancestor "self-replicating molecule-robot" was sufficiently stable to not die, and sufficiently malleable to mutate and evolution into you and me
-<!-- <sup>(for example, radiation particles fly with big speed, break some molecules, these molecules die, but "not so much" break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because with a death switch inside to continue evolution. soon we will remove this switch)</sup>-->
+
+<details><summary><sup>Details</sup></summary>
+    
+for example, radiation particles fly with big speed, break some molecules, these molecules die, but "not so much" break other molecules, and these molecules change itself and have new properties. Then some molecules became stronger, but not malleable and stopped to evolve, and others are stronger, but still malleable, because have a "death switch" inside to continue evolution. Soon we will remove this switch
+
+</details>
 
 THIS IS NOT similar to "from nothing a plane was created", because:
 1. we need (for example) just 1000 atoms to arrange properly to create a "self-replicating molecule-robot"
