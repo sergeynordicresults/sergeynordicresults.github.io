@@ -339,9 +339,15 @@ https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 
 <pre translate=yes>
 Q: What IS an entropy?
-A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture, that an OBSERVER (human) is seeing"
+A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture, that an OBSERVER (human) is seeing".
+
+Energy is more usable when it is concentrated. less usable when spread out. entropy shows how spread out is energy. https://www.youtube.com/watch?v=DxL2HoqLbyA
+
+> second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. [fabric of reality]
 
 High entropy = lot of "disk space" is needed to store the information about the "picture, that OBSERVER is seeing"
+
+    
 
 By this I mean: the definition of entropy is tied to a fact, that the only way for us (humans / observers / instruments that can detect and react on changes) to find the "location" and "speed" of an object (e.g. atom) is by using a light, but light is a wave
 
