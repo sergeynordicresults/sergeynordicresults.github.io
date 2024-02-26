@@ -341,7 +341,9 @@ https://bartoszmilewski.com/2018/03/28/life-and-thermal-death-in-the-universe/
 Q: What IS an entropy?
 A: entropy is number that shows HOW MANY "different arrangements of atoms" would give the "picture, that an OBSERVER (human) is seeing".
 
-Energy is more usable when it is concentrated. less usable when spread out. entropy shows how spread out is energy. the energy we get from sun is steady stream of low entropy, that is concentrated bundled up energy. https://www.youtube.com/watch?v=DxL2HoqLbyA
+Energy is more usable when it is concentrated. less usable when spread out. entropy shows how spread out is energy. the energy we get from sun is steady stream of low entropy, that is concentrated bundled up energy. one photon coming to earth equal to 20 photons leaving.  https://www.youtube.com/watch?v=DxL2HoqLbyA
+
+Why ants exist? imagine a sugar fall on a ground. when the orderly energy of sugar will be transformed to unorderly energy? IF life doesn't exist THEN "when black hole will swallow sugar and dissipate it back into universe as Hawking radiation" ELSE "when ant will eat sugar to dissipate its energy as heat and movement".
 
 > second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. [fabric of reality]
 
