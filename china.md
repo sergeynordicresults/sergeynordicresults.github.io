@@ -71,7 +71,7 @@ Just like japanese people now saying and teaching in schools that Nanjing didn't
 ![SmartSelect_20230804-135023_Kiwi Browser](https://github.com/srghma/srghma.github.io/assets/7573215/c9a083cb-d625-4a01-a0ac-b877102c86b3)
 ![SmartSelect_20230804-135447_Kiwi Browser](https://github.com/srghma/srghma.github.io/assets/7573215/1ca1aeab-3a66-49fc-8b0b-0b566004a7c0)
 
-
+More about it: [1](https://realworldhistory.quora.com/?__ni__=0&__tiids__=124608131&__filter__=all&__nsrc__=notif_page&__sncid__=49911311474&__snid3__=66849971573#anchor)
 
   Just like old german woman were saying "No, this is all fake", when they saw a pile of skulls of dead jew people near the cremation furnaces 
   
