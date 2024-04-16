@@ -6,6 +6,9 @@
 ваши дети будут ненавидеть вас
 
 -->
+
+![change](https://github.com/srghma/srghma.github.io/assets/7573215/10a081f1-ba0a-45c4-a4f6-e6e4358e9c01)
+
 Point 1 - "make all people of a country - members of parliament" is called Liquid democracy 
 
 Point 2 - "majority of chairs" explained:
@@ -22,4 +25,3 @@ ALSO HOW TO prevent vetocracy (like in USA)? there are lot of proposals to chang
 
 
 
-![change](https://github.com/srghma/srghma.github.io/assets/7573215/10a081f1-ba0a-45c4-a4f6-e6e4358e9c01)
