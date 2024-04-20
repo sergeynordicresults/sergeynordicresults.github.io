@@ -36,17 +36,16 @@ THE END.
 
 # Preservation of cultures or languages
 
-Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture with their weekly holidays on "killing people and ripping their hearts out".
+Preservation of cultures or languages is not the utmost importance for me. I am not going to save the php language from extinction, I would not save the aztec culture (with their weekly holidays of "killing people and ripping their hearts out").
 
-I am not fighting to save the ucranian (though, it would be painful) or other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ukraine I am fighting because noone wants to live in russian dicratorship)
+I am not fighting to save the ukranian (though, it would be painful) or other other language from extinction when there exists aritificial language [Ithkuil](https://en.m.wikipedia.org/wiki/Ithkuil) which allows to express all possible tenses and moods. (For Ukraine I am fighting because noone wants to live in russian dicratorship)
 
 "The difference between dialects and languages is only in a presence of army"
-  
 
-I don't care about Ukrainian culture or Russian culture, the main question is who started the war.
+I don't care about Ukrainian culture or Russian culture, the main question is "who started the war? who opened gates of hell? which country allows better error-correction? who have torn up a vagina of elbow-sized baby in Bucha?".
 
-We should not use "culture problem" in the arguments, it's too subjective, some people want to preserve it, others don't. 
+We should not use "culture problem" in the arguments, it's too subjective: some people want to preserve it, others don't. 
   
-But the "amount of happiness in 1 square meter / amount of optimizations" can be measured, this is more scientific argument.
+But the "amount of happiness in 1 square meter / amount of optimizations" can be measured! this is more scientific argument.
   
-Ukranian language was dying, country is in charge for it's language. So: at home You can speak any language, default language to use at schools and with clients at shops - language of a country
+Ukranian language was dying, and a country is in charge for it's language. THEREFORE: at home You can speak any language, but at schools and when saying 'hello' to clients at shops - please use default language, language of a country
