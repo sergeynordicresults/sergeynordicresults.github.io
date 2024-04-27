@@ -387,6 +387,8 @@ So, based on Stephen Wolfram "New science": in the plainness of energies new uni
 
 > Eliezer Yudkovsky in a story about a funeral of his small brother: people were coming and saying "so sorry about Your loss" and only one have said "we have to be faster, we have to fix death faster". THEREFORE never say to me "I'm sorry", say "we have to be faster"
 
+> Eliezer Yudkovsky: I want to see the marriage of my 1 million'th grandson on Alpha Centaura. i what to meet every human being, one by one, and become friends with each of them
+
 > "Harry Potter and methods of rationality": imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
 
 > "Harry Potter and methods of rationality": IF humans would really believe in a "life after death" THEN they would commit suicide
@@ -437,10 +439,9 @@ Outcome:
 > 
 > <details><summary>Overfitting</summary> <img src="https://github.com/srghma/srghma.github.io/assets/7573215/769f7c25-91a6-42ba-bbb7-1eee543e8486"  alt="overfitting"/> </details>
 >
-> Thats why Elon Musk told "People should be dying, because old people dont want to change their minds!!! because if old people will live forever - humans will stagnate."
+> Overfitting - this is why Elon Musk told "People should be dying, because old people dont want to change their minds!!! THEREFORE if old people will live forever - humans will stagnate THEREFORE I, Elon Musk, want to die"
 > 
-> We should find solution to this problem, because I dont want old people to die ... Give everyone psychodelic mushrooms?
-
+> But this is stupid. Overfitting can be fixed without killing AI. We should find solution to this problem, because I dont want my parents to die ... Give everyone psychodelic mushrooms? 🍄 Neurofeedback devise that can notice when human is telling something that he doesn't believe and can notify human about this 💡 (idea of Eliezer Yudkovsky) 
 
 
 --------
