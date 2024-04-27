@@ -383,7 +383,9 @@ So, based on Stephen Wolfram "New science": in the plainness of energies new uni
 
 ## P.S.
 
-> "Harry Potter and methods of rationality": imagine you were born in on a planet with a tradition to beat people with a stick to a head every day at 12pm. Soon people would tell that it's actually good to be beaten, e.g. your scull becomes stronger (it's called "to change perception of problem to reduce the cognitive dissonance"). The same is with our attitude to a death: somehow we think that being dead is better than alive.
+> "Harry Potter and methods of rationality": imagine you arrived on a planet with a tradition - they beat themselves with a stick to a head every day at 12pm. You would notice that people "tell that it's actually good to be beaten, e.g. your scull becomes stronger" (it's called "to change perception of problem to reduce the cognitive dissonance"). But You are from planet where people dont beat themselves with a stick to a head, whatever they say will be stupid for You. The same is with our attitude to a death: somehow we think that being dead is better than alive.
+
+> Eliezer Yudkovsky in a story about a funeral of his small brother: people were coming and saying "so sorry about Your loss" and only one have said "we have to be faster, we have to fix death faster". THEREFORE never say to me "I'm sorry", say "we have to be faster"
 
 > "Harry Potter and methods of rationality": imagine you came to work and see that a guy beats a printer. The first thing you will think is that a guy have problems with a head or a bad character, but the guy will think that he is a good person that just had a bad day
 
