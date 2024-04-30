@@ -52,7 +52,7 @@ But one interesting thought I indeed had:
 
 ### Prelude: 
 
-Once, my friend have shown me one very bad video, that I couldn't watch it even for a second. I will not tell the content of this video, but it involves an infant and a man.
+Once, my friend have shown me one very bad video, that I couldn't watch it even for a second. It was a child-porn video, it involves an elbow-sized infant (female), a table and a man.
 
 My first thought was: This should not be forgotten!
 
