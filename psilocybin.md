@@ -48,11 +48,11 @@ But one interesting thought I indeed had:
 
 # psylocybin
 
-⚠️ **It will not make you better/more compassioned person (without reading Eliezer Yudkowsky), as it didnt make Charles Manson a better person** ⚠️
+⚠️ **It will not make you better/more compassionate person (without reading Eliezer Yudkowsky), as it didnt make Charles Manson a better person** ⚠️
 
 ### Prelude: 
 
-Once, my friend have shown me one very bad video, that I couldn't watch it even for a second. It was a child-porn video, it involves an elbow-sized infant (female), a table and a man.
+Once, my friend have shown me one very bad video that someone posted on 2ch, that I couldn't watch it even for a second. It was a child-porn video, it involves an forehand-sized infant (female), a table and a man.
 
 My first thought was: This should not be forgotten!
 
