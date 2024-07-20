@@ -324,7 +324,7 @@ https://www.youtube.com/watch?v=VMlkPbwCh3c - Serhii Babkin "I write songs on ru
 
  1. I THINK in a russian language
  2. I DIDNT like ukrainian langauge (language of villigies)
- 3. now I DO like it
+ 3. now I hate russian and love Ukranian
     a. because of Bucha
     b. because блять is not a ukrainian word
     c. because ukrainian separates кохання and любов
