@@ -16,27 +16,21 @@ Thank you to all countries that helped Ukraine
 5. [China](https://srghma.github.io/china) (preventing future war with Taiwan and America) 
 
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
-
-
+  
+5. [My substack](https://srghma.substack.com/)
 
 ![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/c2634c11-f4ed-4c4c-b25d-56f380bee9bd)
-
 <br>
-
 ![why kill putin2](https://github.com/srghma/srghma.github.io/assets/7573215/95f37ce2-81be-4516-9af4-597d37c6a3a0)
-
 <br>
-
 ![ucraine - Page 5](https://user-images.githubusercontent.com/7573215/235322655-b7d788fe-83f6-4a1b-9f4a-6579b3a23966.jpg)
-
 <br>
-
 ![ucraine - Page 2](https://user-images.githubusercontent.com/7573215/235322714-59830b34-36af-4155-b8eb-d2f31579e88c.jpg)
 <br>
 ![ucraine - Page 3](https://user-images.githubusercontent.com/7573215/235322653-b4fa2001-48ea-4b90-8759-7d89c4e1f3ed.jpg)
 <br>
 ![ucraine - Page 4 (1)](https://user-images.githubusercontent.com/7573215/235322654-0ab64720-2e10-46c4-9a97-a098b9a9a9c4.jpg)
--->
+
 
 ## Resume
 
@@ -47,7 +41,9 @@ Thank you to all countries that helped Ukraine
 
 - [github.com/srghma/srghma.github.io](https://github.com/srghma/srghma.github.io)
 - [linkedin.com/in/srghma](https://www.linkedin.com/in/srghma/)
-- [twitter.com/srghma](https://twitter.com/srghma)
+- [x.com/srghma](https://x.com/srghma)
+- [x.com/melgaardbjorn](https://x.com/melgaardbjorn)
+- [x.com/AntipenkoL3792](https://x.com/AntipenkoL3792)
 - [instagram.com/srghma](https://instagram.com/srghma) (I post here)
 - [vk.com/srghma](https://vk.com/srghma) (and here too)
 - [couchsurfing.com/people/srghma](https://www.couchsurfing.com/people/srghma)
