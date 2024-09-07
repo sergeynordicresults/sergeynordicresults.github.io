@@ -18,6 +18,8 @@ Thank you to all countries that helped Ukraine
 5. How to learn [languages](https://srghma.github.io/how-to-learn-languages)
   
 5. [My substack](https://srghma.substack.com/)
+   
+5. [What I will do if become a president](https://github.com/pluralitybook/plurality/issues/963) (TLDR - I will become first Plank-second president)
 
 ![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/c2634c11-f4ed-4c4c-b25d-56f380bee9bd)
 <br>
