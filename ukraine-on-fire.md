@@ -12,7 +12,7 @@ He have sent it to me and said "maybe in future we will see the whole truth" (LO
 
 Film gives a feeling that putin and yanukovich are good guys.
 
-And makes easy to believe that war in Ukraine 2022 was created by America https://twitter.com/srghma/status/1641343143575445506?s=20
+And makes easy to believe that war in Ukraine 2022 was created by America https://x.com/srghma/status/1641343143575445506?s=20 https://x.com/srghma/status/1813013643921137695
 
 
 # But they don't tell about
