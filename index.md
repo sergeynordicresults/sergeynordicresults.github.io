@@ -21,6 +21,10 @@ Thank you to all countries that helped Ukraine
    
 5. [What I will do if become a president](https://github.com/pluralitybook/plurality/issues/963) (TLDR - I will become first Plank-second president)
 
+6. [How Stalin 🇷🇺, Mao 🇨🇳 and PolPot 🇰🇭 violated Pareto Principle and caused deaths 🥀](https://x.com/srghma/status/1776112551476253154)
+6. [Как ты относишься к войне в 🇮🇶 Ираке?](https://x.com/srghma/status/1774665183803453521)
+ 
+
 ![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/c2634c11-f4ed-4c4c-b25d-56f380bee9bd)
 <br>
 ![why kill putin2](https://github.com/srghma/srghma.github.io/assets/7573215/95f37ce2-81be-4516-9af4-597d37c6a3a0)
