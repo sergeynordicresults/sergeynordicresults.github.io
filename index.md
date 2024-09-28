@@ -24,6 +24,7 @@ Thank you to all countries that helped Ukraine
 6. [How Stalin 🇷🇺, Mao 🇨🇳 and PolPot 🇰🇭 violated Pareto Principle and caused deaths 🥀](https://x.com/srghma/status/1776112551476253154)
 6. [Как ты относишься к войне в 🇮🇶 Ираке?](https://x.com/srghma/status/1774665183803453521)
  
+6. [Сливы разговоров с разными ублюдками, нацистами, убийцами, предателями / Leaked conversations with various scumbags, nazis, murderers, traitors](https://mega.nz/folder/V4NziRSZ#fbpMp9l7hvSOJWozmC3TrQ)
 
 ![why kill putin](https://github.com/srghma/srghma.github.io/assets/7573215/c2634c11-f4ed-4c4c-b25d-56f380bee9bd)
 <br>
