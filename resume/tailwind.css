@@ -1,4 +1,4 @@
-@import "./docs/jost.css" layer(base);
+@import "./jost.css" layer(base);
 @import "tailwindcss";
 
 @config './tailwind.config.js';
